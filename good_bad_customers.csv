@@ -1,0 +1,1724 @@
+month,credit_amount,credit_term,age,sex,education,product_type,having_children_flg,region,income,family_status,phone_operator,is_client,bad_client_target
+3.0,15500.0,12.0,28.0,male,Higher education,Household appliances,0,2,26000.0,Married,1,0,No
+3.0,25500.0,16.0,22.0,female,Secondary special education,Cell phones,0,2,31000.0,Another,0,1,No
+4.0,31000.0,18.0,32.0,female,Secondary special education,Cell phones,0,2,13000.0,Another,1,1,Yes
+4.0,23500.0,10.0,22.0,female,Secondary special education,Household appliances,0,2,31000.0,Another,1,1,No
+7.0,8000.0,8.0,31.0,female,Secondary special education,Computers,0,2,31000.0,Another,0,0,No
+7.0,18000.0,10.0,35.0,male,Secondary education,Furniture,1,2,101000.0,Another,1,0,No
+7.0,127000.0,15.0,50.0,female,Higher education,Tourism,1,2,66000.0,Another,1,1,No
+10.0,19000.0,4.0,60.0,male,Secondary special education,Furniture,0,2,9000.0,Married,1,0,No
+7.0,35000.0,6.0,42.0,female,Secondary special education,Household appliances,1,2,51000.0,Another,2,1,No
+3.0,37000.0,12.0,26.0,male,Higher education,Household appliances,1,2,27000.0,Married,3,0,No
+2.0,31000.0,16.0,56.0,male,Secondary special education,Cell phones,1,2,33000.0,Another,0,1,No
+12.0,9000.0,12.0,32.0,male,Secondary special education,Cell phones,1,2,13000.0,Another,1,0,Yes
+2.0,13500.0,6.0,24.0,female,Higher education,Construction Materials,0,2,21000.0,Another,0,1,No
+12.0,22000.0,12.0,37.0,male,Secondary special education,Household appliances,1,2,22000.0,Another,1,0,No
+7.0,23500.0,6.0,36.0,male,Higher education,Household appliances,1,2,31000.0,Another,1,0,No
+1.0,37500.0,3.0,40.0,female,Higher education,Household appliances,1,0,51000.0,Another,1,1,No
+1.0,31500.0,6.0,39.0,male,Secondary special education,Cell phones,0,0,42000.0,Married,1,1,No
+11.0,10000.0,12.0,29.0,male,Higher education,Cell phones,1,2,24000.0,Married,2,0,Yes
+2.0,22000.0,12.0,49.0,female,Secondary special education,Computers,1,2,41000.0,Another,0,1,No
+7.0,57000.0,8.0,26.0,female,Higher education,Furniture,1,2,31000.0,Another,4,1,No
+1.0,10500.0,10.0,49.0,female,Secondary special education,Household appliances,0,0,16000.0,Another,1,1,No
+2.0,11000.0,3.0,29.0,female,Secondary special education,Furniture,0,1,31000.0,Another,1,1,No
+4.0,22000.0,4.0,24.0,female,Secondary education,Jewelry,0,0,61000.0,Married,4,1,Yes
+5.0,22500.0,12.0,62.0,male,Higher education,Windows & Doors,1,2,16000.0,Married,3,1,No
+11.0,27000.0,10.0,25.0,male,Higher education,Household appliances,0,2,31000.0,Another,3,1,No
+10.0,5500.0,6.0,26.0,female,Secondary education,Cell phones,0,2,21000.0,Another,0,1,No
+11.0,14000.0,12.0,31.0,male,Secondary special education,Clothing,1,2,16000.0,Another,1,1,No
+6.0,48500.0,6.0,25.0,female,Higher education,Computers,0,1,91000.0,Married,1,0,No
+6.0,30000.0,18.0,26.0,male,Secondary special education,Cell phones,1,2,33000.0,Another,1,1,Yes
+4.0,15000.0,10.0,34.0,male,Secondary special education,Furniture,0,2,19000.0,Another,1,0,No
+5.0,85500.0,15.0,44.0,female,Secondary special education,Furniture,1,2,41000.0,Another,1,0,No
+4.0,12000.0,6.0,47.0,female,Secondary education,Cell phones,0,2,31000.0,Another,0,1,No
+10.0,12500.0,6.0,24.0,female,Secondary special education,Household appliances,0,2,23000.0,Another,1,0,No
+7.0,19000.0,12.0,73.0,male,Secondary special education,Windows & Doors,0,2,16000.0,Another,0,1,No
+3.0,44000.0,12.0,41.0,female,Secondary special education,Computers,1,2,81000.0,Married,0,1,No
+7.0,15000.0,6.0,22.0,female,Secondary special education,Computers,0,2,19000.0,Another,0,1,No
+1.0,10000.0,11.0,42.0,male,Secondary special education,Household appliances,1,2,21000.0,Married,0,1,No
+12.0,16500.0,12.0,25.0,female,Higher education,Household appliances,0,2,36000.0,Another,0,0,No
+7.0,48000.0,24.0,35.0,male,Secondary education,Auto,1,2,16000.0,Married,3,1,No
+5.0,7000.0,3.0,58.0,male,Secondary special education,Household appliances,1,2,31000.0,Another,0,1,No
+10.0,34000.0,12.0,54.0,male,Secondary special education,Household appliances,0,2,11000.0,Another,1,1,No
+9.0,17500.0,24.0,35.0,female,Higher education,Furniture,1,2,41000.0,Another,1,1,No
+12.0,38000.0,10.0,54.0,male,Secondary special education,Audio & Video,0,2,44000.0,Another,0,1,No
+12.0,30000.0,4.0,68.0,male,Higher education,Clothing,0,0,41000.0,Another,2,1,No
+12.0,17500.0,10.0,64.0,female,Higher education,Cell phones,0,2,36000.0,Married,1,1,No
+7.0,16500.0,5.0,34.0,male,Secondary special education,Household appliances,0,2,18000.0,Another,0,1,No
+11.0,33500.0,12.0,53.0,female,Secondary education,Furniture,0,2,19000.0,Another,3,1,No
+3.0,69000.0,24.0,42.0,male,Secondary special education,Household appliances,1,2,36000.0,Another,0,0,No
+10.0,28500.0,24.0,31.0,female,Secondary special education,Household appliances,1,2,31000.0,Another,3,0,No
+1.0,15000.0,6.0,33.0,female,Secondary special education,Furniture,1,2,14000.0,Another,2,0,No
+8.0,22500.0,12.0,19.0,female,Secondary special education,Cell phones,0,2,31000.0,Another,0,1,No
+12.0,17000.0,12.0,36.0,female,Secondary special education,Cell phones,0,2,41000.0,Married,2,1,No
+2.0,10000.0,6.0,23.0,female,Incomplete higher education,Household appliances,1,2,19000.0,Another,0,0,No
+8.0,43000.0,10.0,33.0,male,Secondary special education,Windows & Doors,1,0,28000.0,Married,0,0,No
+4.0,63500.0,15.0,23.0,male,Secondary special education,Tourism,0,0,34000.0,Another,0,0,No
+8.0,9500.0,6.0,45.0,male,Secondary special education,Household appliances,1,2,24000.0,Another,0,1,Yes
+11.0,31000.0,12.0,21.0,male,Higher education,Household appliances,1,0,36000.0,Another,2,0,No
+5.0,19000.0,24.0,28.0,male,Secondary special education,Household appliances,0,2,31000.0,Another,1,1,No
+2.0,29000.0,11.0,25.0,male,Higher education,Fitness,0,0,56000.0,Married,1,1,No
+9.0,7000.0,12.0,37.0,male,Secondary special education,Cell phones,1,0,31000.0,Another,3,1,No
+4.0,34500.0,12.0,26.0,male,Secondary special education,Furniture,1,2,76000.0,Married,1,0,No
+2.0,12500.0,4.0,32.0,male,Secondary education,Computers,1,2,19000.0,Married,2,1,No
+3.0,31000.0,12.0,22.0,female,Incomplete higher education,Cell phones,0,2,31000.0,Another,2,1,No
+11.0,18500.0,12.0,33.0,male,Secondary special education,Household appliances,1,2,16000.0,Another,0,1,No
+6.0,44000.0,12.0,23.0,female,Secondary special education,Computers,0,2,23000.0,Another,0,0,No
+4.0,32500.0,24.0,26.0,female,Incomplete higher education,Household appliances,0,0,121000.0,Another,1,0,No
+1.0,26000.0,10.0,38.0,male,Higher education,Household appliances,1,0,51000.0,Another,3,0,No
+4.0,19000.0,12.0,27.0,female,Secondary special education,Cell phones,0,0,31000.0,Married,0,0,No
+4.0,36500.0,24.0,44.0,male,Secondary special education,Windows & Doors,1,0,26000.0,Married,3,1,No
+2.0,6500.0,10.0,38.0,male,Higher education,Cell phones,1,2,16000.0,Another,1,0,No
+11.0,63500.0,24.0,26.0,male,Higher education,Household appliances,1,2,56000.0,Another,2,1,No
+1.0,30000.0,12.0,26.0,female,Secondary special education,Cell phones,0,2,41000.0,Another,2,0,No
+5.0,14500.0,10.0,35.0,male,Secondary special education,Cell phones,1,2,40000.0,Another,1,1,No
+3.0,51500.0,8.0,34.0,female,Higher education,Training,0,0,51000.0,Another,0,0,No
+2.0,54000.0,3.0,45.0,male,Higher education,Household appliances,0,2,101000.0,Married,3,1,No
+11.0,32500.0,12.0,32.0,female,Secondary special education,Cell phones,0,0,36000.0,Married,1,1,No
+4.0,15000.0,10.0,65.0,male,Secondary special education,Jewelry,0,2,11000.0,Married,2,0,No
+3.0,26000.0,8.0,31.0,female,Secondary special education,Computers,0,2,36000.0,Another,0,0,No
+1.0,26500.0,18.0,24.0,male,Secondary education,Cell phones,0,2,26000.0,Another,1,1,No
+1.0,12000.0,10.0,26.0,male,Higher education,Household appliances,0,2,26000.0,Married,1,0,No
+3.0,27500.0,12.0,30.0,female,Higher education,Household appliances,0,0,21000.0,Another,1,0,No
+6.0,25500.0,11.0,31.0,male,Higher education,Fitness,0,0,66000.0,Another,2,0,No
+3.0,19500.0,12.0,23.0,female,Secondary special education,Household appliances,0,2,18000.0,Married,0,1,No
+4.0,30500.0,6.0,29.0,male,Higher education,Furniture,1,2,36000.0,Another,1,1,No
+11.0,45500.0,24.0,32.0,male,Incomplete higher education,Computers,1,2,41000.0,Another,1,0,No
+12.0,33000.0,6.0,60.0,male,Higher education,Household appliances,0,1,46000.0,Another,1,1,No
+10.0,26500.0,18.0,21.0,male,Secondary special education,Cell phones,1,2,35000.0,Married,1,0,Yes
+2.0,53500.0,36.0,48.0,male,Secondary education,Windows & Doors,1,2,20000.0,Another,2,1,No
+11.0,10500.0,4.0,53.0,male,Secondary special education,Clothing,1,2,11000.0,Another,1,0,No
+8.0,8500.0,4.0,30.0,female,Higher education,Household appliances,1,2,31000.0,Another,0,0,No
+1.0,30000.0,12.0,49.0,male,Secondary education,Clothing,1,2,26000.0,Another,2,0,No
+9.0,18000.0,6.0,49.0,female,Higher education,Cell phones,1,0,56000.0,Married,2,1,Yes
+1.0,74500.0,24.0,30.0,female,Higher education,Furniture,1,0,51000.0,Another,0,1,No
+7.0,22000.0,8.0,24.0,female,Higher education,Household appliances,0,2,51000.0,Another,1,1,No
+12.0,80000.0,12.0,31.0,male,Higher education,Household appliances,1,2,66000.0,Married,3,0,No
+6.0,20000.0,12.0,20.0,male,Secondary special education,Computers,0,2,26000.0,Another,2,1,No
+2.0,38000.0,18.0,22.0,male,Secondary special education,Furniture,1,2,16000.0,Another,3,1,No
+7.0,8000.0,6.0,31.0,female,Secondary special education,Household appliances,0,2,31000.0,Another,1,1,No
+3.0,26500.0,4.0,27.0,male,Higher education,Cell phones,0,2,36000.0,Another,3,0,No
+1.0,48000.0,24.0,54.0,female,Higher education,Household appliances,1,0,26000.0,Another,1,0,No
+8.0,5500.0,6.0,23.0,male,Secondary special education,Jewelry,0,1,31000.0,Another,0,0,No
+2.0,40500.0,18.0,39.0,male,Secondary education,Cosmetics and beauty services,1,0,41000.0,Another,0,1,No
+12.0,53000.0,10.0,47.0,male,Secondary education,Household appliances,0,2,16000.0,Another,2,1,No
+10.0,23000.0,10.0,48.0,female,Secondary special education,Computers,1,2,28000.0,Another,1,1,No
+7.0,14500.0,10.0,20.0,male,Secondary special education,Cell phones,0,2,18000.0,Another,0,0,No
+9.0,6000.0,3.0,27.0,female,Incomplete higher education,Household appliances,1,2,46000.0,Another,1,0,No
+11.0,26000.0,12.0,30.0,female,Secondary education,Household appliances,0,0,41000.0,Another,1,0,No
+6.0,8000.0,6.0,55.0,male,Secondary education,Cell phones,0,2,16000.0,Another,0,0,No
+9.0,14000.0,6.0,27.0,female,Secondary education,Cell phones,0,2,24000.0,Another,0,0,No
+12.0,19000.0,12.0,28.0,male,Higher education,Cell phones,0,2,21000.0,Another,1,1,No
+8.0,13000.0,12.0,27.0,male,Secondary special education,Cell phones,0,2,31000.0,Another,1,0,No
+10.0,9000.0,3.0,48.0,male,Secondary special education,Construction Materials,1,2,31000.0,Married,4,0,No
+10.0,6000.0,4.0,23.0,female,Secondary special education,Household appliances,0,2,51000.0,Another,0,1,No
+10.0,124000.0,15.0,56.0,male,Higher education,Furniture,0,2,51000.0,Another,0,1,No
+6.0,55000.0,24.0,25.0,female,Higher education,Clothing,0,2,46000.0,Another,1,1,No
+7.0,14500.0,10.0,26.0,male,Higher education,Jewelry,0,2,26000.0,Another,1,1,No
+9.0,18000.0,12.0,32.0,male,Higher education,Household appliances,1,2,26000.0,Married,2,1,No
+3.0,25500.0,24.0,29.0,male,Secondary education,Jewelry,0,2,16000.0,Married,1,1,Yes
+2.0,10000.0,12.0,24.0,male,Higher education,Cell phones,0,2,24000.0,Another,1,0,No
+7.0,35500.0,30.0,52.0,male,Secondary special education,Cosmetics and beauty services,0,2,9000.0,Married,0,1,No
+11.0,5000.0,4.0,22.0,female,Higher education,Jewelry,0,2,26000.0,Married,3,1,No
+12.0,75000.0,36.0,54.0,male,Secondary education,Medical services,1,2,26000.0,Married,1,1,No
+1.0,37000.0,15.0,32.0,male,Higher education,Furniture,1,2,36000.0,Another,0,1,Yes
+6.0,17500.0,4.0,20.0,male,Secondary special education,Cell phones,0,2,21000.0,Married,3,1,No
+3.0,6000.0,3.0,28.0,female,Higher education,Household appliances,1,2,36000.0,Married,2,1,No
+11.0,23000.0,12.0,66.0,male,Secondary education,Household appliances,0,2,14000.0,Another,1,1,No
+5.0,5500.0,6.0,52.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,2,0,No
+7.0,11000.0,12.0,26.0,female,Secondary education,Household appliances,1,2,31000.0,Another,0,0,No
+2.0,27500.0,8.0,29.0,male,Incomplete higher education,Jewelry,1,2,36000.0,Married,2,0,No
+12.0,49000.0,18.0,24.0,female,Secondary special education,Computers,1,2,36000.0,Another,1,0,No
+3.0,16000.0,12.0,20.0,female,Secondary education,Cell phones,0,2,14000.0,Married,1,1,Yes
+9.0,78500.0,30.0,24.0,male,Secondary special education,Cosmetics and beauty services,0,2,31000.0,Another,0,1,No
+11.0,7500.0,3.0,26.0,male,Higher education,Construction Materials,0,2,13000.0,Married,2,0,Yes
+12.0,11500.0,12.0,29.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,2,0,Yes
+9.0,23000.0,10.0,26.0,female,Higher education,Cell phones,0,2,31000.0,Another,2,0,Yes
+5.0,13000.0,20.0,52.0,male,Secondary education,Medical services,1,2,21000.0,Another,0,1,No
+9.0,33500.0,10.0,22.0,male,Higher education,Cell phones,0,2,26000.0,Married,2,0,No
+11.0,31500.0,12.0,31.0,male,Secondary education,Computers,0,2,26000.0,Another,2,0,No
+9.0,26000.0,12.0,45.0,female,Secondary special education,Household appliances,1,2,16000.0,Unmarried,3,1,No
+2.0,9000.0,3.0,27.0,male,Higher education,Household appliances,1,2,26000.0,Another,1,0,No
+1.0,11000.0,3.0,24.0,male,Secondary special education,Computers,0,2,26000.0,Another,2,1,No
+3.0,34000.0,12.0,31.0,female,Secondary special education,Household appliances,0,1,31000.0,Unmarried,1,1,No
+9.0,66000.0,12.0,26.0,male,Higher education,Windows & Doors,1,2,31000.0,Another,2,1,No
+11.0,7000.0,6.0,26.0,female,Secondary special education,Cell phones,0,2,27000.0,Another,2,1,No
+1.0,8000.0,12.0,31.0,male,Secondary special education,Cell phones,0,2,20000.0,Another,1,1,No
+7.0,13500.0,12.0,21.0,male,Secondary special education,Cell phones,0,2,26000.0,Married,0,1,No
+7.0,8000.0,10.0,22.0,female,Secondary special education,Cell phones,1,2,20000.0,Another,0,1,Yes
+6.0,12500.0,12.0,43.0,female,Higher education,Household appliances,1,2,31000.0,Another,1,1,No
+9.0,33500.0,12.0,24.0,female,Secondary education,Cell phones,0,0,51000.0,Another,0,1,No
+3.0,30000.0,12.0,36.0,male,Secondary special education,Cell phones,1,0,46000.0,Married,1,1,No
+2.0,22000.0,12.0,50.0,female,Secondary special education,Medical services,1,1,37000.0,Another,2,1,No
+5.0,13500.0,6.0,30.0,female,Secondary special education,Household appliances,0,2,21000.0,Another,0,1,No
+10.0,13000.0,6.0,27.0,female,Secondary special education,Household appliances,0,2,26000.0,Married,1,0,No
+4.0,12000.0,12.0,40.0,female,Secondary education,Computers,1,2,13000.0,Another,1,1,No
+12.0,21000.0,18.0,23.0,male,Higher education,Household appliances,0,2,26000.0,Another,2,1,Yes
+5.0,30500.0,12.0,54.0,female,Higher education,Construction Materials,0,2,46000.0,Married,2,1,No
+2.0,21000.0,8.0,49.0,male,Higher education,Household appliances,0,2,41000.0,Another,3,1,No
+11.0,19500.0,6.0,29.0,male,Secondary special education,Cell phones,1,2,24000.0,Married,2,1,No
+9.0,11000.0,3.0,41.0,male,Secondary special education,Computers,1,2,21000.0,Another,2,0,No
+10.0,58500.0,36.0,57.0,female,Secondary special education,Furniture,1,2,32000.0,Married,1,1,No
+5.0,21500.0,12.0,64.0,male,Higher education,Household appliances,1,2,25000.0,Another,2,0,No
+10.0,12000.0,12.0,36.0,male,Secondary special education,Cell phones,1,1,31000.0,Another,1,0,No
+10.0,12000.0,10.0,22.0,female,Secondary special education,Auto,0,2,19000.0,Another,1,0,No
+9.0,21500.0,12.0,62.0,male,Secondary education,Household appliances,1,2,16000.0,Another,1,1,No
+6.0,21000.0,3.0,47.0,female,Higher education,Household appliances,1,2,41000.0,Another,1,1,No
+11.0,34500.0,7.0,45.0,male,Secondary special education,Clothing,1,2,26000.0,Another,0,1,No
+11.0,8500.0,12.0,22.0,female,Secondary special education,Cell phones,0,2,27000.0,Married,0,1,Yes
+8.0,20500.0,12.0,21.0,female,Higher education,Computers,0,1,46000.0,Another,1,1,No
+1.0,18000.0,6.0,56.0,female,Secondary education,Cell phones,0,2,36000.0,Unmarried,1,0,No
+1.0,6500.0,6.0,34.0,female,Secondary special education,Cell phones,0,2,26000.0,Married,0,0,Yes
+8.0,45000.0,18.0,30.0,male,Secondary special education,Cosmetics and beauty services,1,2,26000.0,Another,2,0,No
+3.0,16000.0,6.0,21.0,female,Secondary education,Cell phones,0,2,36000.0,Married,0,0,No
+6.0,30000.0,16.0,45.0,male,Secondary special education,Household appliances,1,2,31000.0,Married,1,0,No
+9.0,21000.0,18.0,26.0,female,Secondary special education,Cell phones,0,2,26000.0,Married,0,0,No
+2.0,15000.0,4.0,20.0,male,Secondary education,Cell phones,0,2,10000.0,Another,3,0,No
+2.0,18000.0,12.0,33.0,female,Higher education,Household appliances,0,1,36000.0,Another,0,1,No
+9.0,41000.0,10.0,33.0,female,Higher education,Furniture,1,1,46000.0,Another,1,0,No
+2.0,21000.0,6.0,20.0,male,Secondary special education,Household appliances,0,2,30000.0,Another,1,1,No
+3.0,18000.0,8.0,26.0,female,Secondary special education,Furniture,0,2,26000.0,Another,0,1,No
+8.0,31000.0,12.0,26.0,female,Secondary special education,Household appliances,0,2,31000.0,Another,0,1,Yes
+7.0,29500.0,12.0,64.0,male,Secondary special education,Furniture,0,2,12000.0,Another,3,0,No
+11.0,16000.0,8.0,24.0,female,Higher education,Household appliances,0,2,46000.0,Another,2,0,No
+1.0,11000.0,6.0,19.0,male,Secondary special education,Household appliances,0,2,21000.0,Another,0,1,No
+2.0,6500.0,3.0,41.0,male,Secondary special education,Household appliances,1,2,11000.0,Married,1,1,No
+10.0,21000.0,6.0,25.0,male,Higher education,Computers,0,2,46000.0,Another,0,0,No
+11.0,28000.0,10.0,22.0,female,Secondary education,Cell phones,0,2,21000.0,Another,2,1,No
+12.0,51000.0,36.0,34.0,male,Higher education,Windows & Doors,0,2,20000.0,Another,0,0,No
+12.0,14500.0,12.0,24.0,female,Secondary special education,Jewelry,1,2,26000.0,Another,0,1,No
+7.0,20500.0,12.0,28.0,male,Higher education,Cell phones,0,2,41000.0,Another,1,1,No
+12.0,93000.0,4.0,40.0,male,Higher education,Tourism,0,0,73000.0,Unmarried,1,1,No
+3.0,19500.0,12.0,20.0,female,Incomplete higher education,Computers,0,2,31000.0,Another,2,1,No
+9.0,15000.0,10.0,22.0,male,Incomplete higher education,Cell phones,0,2,26000.0,Another,1,1,No
+1.0,37000.0,18.0,62.0,female,Secondary special education,Household appliances,1,0,51000.0,Another,3,0,No
+11.0,176000.0,36.0,31.0,male,Secondary education,Clothing,0,2,51000.0,Another,0,1,No
+7.0,54000.0,12.0,27.0,female,Higher education,Computers,0,2,51000.0,Another,3,0,No
+10.0,14000.0,4.0,27.0,male,Higher education,Fitness,0,1,31000.0,Another,1,1,No
+7.0,39500.0,12.0,32.0,male,Higher education,Repair Services,1,2,20000.0,Another,1,0,No
+3.0,22000.0,6.0,40.0,female,Secondary special education,Cell phones,1,2,20000.0,Another,1,1,No
+2.0,46500.0,12.0,54.0,male,Higher education,Windows & Doors,0,0,71000.0,Another,0,1,No
+1.0,6500.0,3.0,66.0,male,Secondary special education,Household appliances,1,2,19000.0,Another,2,1,No
+11.0,19000.0,12.0,32.0,female,Secondary special education,Household appliances,1,2,26000.0,Married,0,1,No
+4.0,5000.0,4.0,36.0,female,Secondary special education,Cell phones,1,2,41000.0,Another,1,1,No
+4.0,28000.0,12.0,32.0,female,Secondary special education,Household appliances,0,0,43000.0,Married,2,1,No
+4.0,5000.0,6.0,24.0,male,Secondary special education,Cell phones,1,2,11000.0,Another,2,1,No
+12.0,37500.0,24.0,67.0,female,Higher education,Computers,1,2,46000.0,Another,3,0,No
+12.0,191000.0,12.0,39.0,male,Secondary special education,Clothing,1,2,61000.0,Another,1,1,No
+10.0,36000.0,12.0,29.0,female,Higher education,Clothing,1,2,51000.0,Unmarried,2,0,No
+3.0,7500.0,8.0,22.0,female,Secondary special education,Cell phones,0,2,19000.0,Another,1,1,No
+4.0,9000.0,4.0,25.0,male,Higher education,Cell phones,1,2,26000.0,Another,2,0,No
+6.0,41000.0,12.0,42.0,female,Secondary special education,Furniture,1,2,26000.0,Married,0,1,No
+8.0,33000.0,6.0,26.0,male,Secondary special education,Cell phones,0,2,31000.0,Another,4,1,No
+10.0,47000.0,18.0,62.0,male,Higher education,Training,0,1,36000.0,Another,0,1,No
+12.0,11000.0,4.0,26.0,female,Higher education,Cell phones,0,2,26000.0,Married,1,1,No
+10.0,38000.0,12.0,30.0,female,Secondary special education,Furniture,0,2,16000.0,Another,0,0,No
+10.0,8500.0,6.0,30.0,female,Secondary special education,Cell phones,1,2,31000.0,Another,0,1,No
+1.0,35000.0,12.0,28.0,male,Higher education,Cell phones,1,1,34000.0,Another,1,1,No
+1.0,28000.0,12.0,23.0,male,Higher education,Cell phones,0,0,30000.0,Another,1,1,No
+7.0,10500.0,6.0,19.0,male,Secondary special education,Cell phones,0,0,21000.0,Another,0,1,No
+8.0,13000.0,3.0,37.0,female,Higher education,Household appliances,1,2,36000.0,Another,0,0,No
+3.0,11000.0,12.0,29.0,male,Secondary education,Cell phones,1,2,11000.0,Another,1,1,Yes
+8.0,14500.0,8.0,23.0,female,Secondary special education,Household appliances,1,2,26000.0,Another,2,1,No
+4.0,26000.0,12.0,49.0,male,Secondary special education,Furniture,0,2,18000.0,Married,1,1,Yes
+1.0,14000.0,6.0,24.0,female,Incomplete higher education,Computers,0,0,36000.0,Another,3,1,No
+4.0,27500.0,10.0,21.0,male,Secondary special education,Household appliances,1,2,21000.0,Another,0,1,No
+1.0,8000.0,6.0,24.0,female,Secondary special education,Cell phones,0,2,16000.0,Married,1,1,No
+3.0,25000.0,12.0,25.0,male,Incomplete higher education,Cell phones,1,1,36000.0,Married,1,0,No
+8.0,65000.0,10.0,23.0,male,Higher education,Clothing,0,2,26000.0,Another,1,0,No
+5.0,14500.0,12.0,52.0,male,Secondary special education,Household appliances,0,2,31000.0,Another,2,0,No
+8.0,57500.0,36.0,29.0,female,Higher education,Windows & Doors,1,2,17000.0,Another,1,1,No
+2.0,10500.0,12.0,42.0,female,Secondary special education,Computers,1,2,24000.0,Another,0,1,No
+7.0,12500.0,12.0,37.0,male,Secondary special education,Cell phones,1,2,16000.0,Another,2,1,No
+3.0,11500.0,10.0,32.0,male,Secondary special education,Household appliances,1,2,26000.0,Another,0,0,No
+1.0,8000.0,12.0,25.0,female,Secondary education,Household appliances,0,2,11000.0,Married,3,1,Yes
+4.0,16500.0,6.0,26.0,male,Secondary special education,Household appliances,0,2,26000.0,Another,3,0,No
+8.0,5000.0,6.0,38.0,female,Secondary special education,Cell phones,0,2,16000.0,Another,1,0,No
+10.0,186500.0,36.0,65.0,male,Secondary special education,Furniture,0,2,21000.0,Another,0,1,No
+11.0,19000.0,12.0,53.0,male,Higher education,Household appliances,0,0,56000.0,Another,0,1,No
+2.0,76000.0,15.0,26.0,female,Higher education,Tourism,1,2,61000.0,Another,0,0,No
+3.0,8000.0,12.0,39.0,female,Secondary education,Cell phones,0,2,36000.0,Another,3,1,No
+3.0,7500.0,12.0,24.0,female,Secondary special education,Cell phones,0,2,21000.0,Another,2,1,No
+2.0,29500.0,18.0,27.0,female,Higher education,Household appliances,0,2,16000.0,Another,1,1,No
+8.0,15500.0,12.0,22.0,female,Secondary special education,Household appliances,0,2,16000.0,Another,0,0,No
+3.0,14000.0,6.0,45.0,female,Secondary special education,Cell phones,1,0,46000.0,Another,1,1,Yes
+12.0,11000.0,6.0,44.0,female,Secondary special education,Auto,1,2,45000.0,Another,2,0,No
+1.0,17000.0,6.0,42.0,male,Secondary special education,Household appliances,0,2,22000.0,Another,1,1,No
+12.0,6500.0,5.0,33.0,female,Secondary special education,Household appliances,1,2,19000.0,Another,2,0,No
+6.0,17000.0,12.0,19.0,male,Secondary education,Cell phones,0,2,21000.0,Another,1,1,No
+6.0,19000.0,12.0,27.0,male,Secondary special education,Cell phones,1,1,16000.0,Another,2,0,No
+10.0,21500.0,3.0,29.0,female,Secondary special education,Household appliances,0,2,36000.0,Another,0,1,No
+1.0,14500.0,9.0,20.0,male,Incomplete higher education,Household appliances,0,2,16000.0,Married,0,1,No
+5.0,27000.0,10.0,54.0,male,Secondary special education,Computers,0,2,31000.0,Another,1,1,No
+5.0,7000.0,9.0,29.0,male,Secondary education,Computers,1,2,21000.0,Another,2,1,No
+3.0,10000.0,12.0,25.0,female,Secondary special education,Household appliances,0,2,19000.0,Another,3,1,No
+11.0,47000.0,10.0,21.0,female,Secondary special education,Household appliances,0,2,46000.0,Married,1,1,No
+8.0,39000.0,12.0,55.0,female,Secondary special education,Computers,1,2,41000.0,Another,0,0,No
+3.0,7500.0,10.0,25.0,female,Secondary special education,Cell phones,1,2,31000.0,Another,1,1,No
+12.0,22500.0,12.0,24.0,female,PhD degree,Household appliances,1,2,36000.0,Another,2,1,No
+12.0,29500.0,10.0,36.0,male,Higher education,Household appliances,1,2,36000.0,Another,0,0,No
+4.0,25000.0,12.0,35.0,female,Secondary special education,Household appliances,0,2,26000.0,Another,1,0,No
+12.0,21000.0,24.0,40.0,male,Secondary education,Household appliances,0,2,21000.0,Married,0,1,No
+2.0,33500.0,12.0,26.0,male,Higher education,Household appliances,0,2,41000.0,Married,0,0,No
+9.0,18500.0,4.0,47.0,male,Higher education,Fitness,1,2,31000.0,Married,1,0,No
+6.0,31000.0,6.0,30.0,male,Higher education,Clothing,0,1,37000.0,Another,1,1,No
+1.0,15500.0,10.0,25.0,female,Secondary education,Household appliances,0,2,19000.0,Another,1,1,Yes
+10.0,6500.0,6.0,20.0,female,Secondary special education,Cell phones,0,2,16000.0,Another,0,1,No
+12.0,37500.0,12.0,45.0,male,Secondary special education,Cell phones,1,2,19000.0,Another,1,1,No
+5.0,38000.0,12.0,53.0,female,Secondary special education,Household appliances,0,2,41000.0,Married,0,1,No
+8.0,27000.0,18.0,24.0,female,Secondary special education,Computers,0,2,21000.0,Another,0,0,No
+9.0,16000.0,3.0,23.0,male,Higher education,Furniture,0,2,22000.0,Another,3,1,No
+11.0,22000.0,10.0,21.0,female,Secondary special education,Computers,0,2,26000.0,Married,1,1,No
+3.0,133000.0,12.0,57.0,female,Secondary education,Furniture,1,2,51000.0,Another,0,1,No
+11.0,25000.0,24.0,37.0,female,Higher education,Furniture,1,2,41000.0,Another,1,1,No
+4.0,14000.0,12.0,62.0,male,Secondary special education,Household appliances,0,2,27000.0,Another,1,1,No
+5.0,13000.0,6.0,25.0,female,Secondary special education,Cell phones,0,2,31000.0,Another,2,1,No
+2.0,12500.0,6.0,60.0,male,Secondary education,Computers,1,2,21000.0,Another,1,0,No
+12.0,98500.0,24.0,30.0,male,Higher education,Cosmetics and beauty services,0,2,31000.0,Another,1,1,Yes
+9.0,31000.0,36.0,62.0,male,Secondary special education,Sporting goods,0,2,11000.0,Another,1,0,No
+7.0,26000.0,12.0,68.0,male,Secondary special education,Medical services,1,2,19000.0,Another,1,1,No
+2.0,14000.0,6.0,59.0,male,Secondary special education,Furniture,1,2,12000.0,Another,1,1,No
+3.0,15000.0,15.0,45.0,male,Higher education,Medical services,1,2,31000.0,Married,2,0,Yes
+3.0,43500.0,12.0,53.0,male,Higher education,Cosmetics and beauty services,0,0,31000.0,Married,0,1,No
+10.0,26500.0,6.0,58.0,male,Secondary special education,Clothing,0,2,19000.0,Another,2,1,No
+5.0,20500.0,4.0,34.0,male,Secondary special education,Household appliances,1,2,24000.0,Another,1,1,No
+5.0,18500.0,6.0,37.0,male,Higher education,Computers,1,2,41000.0,Another,1,1,No
+10.0,32000.0,8.0,34.0,female,Higher education,Household appliances,0,0,51000.0,Another,1,1,No
+7.0,32000.0,18.0,57.0,female,Higher education,Household appliances,1,0,35000.0,Married,3,1,No
+6.0,49500.0,15.0,54.0,male,Higher education,Tourism,1,2,46000.0,Another,1,0,No
+2.0,35000.0,8.0,36.0,male,Secondary special education,Household appliances,0,2,61000.0,Another,2,1,No
+9.0,33000.0,12.0,33.0,male,Higher education,Clothing,1,2,31000.0,Another,0,0,No
+12.0,14000.0,10.0,33.0,female,Secondary special education,Computers,1,2,26000.0,Married,1,1,No
+10.0,19500.0,12.0,27.0,female,Secondary special education,Jewelry,1,2,46000.0,Unmarried,0,0,No
+12.0,32500.0,12.0,26.0,female,Secondary special education,Cell phones,0,2,31000.0,Another,0,1,No
+1.0,20500.0,12.0,37.0,female,Secondary special education,Household appliances,1,0,21000.0,Another,0,1,No
+3.0,39000.0,24.0,30.0,male,Higher education,Household appliances,1,2,31000.0,Another,3,1,No
+5.0,15500.0,18.0,73.0,male,Secondary education,Household appliances,0,2,13000.0,Another,1,1,No
+4.0,151000.0,18.0,20.0,male,Higher education,Medical services,0,0,19000.0,Another,2,1,No
+2.0,28000.0,12.0,24.0,female,Secondary education,Cell phones,0,2,51000.0,Unmarried,0,0,No
+1.0,19500.0,24.0,23.0,male,Higher education,Household appliances,0,2,28000.0,Another,2,1,No
+10.0,38000.0,24.0,77.0,male,Higher education,Medical services,1,1,31000.0,Married,0,0,No
+1.0,11500.0,4.0,37.0,female,Secondary education,Household appliances,1,2,20000.0,Another,2,1,No
+4.0,73000.0,12.0,33.0,female,Higher education,Training,0,0,171000.0,Another,0,0,No
+9.0,27500.0,3.0,30.0,female,Higher education,Construction Materials,1,2,81000.0,Another,2,0,No
+4.0,18000.0,12.0,55.0,male,Secondary special education,Computers,0,2,21000.0,Another,3,1,No
+4.0,71000.0,12.0,48.0,male,Secondary special education,Repair Services,0,2,37000.0,Another,0,0,No
+5.0,51000.0,10.0,22.0,male,Secondary special education,Computers,0,2,21000.0,Married,2,1,Yes
+10.0,13000.0,6.0,21.0,female,Secondary special education,Cell phones,0,2,26000.0,Married,0,1,Yes
+8.0,13000.0,6.0,51.0,male,Higher education,Household appliances,0,0,51000.0,Married,3,1,No
+1.0,25000.0,6.0,42.0,female,Secondary special education,Audio & Video,0,0,31000.0,Another,1,0,No
+3.0,6000.0,6.0,54.0,female,Secondary special education,Cell phones,1,2,16000.0,Another,0,1,Yes
+4.0,10000.0,3.0,37.0,female,Secondary special education,Computers,1,2,41000.0,Another,1,0,No
+7.0,25000.0,12.0,23.0,male,Higher education,Household appliances,0,2,16000.0,Another,2,0,No
+12.0,7500.0,3.0,42.0,male,Higher education,Cell phones,1,2,19000.0,Another,1,1,No
+3.0,24500.0,12.0,29.0,female,Higher education,Household appliances,0,2,31000.0,Another,1,0,No
+5.0,32000.0,10.0,39.0,female,Secondary special education,Computers,1,0,61000.0,Another,0,0,No
+12.0,19500.0,6.0,41.0,male,Secondary special education,Cell phones,1,2,46000.0,Another,0,0,No
+4.0,15500.0,6.0,26.0,male,Incomplete higher education,Jewelry,1,0,61000.0,Married,1,1,No
+2.0,31000.0,10.0,64.0,male,Secondary special education,Cell phones,0,2,10000.0,Another,1,1,No
+10.0,28500.0,6.0,28.0,female,Secondary special education,Jewelry,0,0,41000.0,Another,2,1,No
+1.0,6000.0,3.0,31.0,male,Secondary special education,Computers,0,2,26000.0,Another,1,0,No
+8.0,25000.0,18.0,30.0,female,Higher education,Cell phones,0,2,46000.0,Another,2,0,Yes
+2.0,32500.0,24.0,63.0,male,Secondary special education,Household appliances,0,2,13000.0,Another,2,1,No
+11.0,30000.0,10.0,42.0,female,Higher education,Household appliances,0,2,51000.0,Another,0,1,No
+4.0,9500.0,12.0,43.0,male,Higher education,Cell phones,1,2,13000.0,Another,2,0,No
+8.0,38500.0,24.0,32.0,female,Secondary special education,Cosmetics and beauty services,0,2,31000.0,Married,0,1,No
+12.0,31500.0,12.0,29.0,female,Secondary special education,Cell phones,0,2,51000.0,Married,1,1,No
+10.0,14000.0,10.0,39.0,female,Higher education,Cell phones,1,2,26000.0,Another,2,0,No
+5.0,24500.0,6.0,46.0,female,Secondary special education,Auto,1,2,26000.0,Married,4,1,No
+1.0,17000.0,12.0,39.0,male,Secondary special education,Cell phones,0,2,21000.0,Married,2,1,No
+9.0,28500.0,18.0,26.0,female,Secondary special education,Cell phones,0,2,29000.0,Another,0,0,No
+9.0,30500.0,12.0,21.0,female,Incomplete higher education,Household appliances,0,2,41000.0,Another,1,0,No
+7.0,28500.0,12.0,30.0,female,Higher education,Windows & Doors,0,2,21000.0,Married,0,1,No
+8.0,201000.0,24.0,26.0,female,Secondary special education,Windows & Doors,0,2,41000.0,Another,4,1,No
+2.0,25000.0,6.0,45.0,male,Secondary special education,Household appliances,1,0,36000.0,Another,1,0,No
+8.0,16500.0,12.0,74.0,male,Secondary special education,Household appliances,0,2,19000.0,Another,2,0,No
+5.0,11500.0,10.0,34.0,male,Higher education,Household appliances,0,2,16000.0,Unmarried,1,0,No
+10.0,13500.0,6.0,30.0,female,Secondary special education,Computers,0,2,21000.0,Another,1,1,No
+6.0,12500.0,6.0,42.0,male,Higher education,Household appliances,1,2,17000.0,Another,1,1,No
+12.0,23000.0,12.0,25.0,female,Secondary special education,Household appliances,1,2,31000.0,Another,1,1,No
+10.0,91000.0,24.0,39.0,male,Secondary special education,Cosmetics and beauty services,1,2,51000.0,Married,0,1,No
+10.0,27500.0,12.0,24.0,female,Secondary special education,Cell phones,0,2,33000.0,Married,1,0,No
+1.0,9000.0,6.0,49.0,female,Secondary education,Cell phones,0,2,31000.0,Another,0,1,No
+10.0,6500.0,3.0,24.0,female,Secondary special education,Household appliances,1,2,26000.0,Another,2,0,No
+12.0,28500.0,16.0,34.0,female,Secondary special education,Cell phones,0,2,31000.0,Another,0,0,Yes
+4.0,15000.0,12.0,25.0,female,Secondary special education,Household appliances,1,2,28000.0,Married,0,1,Yes
+1.0,53500.0,18.0,47.0,male,Higher education,Medical services,0,0,21000.0,Another,1,1,No
+6.0,9000.0,6.0,44.0,male,Secondary special education,Furniture,1,2,15000.0,Another,2,1,No
+11.0,26500.0,12.0,21.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,0,1,No
+8.0,42500.0,24.0,52.0,male,Higher education,Cosmetics and beauty services,0,1,40000.0,Another,1,1,No
+4.0,22000.0,12.0,28.0,female,Incomplete higher education,Household appliances,1,2,26000.0,Another,2,0,No
+5.0,37500.0,12.0,25.0,female,Secondary special education,Cell phones,0,0,56000.0,Another,1,1,No
+11.0,24000.0,10.0,21.0,female,Secondary special education,Fitness,0,2,31000.0,Another,1,1,No
+11.0,12500.0,10.0,29.0,female,Secondary education,Cell phones,0,1,35000.0,Another,1,0,Yes
+12.0,16000.0,6.0,28.0,male,Higher education,Furniture,0,2,26000.0,Married,2,1,No
+7.0,9000.0,12.0,43.0,male,Higher education,Cell phones,1,2,41000.0,Another,1,0,No
+8.0,27500.0,24.0,35.0,male,Secondary special education,Household appliances,1,2,31000.0,Unmarried,1,0,No
+11.0,27000.0,6.0,61.0,female,Secondary special education,Clothing,0,2,21000.0,Another,0,0,No
+9.0,6500.0,6.0,28.0,male,Higher education,Household appliances,1,2,29000.0,Married,3,0,No
+5.0,26000.0,6.0,21.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,1,1,No
+5.0,41500.0,12.0,19.0,male,Secondary education,Jewelry,0,2,31000.0,Another,0,0,Yes
+11.0,31500.0,18.0,23.0,male,Secondary education,Audio & Video,0,0,19000.0,Another,2,0,No
+2.0,60000.0,6.0,27.0,female,Higher education,Medical services,0,2,36000.0,Married,1,0,No
+10.0,8500.0,10.0,31.0,female,Secondary special education,Cell phones,1,2,26000.0,Married,0,0,No
+12.0,17500.0,6.0,37.0,male,Secondary special education,Cell phones,0,2,36000.0,Another,0,1,No
+9.0,36000.0,12.0,62.0,female,Secondary education,Cell phones,0,0,14000.0,Another,2,1,No
+4.0,18000.0,12.0,22.0,female,Secondary special education,Cell phones,0,2,10000.0,Married,4,1,No
+2.0,11000.0,6.0,60.0,female,Secondary special education,Windows & Doors,1,2,21000.0,Another,0,0,No
+10.0,30000.0,6.0,34.0,female,Secondary special education,Cell phones,1,2,101000.0,Married,0,1,No
+10.0,21500.0,12.0,27.0,female,Higher education,Cell phones,1,2,39000.0,Another,1,0,No
+5.0,144000.0,4.0,32.0,male,Higher education,Tourism,1,2,51000.0,Another,3,1,No
+12.0,14500.0,10.0,25.0,female,Secondary special education,Cell phones,0,2,36000.0,Married,1,1,Yes
+2.0,9000.0,5.0,76.0,male,Secondary special education,Household appliances,0,2,19000.0,Another,0,1,No
+11.0,91000.0,24.0,32.0,female,Secondary special education,Clothing,1,2,36000.0,Another,0,0,Yes
+6.0,29000.0,12.0,31.0,male,Secondary education,Tourism,1,2,31000.0,Another,0,0,No
+7.0,8500.0,12.0,24.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,1,1,No
+8.0,13000.0,12.0,23.0,male,Secondary special education,Household appliances,1,2,16000.0,Married,1,1,Yes
+11.0,12000.0,12.0,35.0,male,Higher education,Furniture,1,2,41000.0,Married,2,0,No
+1.0,5000.0,10.0,39.0,female,Secondary special education,Household appliances,1,2,31000.0,Married,1,0,No
+11.0,9000.0,8.0,22.0,male,Secondary special education,Household appliances,0,2,24000.0,Married,0,0,No
+2.0,37500.0,12.0,22.0,female,Secondary special education,Household appliances,0,0,26000.0,Another,0,0,No
+4.0,11000.0,12.0,41.0,female,Higher education,Household appliances,1,2,21000.0,Another,1,0,No
+9.0,13500.0,10.0,26.0,female,Higher education,Cell phones,0,2,31000.0,Another,0,0,No
+5.0,7000.0,12.0,45.0,female,Higher education,Computers,0,2,31000.0,Another,1,0,No
+6.0,16000.0,10.0,65.0,male,Secondary special education,Cell phones,0,2,31000.0,Married,0,0,No
+2.0,24500.0,12.0,23.0,male,Higher education,Cell phones,0,1,27000.0,Another,1,1,No
+10.0,18000.0,15.0,31.0,male,Secondary special education,Household appliances,0,2,17000.0,Another,2,1,Yes
+5.0,14500.0,6.0,45.0,female,Secondary education,Household appliances,0,2,26000.0,Another,2,1,No
+3.0,44000.0,12.0,36.0,male,Secondary special education,Cosmetics and beauty services,0,2,26000.0,Married,0,1,Yes
+9.0,19000.0,12.0,19.0,male,Secondary special education,Household appliances,0,2,19000.0,Another,3,1,Yes
+6.0,34500.0,12.0,32.0,female,Secondary special education,Cell phones,0,2,31000.0,Married,0,1,No
+2.0,14000.0,12.0,42.0,female,Secondary special education,Cell phones,1,2,21000.0,Another,3,0,No
+3.0,10000.0,6.0,22.0,male,Secondary special education,Computers,0,1,31000.0,Another,1,0,No
+6.0,33000.0,12.0,20.0,male,Secondary special education,Windows & Doors,0,2,36000.0,Another,1,1,No
+7.0,9000.0,3.0,33.0,male,Secondary education,Household appliances,1,2,38000.0,Another,2,0,No
+2.0,27500.0,12.0,26.0,female,Secondary education,Household appliances,0,2,29000.0,Another,0,1,No
+12.0,53000.0,24.0,58.0,male,Higher education,Cosmetics and beauty services,0,2,16000.0,Another,2,1,No
+3.0,109000.0,24.0,43.0,female,Secondary special education,Household appliances,0,2,36000.0,Another,1,1,No
+7.0,73000.0,24.0,47.0,male,Higher education,Cosmetics and beauty services,0,1,28000.0,Another,1,1,Yes
+1.0,20000.0,12.0,29.0,female,Secondary education,Cell phones,1,2,21000.0,Another,0,1,Yes
+12.0,44000.0,6.0,53.0,male,Higher education,Furniture,1,2,26000.0,Another,1,0,No
+9.0,15000.0,12.0,31.0,male,Secondary special education,Household appliances,1,2,31000.0,Another,1,1,No
+10.0,9500.0,12.0,24.0,female,Secondary education,Cell phones,0,2,36000.0,Another,1,1,No
+9.0,111500.0,10.0,50.0,male,Secondary education,Furniture,0,0,81000.0,Married,0,0,No
+4.0,15500.0,12.0,61.0,male,Secondary education,Windows & Doors,0,2,11000.0,Another,2,1,No
+2.0,21000.0,12.0,31.0,male,Higher education,Cell phones,0,2,16000.0,Another,0,1,No
+10.0,47000.0,11.0,34.0,male,Secondary education,Fitness,1,0,36000.0,Another,0,1,No
+11.0,28500.0,10.0,25.0,female,Secondary special education,Household appliances,1,2,26000.0,Another,1,1,No
+1.0,25000.0,6.0,31.0,female,Secondary special education,Computers,1,2,41000.0,Married,0,0,No
+9.0,30000.0,10.0,44.0,male,Secondary special education,Household appliances,1,2,20000.0,Married,0,0,No
+10.0,17000.0,12.0,65.0,male,Higher education,Furniture,0,2,11000.0,Another,1,0,No
+6.0,166000.0,12.0,34.0,male,Higher education,Clothing,1,2,71000.0,Another,1,0,No
+1.0,152000.0,36.0,48.0,female,Higher education,Windows & Doors,1,2,56000.0,Another,2,0,No
+4.0,8000.0,4.0,29.0,female,Higher education,Music,0,2,26000.0,Married,4,1,No
+7.0,23500.0,10.0,60.0,male,Higher education,Clothing,1,0,41000.0,Another,0,0,No
+10.0,18000.0,18.0,34.0,female,Secondary special education,Household appliances,1,2,21000.0,Another,1,0,No
+1.0,31000.0,12.0,34.0,female,Higher education,Computers,0,0,71000.0,Another,2,1,No
+1.0,34500.0,12.0,43.0,female,Secondary special education,Cell phones,1,2,81000.0,Unmarried,1,1,No
+3.0,9500.0,12.0,53.0,male,Secondary special education,Furniture,1,2,16000.0,Another,2,1,No
+2.0,20000.0,15.0,27.0,male,Higher education,Cell phones,0,2,31000.0,Another,1,1,No
+6.0,19000.0,5.0,28.0,female,Higher education,Household appliances,0,2,33000.0,Another,0,1,No
+1.0,22000.0,10.0,64.0,male,Secondary special education,Household appliances,0,2,31000.0,Married,2,1,No
+11.0,40500.0,16.0,39.0,male,Secondary special education,Cell phones,1,1,33000.0,Another,2,0,Yes
+7.0,71500.0,12.0,64.0,male,Secondary special education,Windows & Doors,1,2,21000.0,Married,1,1,No
+12.0,23500.0,6.0,40.0,female,Secondary special education,Household appliances,0,2,31000.0,Another,1,1,No
+5.0,9000.0,8.0,29.0,female,Secondary special education,Cell phones,0,1,21000.0,Another,1,1,No
+1.0,18000.0,6.0,27.0,male,Higher education,Cell phones,0,2,46000.0,Another,0,0,No
+3.0,15000.0,12.0,20.0,female,Secondary education,Cell phones,0,2,21000.0,Another,0,1,Yes
+9.0,37000.0,12.0,50.0,female,Secondary special education,Furniture,0,2,21000.0,Another,3,1,No
+11.0,14000.0,12.0,33.0,female,Secondary special education,Computers,1,2,21000.0,Married,3,1,No
+9.0,74000.0,18.0,45.0,male,Incomplete higher education,Household appliances,0,2,56000.0,Married,0,1,Yes
+5.0,7000.0,6.0,21.0,female,Secondary special education,Computers,0,2,34000.0,Another,3,1,No
+11.0,31000.0,24.0,24.0,female,Higher education,Household appliances,0,2,21000.0,Another,4,1,No
+5.0,41500.0,24.0,41.0,male,Higher education,Household appliances,1,2,26000.0,Another,3,0,No
+8.0,21500.0,18.0,29.0,male,Higher education,Household appliances,1,2,27000.0,Married,0,0,No
+11.0,14000.0,12.0,20.0,male,Incomplete higher education,Computers,0,2,21000.0,Married,0,1,No
+5.0,6500.0,6.0,32.0,male,Higher education,Cell phones,1,2,31000.0,Another,2,1,No
+10.0,16500.0,12.0,31.0,female,Secondary education,Cell phones,0,2,31000.0,Another,1,1,Yes
+6.0,49000.0,12.0,59.0,female,Higher education,Furniture,1,2,31000.0,Another,1,1,Yes
+2.0,37500.0,12.0,57.0,male,Higher education,Furniture,1,2,13000.0,Another,0,1,No
+3.0,8500.0,12.0,26.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,0,1,Yes
+10.0,13500.0,12.0,28.0,male,Higher education,Furniture,0,2,32000.0,Married,2,1,No
+2.0,7000.0,12.0,53.0,male,Secondary education,Computers,0,2,18000.0,Another,0,0,No
+10.0,35000.0,7.0,58.0,male,Higher education,Clothing,1,2,31000.0,Married,3,1,No
+10.0,80500.0,15.0,25.0,male,Higher education,Tourism,0,2,31000.0,Another,0,0,No
+9.0,27500.0,12.0,25.0,male,Higher education,Cell phones,0,0,61000.0,Another,0,1,No
+1.0,10500.0,6.0,39.0,male,Higher education,Household appliances,1,2,21000.0,Married,1,1,No
+11.0,15000.0,8.0,23.0,male,Secondary special education,Cell phones,0,2,31000.0,Another,2,1,No
+1.0,37000.0,18.0,29.0,male,Higher education,Cosmetics and beauty services,0,0,71000.0,Married,1,0,No
+2.0,20000.0,6.0,40.0,female,Secondary special education,Cell phones,1,2,36000.0,Another,3,1,No
+9.0,29500.0,24.0,39.0,female,Secondary special education,Household appliances,1,2,66000.0,Another,0,1,No
+3.0,30000.0,10.0,39.0,male,Higher education,Household appliances,0,0,56000.0,Another,0,1,No
+2.0,37500.0,12.0,43.0,male,Secondary education,Household appliances,0,2,16000.0,Another,0,0,No
+8.0,15000.0,3.0,21.0,female,Incomplete higher education,Household appliances,0,2,21000.0,Another,3,1,No
+1.0,30500.0,24.0,27.0,female,Secondary special education,Household appliances,0,2,26000.0,Another,2,0,No
+2.0,45000.0,18.0,48.0,male,Secondary education,Furniture,1,1,29000.0,Another,1,0,No
+7.0,23000.0,6.0,39.0,male,Secondary education,Jewelry,1,2,26000.0,Another,2,1,No
+9.0,9500.0,6.0,31.0,female,Secondary special education,Cell phones,1,2,18000.0,Another,0,1,No
+10.0,10000.0,4.0,30.0,male,Secondary special education,Cell phones,0,2,26000.0,Married,1,1,No
+12.0,62000.0,24.0,31.0,female,Secondary special education,Household appliances,1,2,31000.0,Married,0,1,No
+12.0,44000.0,4.0,34.0,male,Incomplete secondary education,Tourism,1,2,61000.0,Another,2,0,No
+11.0,39000.0,24.0,22.0,female,Incomplete higher education,Computers,0,2,41000.0,Another,1,0,No
+5.0,38000.0,12.0,42.0,female,Secondary education,Cell phones,0,2,18000.0,Another,1,1,No
+4.0,37000.0,4.0,29.0,male,Higher education,Furniture,0,2,41000.0,Another,0,0,No
+3.0,13000.0,8.0,21.0,female,Secondary special education,Cell phones,0,1,31000.0,Another,0,0,No
+7.0,34500.0,10.0,36.0,male,Higher education,Tourism,1,2,41000.0,Another,0,1,No
+1.0,66500.0,12.0,48.0,female,Secondary special education,Cell phones,0,1,111000.0,Another,0,0,No
+2.0,5500.0,6.0,55.0,female,Secondary special education,Cell phones,1,2,31000.0,Unmarried,1,0,No
+3.0,20000.0,4.0,28.0,female,Secondary special education,Cell phones,1,2,51000.0,Unmarried,4,1,No
+2.0,10000.0,12.0,25.0,male,Secondary special education,Clothing,0,2,36000.0,Another,1,1,No
+2.0,14500.0,10.0,22.0,male,Secondary special education,Computers,0,2,26000.0,Another,1,0,No
+6.0,14500.0,12.0,35.0,male,Higher education,Cell phones,0,2,21000.0,Married,1,1,Yes
+3.0,5500.0,4.0,33.0,female,Higher education,Cell phones,1,2,26000.0,Another,1,0,No
+5.0,23000.0,12.0,19.0,male,Secondary education,Cell phones,0,2,13000.0,Married,0,1,No
+1.0,13500.0,12.0,27.0,female,Incomplete higher education,Cell phones,0,2,21000.0,Another,1,1,No
+7.0,20000.0,24.0,22.0,female,Secondary special education,Household appliances,0,2,16000.0,Another,0,0,No
+5.0,20500.0,12.0,28.0,female,Secondary education,Cell phones,0,2,19000.0,Married,3,1,No
+10.0,16000.0,10.0,27.0,male,Secondary special education,Furniture,0,2,30000.0,Another,1,1,No
+9.0,8500.0,3.0,36.0,female,Higher education,Fitness,1,2,81000.0,Another,1,1,No
+8.0,10000.0,3.0,46.0,male,Higher education,Furniture,1,2,17000.0,Married,0,0,No
+3.0,40000.0,12.0,47.0,female,Incomplete higher education,Household appliances,0,0,61000.0,Another,0,1,Yes
+1.0,30000.0,12.0,32.0,female,Secondary special education,Household appliances,1,2,18000.0,Another,0,1,No
+3.0,15500.0,12.0,31.0,male,Incomplete higher education,Cell phones,1,2,21000.0,Another,0,1,No
+7.0,19000.0,6.0,30.0,female,Secondary special education,Furniture,0,0,41000.0,Another,0,1,No
+8.0,6500.0,3.0,28.0,male,Incomplete higher education,Furniture,0,1,26000.0,Married,1,0,No
+8.0,45000.0,11.0,27.0,male,Higher education,Household appliances,1,2,21000.0,Another,1,1,No
+11.0,6000.0,12.0,20.0,female,Secondary education,Cell phones,0,2,19000.0,Another,0,1,No
+9.0,16500.0,6.0,44.0,female,Secondary special education,Windows & Doors,1,2,48000.0,Another,2,0,No
+2.0,21000.0,12.0,24.0,female,Secondary special education,Cell phones,0,2,24000.0,Another,0,1,Yes
+7.0,30000.0,12.0,22.0,female,Higher education,Computers,0,2,46000.0,Married,3,1,No
+1.0,17500.0,12.0,23.0,male,Incomplete higher education,Cell phones,0,2,16000.0,Another,0,1,No
+12.0,30500.0,10.0,25.0,female,Incomplete higher education,Cell phones,0,2,41000.0,Another,2,1,Yes
+2.0,43500.0,12.0,56.0,male,Higher education,Cosmetics and beauty services,0,0,16000.0,Another,1,1,No
+5.0,15000.0,12.0,21.0,female,Secondary special education,Computers,0,2,16000.0,Another,3,1,No
+2.0,35500.0,12.0,23.0,female,Higher education,Fitness,0,0,41000.0,Another,1,1,No
+12.0,21000.0,10.0,25.0,male,Higher education,Cell phones,0,2,26000.0,Another,1,0,No
+2.0,20500.0,5.0,29.0,male,Secondary special education,Household appliances,0,2,26000.0,Another,1,0,No
+11.0,12000.0,4.0,51.0,male,Secondary special education,Household appliances,0,0,31000.0,Another,0,0,No
+2.0,12500.0,15.0,52.0,female,Higher education,Cell phones,1,2,18000.0,Another,0,1,No
+3.0,20000.0,6.0,31.0,male,Secondary special education,Household appliances,0,2,26000.0,Another,0,0,No
+9.0,7500.0,6.0,23.0,male,Incomplete higher education,Computers,0,2,18000.0,Another,2,1,No
+4.0,51000.0,18.0,30.0,female,Secondary education,Household appliances,0,2,39000.0,Another,3,0,No
+4.0,23000.0,12.0,21.0,male,Secondary education,Computers,0,2,19000.0,Another,1,1,Yes
+1.0,28500.0,12.0,22.0,female,Higher education,Household appliances,0,0,36000.0,Another,2,1,No
+2.0,12500.0,6.0,32.0,male,Higher education,Jewelry,1,2,23000.0,Another,2,0,No
+11.0,12500.0,4.0,22.0,female,Higher education,Cell phones,0,2,24000.0,Married,2,1,Yes
+10.0,15000.0,4.0,25.0,male,Secondary special education,Auto,0,2,26000.0,Another,2,0,No
+5.0,12500.0,10.0,27.0,female,Secondary special education,Household appliances,1,2,31000.0,Another,2,1,No
+2.0,19500.0,15.0,42.0,female,Higher education,Cell phones,1,2,21000.0,Another,2,1,No
+11.0,47000.0,24.0,27.0,female,Secondary special education,Boats,0,2,21000.0,Married,0,0,No
+12.0,10500.0,12.0,26.0,male,Higher education,Jewelry,1,2,21000.0,Another,1,0,No
+3.0,21000.0,6.0,29.0,female,Higher education,Furniture,0,1,31000.0,Another,1,0,No
+3.0,51500.0,18.0,31.0,female,Higher education,Computers,0,0,101000.0,Married,1,0,No
+5.0,24000.0,6.0,23.0,female,Secondary special education,Computers,0,2,18000.0,Another,0,1,No
+1.0,31000.0,12.0,25.0,male,Higher education,Cell phones,0,0,36000.0,Married,3,1,No
+7.0,77000.0,18.0,47.0,male,Higher education,Training,0,0,66000.0,Married,0,0,No
+7.0,14500.0,10.0,39.0,male,Higher education,Household appliances,0,2,26000.0,Another,1,1,No
+1.0,20500.0,12.0,26.0,female,Secondary special education,Household appliances,0,2,26000.0,Another,2,1,No
+12.0,56000.0,24.0,59.0,male,Higher education,Household appliances,0,2,26000.0,Another,2,1,No
+9.0,51000.0,6.0,26.0,female,Secondary special education,Windows & Doors,1,2,46000.0,Another,2,1,No
+4.0,25000.0,12.0,64.0,female,Secondary special education,Household appliances,1,2,21000.0,Another,0,1,No
+7.0,29000.0,11.0,26.0,male,Higher education,Fitness,0,2,51000.0,Unmarried,0,1,No
+12.0,19500.0,10.0,22.0,female,Higher education,Household appliances,0,2,31000.0,Another,3,0,No
+9.0,14000.0,12.0,49.0,male,Secondary education,Fitness,0,2,11000.0,Another,2,1,No
+11.0,15500.0,12.0,41.0,female,Higher education,Cell phones,1,0,46000.0,Another,4,0,No
+9.0,16500.0,6.0,38.0,female,Secondary special education,Household appliances,0,2,19000.0,Another,1,1,No
+6.0,5500.0,3.0,30.0,female,Higher education,Household appliances,1,2,26000.0,Another,3,0,No
+3.0,24000.0,12.0,27.0,female,Higher education,Cell phones,0,2,27000.0,Another,3,0,No
+1.0,20000.0,10.0,25.0,female,Higher education,Household appliances,0,0,33000.0,Married,2,1,No
+3.0,27500.0,12.0,27.0,female,Higher education,Cell phones,0,2,20000.0,Married,0,1,No
+10.0,22000.0,6.0,33.0,female,Higher education,Computers,1,0,101000.0,Another,1,1,No
+10.0,69500.0,6.0,51.0,male,Higher education,Clothing,1,0,26000.0,Another,1,0,No
+12.0,35000.0,30.0,43.0,female,Secondary special education,Furniture,1,2,52000.0,Another,3,1,Yes
+9.0,7500.0,6.0,49.0,male,Secondary special education,Windows & Doors,0,2,16000.0,Another,0,1,No
+3.0,22500.0,24.0,38.0,male,Higher education,Furniture,0,2,20000.0,Another,0,1,No
+12.0,29000.0,12.0,31.0,male,Higher education,Furniture,0,2,26000.0,Another,2,1,No
+2.0,11000.0,6.0,29.0,female,Secondary special education,Computers,0,2,24000.0,Another,1,1,No
+4.0,22000.0,12.0,48.0,female,Secondary special education,Cell phones,1,1,46000.0,Unmarried,3,0,No
+6.0,41000.0,12.0,25.0,male,Secondary special education,Clothing,1,2,31000.0,Another,1,0,No
+2.0,148000.0,18.0,35.0,female,Secondary special education,Furniture,1,2,31000.0,Another,3,0,No
+10.0,39000.0,18.0,32.0,male,Higher education,Household appliances,1,2,36000.0,Another,0,1,No
+3.0,7000.0,6.0,33.0,female,Secondary education,Cell phones,0,0,46000.0,Another,2,1,No
+12.0,7500.0,10.0,36.0,male,Secondary education,Cell phones,1,2,19000.0,Another,1,1,No
+8.0,30000.0,7.0,59.0,male,Higher education,Clothing,0,2,24000.0,Another,2,1,No
+9.0,13000.0,6.0,39.0,male,Secondary special education,Household appliances,1,2,41000.0,Another,3,0,No
+12.0,30000.0,18.0,39.0,male,Higher education,Jewelry,1,2,21000.0,Another,1,0,No
+5.0,27500.0,36.0,39.0,male,Secondary special education,Household appliances,0,2,31000.0,Another,3,1,No
+1.0,13000.0,6.0,20.0,male,Higher education,Household appliances,0,2,19000.0,Married,1,1,No
+7.0,12000.0,6.0,31.0,male,Secondary special education,Household appliances,1,2,31000.0,Another,3,0,No
+9.0,21000.0,12.0,54.0,female,Higher education,Household appliances,0,2,26000.0,Another,3,0,No
+9.0,6000.0,6.0,33.0,male,Secondary special education,Household appliances,1,2,19000.0,Another,0,0,No
+6.0,22500.0,12.0,20.0,female,Secondary special education,Computers,0,2,21000.0,Another,0,1,No
+4.0,16000.0,10.0,32.0,male,Secondary special education,Cell phones,0,2,26000.0,Another,0,0,No
+9.0,56500.0,12.0,49.0,female,Incomplete higher education,Furniture,0,2,34000.0,Another,1,0,No
+3.0,25000.0,10.0,23.0,female,Secondary special education,Household appliances,1,2,46000.0,Married,1,0,No
+12.0,20000.0,6.0,34.0,male,Secondary special education,Household appliances,1,2,26000.0,Another,0,1,No
+11.0,45000.0,9.0,25.0,male,Higher education,Household appliances,0,2,31000.0,Another,1,1,No
+6.0,6500.0,6.0,23.0,female,Secondary special education,Cell phones,0,2,28000.0,Married,1,1,No
+8.0,9000.0,6.0,48.0,female,Secondary special education,Household appliances,1,2,31000.0,Married,0,0,No
+2.0,12500.0,6.0,53.0,male,Secondary education,Household appliances,1,2,13000.0,Another,3,1,No
+2.0,8500.0,6.0,53.0,female,Secondary special education,Cell phones,0,2,36000.0,Married,2,0,No
+8.0,18500.0,6.0,45.0,female,Secondary education,Cell phones,0,2,16000.0,Married,1,0,Yes
+5.0,32000.0,12.0,29.0,female,Secondary education,Cell phones,0,2,25000.0,Married,2,1,Yes
+3.0,28000.0,12.0,27.0,female,Secondary special education,Cell phones,1,2,27000.0,Another,1,1,Yes
+5.0,31000.0,10.0,30.0,female,Higher education,Cell phones,0,0,33000.0,Unmarried,1,1,No
+8.0,30000.0,18.0,19.0,male,Secondary education,Cell phones,0,2,25000.0,Another,1,1,Yes
+12.0,30500.0,4.0,33.0,female,Secondary special education,Household appliances,0,2,101000.0,Another,1,0,No
+1.0,15000.0,6.0,24.0,male,Incomplete higher education,Cell phones,1,2,36000.0,Another,2,0,No
+4.0,38500.0,11.0,22.0,male,Incomplete higher education,Fitness,0,0,31000.0,Another,1,0,No
+3.0,34000.0,12.0,19.0,female,Secondary education,Household appliances,0,2,16000.0,Married,0,1,Yes
+3.0,5000.0,12.0,38.0,female,Secondary special education,Cell phones,1,2,31000.0,Another,2,0,No
+8.0,72000.0,24.0,42.0,female,Secondary special education,Household appliances,0,0,71000.0,Unmarried,2,1,Yes
+3.0,17500.0,10.0,21.0,male,Incomplete higher education,Computers,0,2,21000.0,Another,2,0,No
+1.0,43000.0,18.0,27.0,male,Secondary special education,Household appliances,1,2,19000.0,Another,0,0,No
+3.0,17500.0,12.0,34.0,female,Secondary special education,Cell phones,1,2,28000.0,Another,2,1,No
+12.0,10500.0,12.0,51.0,male,Higher education,Clothing,1,2,28000.0,Married,2,1,No
+2.0,18000.0,6.0,25.0,female,Higher education,Household appliances,1,0,61000.0,Another,0,0,No
+10.0,28000.0,24.0,53.0,female,Secondary special education,Household appliances,0,2,36000.0,Married,0,1,No
+11.0,44000.0,6.0,37.0,female,Higher education,Furniture,0,2,43000.0,Another,0,1,No
+8.0,5000.0,5.0,27.0,female,Secondary education,Cell phones,0,2,27000.0,Another,0,1,Yes
+12.0,28500.0,6.0,35.0,female,Higher education,Cell phones,0,2,61000.0,Married,1,1,No
+2.0,22500.0,12.0,33.0,male,Secondary special education,Cell phones,1,2,7000.0,Another,1,1,No
+7.0,36000.0,18.0,25.0,female,Higher education,Cell phones,0,2,31000.0,Another,2,1,Yes
+8.0,34000.0,16.0,28.0,female,Secondary special education,Cell phones,0,2,41000.0,Another,1,1,Yes
+3.0,24500.0,12.0,56.0,male,Secondary education,Cell phones,0,2,36000.0,Married,1,0,Yes
+4.0,31000.0,12.0,50.0,male,Secondary special education,Cell phones,1,0,48000.0,Another,1,1,Yes
+2.0,14500.0,12.0,33.0,female,Secondary special education,Household appliances,1,2,26000.0,Another,0,0,No
+8.0,30000.0,12.0,21.0,female,Secondary special education,Cell phones,0,2,41000.0,Unmarried,0,1,No
+6.0,28000.0,24.0,31.0,female,Higher education,Household appliances,0,1,101000.0,Married,2,0,No
+9.0,20500.0,12.0,28.0,male,Secondary special education,Household appliances,1,2,26000.0,Married,0,0,No
+3.0,6500.0,6.0,57.0,male,Secondary special education,Cell phones,1,2,10000.0,Another,1,0,Yes
+12.0,8500.0,12.0,30.0,female,Secondary special education,Cell phones,0,2,31000.0,Another,1,1,No
+1.0,36000.0,10.0,35.0,male,Higher education,Furniture,1,2,31000.0,Married,1,0,No
+4.0,21000.0,3.0,31.0,male,Higher education,Furniture,1,2,26000.0,Another,1,0,No
+8.0,14000.0,12.0,24.0,female,Secondary special education,Computers,0,2,26000.0,Married,0,0,No
+2.0,8000.0,18.0,23.0,female,Secondary special education,Cell phones,0,2,14000.0,Married,1,1,Yes
+6.0,40000.0,12.0,23.0,male,Secondary special education,Furniture,0,2,31000.0,Married,1,0,No
+9.0,23500.0,10.0,38.0,female,Higher education,Household appliances,0,0,41000.0,Another,1,1,No
+4.0,22500.0,10.0,35.0,male,Secondary special education,Cell phones,0,2,16000.0,Another,2,1,No
+11.0,17000.0,8.0,59.0,female,Higher education,Household appliances,0,2,26000.0,Married,1,0,No
+3.0,15000.0,12.0,20.0,male,Secondary special education,Computers,0,2,13000.0,Another,0,1,No
+8.0,19000.0,12.0,23.0,female,Secondary special education,Cell phones,0,2,41000.0,Married,0,1,Yes
+11.0,72500.0,8.0,37.0,male,Higher education,Household appliances,0,1,86000.0,Married,2,0,No
+6.0,39500.0,24.0,36.0,male,Higher education,Household appliances,1,2,30000.0,Married,1,1,Yes
+5.0,10000.0,6.0,23.0,female,Secondary special education,Household appliances,1,2,76000.0,Another,0,1,No
+7.0,8500.0,12.0,24.0,female,Secondary special education,Cell phones,0,2,25000.0,Unmarried,0,1,No
+3.0,31500.0,12.0,29.0,female,Secondary special education,Computers,1,2,31000.0,Another,0,0,No
+7.0,12000.0,3.0,29.0,female,Secondary special education,Cell phones,0,2,36000.0,Another,1,1,No
+6.0,131000.0,24.0,31.0,female,Secondary special education,Construction Materials,0,2,39000.0,Another,3,1,No
+12.0,18000.0,14.0,37.0,female,Secondary education,Cell phones,1,2,19000.0,Another,1,0,Yes
+1.0,18500.0,6.0,38.0,male,Higher education,Clothing,1,2,36000.0,Another,0,1,No
+9.0,96500.0,36.0,21.0,male,Incomplete higher education,Cosmetics and beauty services,0,0,56000.0,Married,0,1,No
+10.0,9000.0,10.0,34.0,female,Secondary special education,Cell phones,1,2,26000.0,Another,2,0,No
+5.0,14500.0,9.0,31.0,female,Secondary special education,Cell phones,1,2,16000.0,Another,1,0,Yes
+12.0,14000.0,12.0,23.0,female,Higher education,Cell phones,0,0,51000.0,Another,2,0,No
+1.0,9500.0,10.0,38.0,female,Secondary special education,Cell phones,1,2,26000.0,Another,1,1,No
+11.0,19000.0,10.0,43.0,male,Secondary special education,Furniture,1,2,29000.0,Married,3,0,No
+11.0,53000.0,6.0,55.0,female,Higher education,Household appliances,1,1,81000.0,Married,1,1,No
+9.0,8500.0,4.0,62.0,male,Secondary education,Construction Materials,1,2,8000.0,Another,0,1,No
+12.0,8000.0,5.0,50.0,female,Secondary special education,Cell phones,1,0,18000.0,Another,1,1,No
+5.0,14000.0,12.0,63.0,male,Secondary special education,Medical services,0,2,16000.0,Married,0,1,No
+2.0,10500.0,12.0,32.0,male,Secondary special education,Cell phones,0,2,31000.0,Married,0,1,No
+11.0,145000.0,36.0,26.0,female,Higher education,Tourism,0,2,46000.0,Married,0,0,No
+7.0,11500.0,6.0,49.0,male,Secondary education,Cell phones,0,2,41000.0,Another,4,1,No
+2.0,14500.0,4.0,62.0,male,Secondary special education,Windows & Doors,1,2,16000.0,Another,0,1,No
+9.0,22000.0,12.0,41.0,female,Secondary education,Household appliances,1,2,21000.0,Another,1,1,No
+7.0,68000.0,24.0,34.0,female,Secondary special education,Boats,1,2,51000.0,Another,2,1,No
+3.0,13000.0,10.0,45.0,female,Secondary education,Cell phones,1,2,26000.0,Married,2,0,No
+10.0,61500.0,12.0,33.0,male,Secondary special education,Clothing,1,2,31000.0,Another,2,1,No
+12.0,16000.0,12.0,25.0,female,Secondary special education,Cell phones,0,2,31000.0,Married,1,0,No
+1.0,18000.0,12.0,22.0,male,Secondary education,Cell phones,1,2,19000.0,Another,0,1,Yes
+11.0,39000.0,12.0,30.0,female,Secondary special education,Cell phones,0,0,41000.0,Married,1,0,Yes
+11.0,8000.0,3.0,38.0,male,Higher education,Furniture,1,2,30000.0,Married,1,0,No
+10.0,37000.0,10.0,41.0,female,Higher education,Cell phones,0,2,61000.0,Another,1,1,No
+1.0,24000.0,6.0,49.0,male,Higher education,Clothing,0,2,31000.0,Married,3,1,No
+4.0,21500.0,12.0,56.0,male,Secondary special education,Construction Materials,0,2,27000.0,Another,0,0,No
+4.0,17500.0,10.0,30.0,female,Secondary special education,Cell phones,1,2,31000.0,Married,1,1,No
+11.0,52500.0,10.0,38.0,male,Higher education,Jewelry,1,2,41000.0,Another,3,0,No
+6.0,78000.0,12.0,37.0,female,Higher education,Computers,0,0,71000.0,Another,0,1,No
+5.0,6500.0,6.0,35.0,female,Secondary special education,Cell phones,1,2,26000.0,Another,3,1,No
+11.0,16000.0,6.0,59.0,female,Secondary education,Cell phones,1,2,21000.0,Another,1,0,Yes
+7.0,37000.0,9.0,31.0,female,Secondary special education,Household appliances,1,0,46000.0,Another,2,0,No
+12.0,19000.0,10.0,24.0,female,Secondary special education,Household appliances,0,2,31000.0,Another,0,0,No
+5.0,13500.0,12.0,28.0,female,Secondary special education,Cell phones,0,2,27000.0,Another,0,1,No
+6.0,35500.0,24.0,25.0,male,Higher education,Cosmetics and beauty services,0,2,31000.0,Married,0,0,No
+2.0,34000.0,6.0,41.0,female,Secondary special education,Cell phones,1,2,26000.0,Married,1,1,Yes
+5.0,15000.0,12.0,63.0,female,Secondary education,Construction Materials,1,2,16000.0,Another,1,1,No
+2.0,69000.0,15.0,64.0,female,Higher education,Tourism,0,2,26000.0,Another,1,0,No
+2.0,16000.0,10.0,67.0,male,Higher education,Cosmetics and beauty services,0,2,35000.0,Married,1,0,No
+2.0,22500.0,18.0,40.0,male,Secondary special education,Household appliances,0,2,25000.0,Married,0,1,No
+7.0,8000.0,6.0,20.0,male,Incomplete secondary education,Cell phones,0,2,21000.0,Another,1,0,No
+3.0,22000.0,12.0,21.0,male,Secondary special education,Furniture,0,2,20000.0,Another,1,1,Yes
+9.0,7000.0,3.0,27.0,male,PhD degree,Clothing,0,2,31000.0,Another,1,0,No
+4.0,30000.0,24.0,41.0,female,Higher education,Household appliances,1,2,81000.0,Another,2,0,No
+3.0,11000.0,15.0,36.0,male,Secondary special education,Household appliances,1,2,11000.0,Married,1,0,No
+6.0,22500.0,4.0,27.0,male,Higher education,Clothing,1,2,81000.0,Another,2,1,No
+11.0,11500.0,12.0,24.0,female,Incomplete higher education,Computers,0,2,18000.0,Unmarried,0,0,No
+11.0,15000.0,24.0,26.0,female,Secondary education,Household appliances,0,2,26000.0,Another,2,1,No
+11.0,19500.0,10.0,41.0,female,Secondary special education,Cell phones,1,2,36000.0,Married,1,0,No
+10.0,16000.0,4.0,25.0,female,Secondary special education,Furniture,0,2,16000.0,Another,0,1,No
+12.0,6500.0,6.0,24.0,male,Secondary special education,Cell phones,0,2,18000.0,Another,0,1,No
+11.0,15000.0,12.0,29.0,male,Higher education,Computers,0,0,41000.0,Another,3,0,No
+4.0,49000.0,18.0,27.0,female,Higher education,Fitness,0,0,151000.0,Another,1,0,No
+10.0,14000.0,3.0,61.0,male,Higher education,Furniture,0,2,26000.0,Married,2,1,No
+10.0,30000.0,10.0,52.0,male,Secondary education,Computers,0,2,26000.0,Another,2,0,No
+5.0,11500.0,12.0,62.0,male,Secondary special education,Jewelry,1,2,13000.0,Another,2,1,No
+6.0,36000.0,30.0,29.0,male,Higher education,Cosmetics and beauty services,1,2,21000.0,Unmarried,0,1,No
+7.0,13000.0,6.0,34.0,male,Secondary special education,Furniture,1,2,25000.0,Another,0,0,No
+12.0,68500.0,6.0,48.0,male,Higher education,Clothing,0,0,51000.0,Another,1,0,No
+10.0,13000.0,10.0,30.0,male,Secondary special education,Cell phones,0,2,36000.0,Another,1,0,No
+3.0,13500.0,8.0,37.0,male,Secondary education,Household appliances,1,0,31000.0,Another,2,0,No
+4.0,21000.0,12.0,23.0,female,Secondary special education,Cell phones,0,0,81000.0,Married,1,1,No
+12.0,91000.0,36.0,32.0,male,Higher education,Clothing,0,2,41000.0,Another,1,0,No
+3.0,8500.0,6.0,40.0,male,Secondary special education,Jewelry,1,2,26000.0,Another,3,0,No
+6.0,21000.0,6.0,29.0,female,Secondary special education,Household appliances,0,0,41000.0,Another,1,1,No
+11.0,19500.0,12.0,44.0,male,Secondary special education,Cell phones,1,2,16000.0,Another,1,1,No
+2.0,52500.0,15.0,64.0,male,Higher education,Clothing,0,0,43000.0,Another,3,1,No
+7.0,25000.0,24.0,65.0,female,Secondary special education,Household appliances,0,2,18000.0,Married,1,0,No
+1.0,41000.0,15.0,40.0,male,Higher education,Tourism,1,2,26000.0,Married,0,1,No
+8.0,41500.0,12.0,49.0,male,Higher education,Furniture,0,2,19000.0,Married,1,0,No
+6.0,15000.0,6.0,43.0,female,Secondary special education,Household appliances,1,2,44000.0,Another,1,1,No
+8.0,18000.0,6.0,47.0,male,Secondary special education,Household appliances,1,2,10000.0,Another,1,1,No
+7.0,26000.0,6.0,27.0,female,Higher education,Cell phones,0,2,56000.0,Another,1,1,No
+11.0,19000.0,24.0,24.0,female,Secondary special education,Computers,0,2,31000.0,Another,0,1,No
+7.0,85000.0,36.0,41.0,male,Higher education,Household appliances,0,2,31000.0,Married,1,0,No
+5.0,7500.0,12.0,35.0,male,Higher education,Cell phones,1,2,23000.0,Married,2,1,No
+1.0,28000.0,18.0,36.0,male,Secondary special education,Cell phones,1,2,16000.0,Another,2,0,Yes
+8.0,12000.0,6.0,25.0,female,Secondary special education,Cell phones,0,2,13000.0,Another,0,1,No
+12.0,7000.0,3.0,40.0,female,Secondary education,Cell phones,0,2,60000.0,Another,2,1,No
+8.0,15000.0,12.0,37.0,male,Incomplete higher education,Household appliances,1,2,16000.0,Another,0,0,No
+11.0,19500.0,12.0,33.0,male,Secondary special education,Household appliances,0,2,26000.0,Another,3,0,No
+12.0,30000.0,12.0,30.0,male,Secondary special education,Computers,1,2,21000.0,Another,4,1,No
+8.0,9500.0,6.0,25.0,female,Secondary special education,Furniture,0,2,16000.0,Another,2,1,No
+3.0,22000.0,6.0,32.0,male,Secondary education,Household appliances,1,2,26000.0,Another,2,0,No
+2.0,12000.0,6.0,44.0,male,Secondary special education,Furniture,0,2,29000.0,Another,1,1,No
+12.0,18500.0,6.0,32.0,male,Higher education,Cell phones,1,2,46000.0,Another,1,1,No
+5.0,137000.0,18.0,37.0,male,Higher education,Household appliances,0,2,71000.0,Another,1,0,No
+12.0,46500.0,24.0,26.0,male,Higher education,Cosmetics and beauty services,0,2,51000.0,Another,2,1,No
+8.0,9000.0,12.0,27.0,male,Higher education,Household appliances,0,2,21000.0,Another,0,0,No
+3.0,18000.0,6.0,34.0,male,Secondary special education,Furniture,1,2,21000.0,Another,0,0,No
+12.0,5500.0,12.0,21.0,male,Incomplete higher education,Cell phones,0,2,15000.0,Another,1,1,No
+3.0,14500.0,12.0,40.0,female,Secondary special education,Cell phones,0,2,46000.0,Married,1,1,Yes
+7.0,7500.0,3.0,31.0,female,Secondary special education,Furniture,1,2,20000.0,Another,1,1,No
+11.0,15000.0,3.0,61.0,female,Secondary education,Clothing,0,0,26000.0,Another,3,1,No
+11.0,67000.0,24.0,39.0,female,Higher education,Cosmetics and beauty services,0,0,101000.0,Another,3,0,No
+2.0,35500.0,10.0,57.0,female,Secondary special education,Furniture,1,2,21000.0,Unmarried,1,1,No
+6.0,7000.0,3.0,53.0,male,Higher education,Household appliances,0,2,36000.0,Another,1,1,No
+7.0,28000.0,12.0,23.0,female,Secondary education,Cell phones,0,2,31000.0,Another,1,0,No
+8.0,13500.0,10.0,40.0,male,Secondary special education,Cell phones,1,2,21000.0,Another,0,1,No
+9.0,17000.0,12.0,24.0,male,Higher education,Tourism,0,2,31000.0,Another,3,1,Yes
+3.0,31000.0,6.0,32.0,female,Secondary special education,Cell phones,0,2,31000.0,Another,0,1,Yes
+10.0,6500.0,6.0,31.0,female,Secondary special education,Cell phones,0,2,31000.0,Another,2,0,No
+4.0,29000.0,12.0,23.0,female,Secondary special education,Computers,0,2,41000.0,Unmarried,1,1,No
+4.0,31000.0,12.0,29.0,male,Higher education,Household appliances,0,0,41000.0,Married,3,1,Yes
+1.0,35500.0,12.0,30.0,male,Higher education,Cell phones,0,0,51000.0,Another,2,1,No
+12.0,10500.0,6.0,60.0,male,Secondary special education,Household appliances,0,2,23000.0,Another,3,0,No
+2.0,19500.0,10.0,50.0,male,Higher education,Cell phones,1,2,21000.0,Another,2,1,No
+4.0,103000.0,12.0,61.0,male,Secondary special education,Household appliances,0,2,18000.0,Another,1,1,No
+9.0,30000.0,12.0,51.0,female,Secondary special education,Cell phones,0,2,46000.0,Married,1,1,Yes
+3.0,14000.0,8.0,33.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,2,1,Yes
+11.0,48500.0,15.0,23.0,male,Incomplete higher education,Computers,0,2,34000.0,Another,1,1,No
+9.0,9000.0,10.0,35.0,female,Incomplete higher education,Household appliances,1,2,51000.0,Another,0,0,No
+5.0,72500.0,24.0,27.0,male,Secondary special education,Household appliances,1,2,26000.0,Another,0,1,No
+3.0,73000.0,24.0,48.0,male,Higher education,Cosmetics and beauty services,0,0,93000.0,Unmarried,0,1,No
+9.0,10000.0,6.0,28.0,male,Secondary special education,Household appliances,1,0,28000.0,Another,3,1,No
+4.0,13000.0,6.0,50.0,male,Secondary special education,Computers,1,2,19000.0,Another,3,0,No
+8.0,9000.0,12.0,34.0,male,Secondary special education,Cell phones,0,2,19000.0,Married,2,1,Yes
+6.0,18000.0,18.0,39.0,male,Secondary special education,Cell phones,1,2,18000.0,Another,2,0,No
+3.0,20500.0,6.0,30.0,female,Secondary special education,Household appliances,0,2,41000.0,Another,2,0,No
+4.0,9000.0,10.0,25.0,male,Secondary special education,Furniture,0,2,36000.0,Another,2,0,No
+5.0,9500.0,12.0,43.0,female,Secondary special education,Cell phones,1,0,51000.0,Another,1,0,No
+5.0,17000.0,12.0,22.0,female,Secondary special education,Cell phones,0,0,38000.0,Married,0,1,Yes
+5.0,9500.0,6.0,20.0,male,Secondary special education,Cell phones,0,1,21000.0,Another,1,1,No
+10.0,26000.0,12.0,35.0,female,Secondary special education,Cell phones,0,2,41000.0,Another,0,0,Yes
+5.0,23000.0,12.0,23.0,female,Secondary special education,Cell phones,0,2,21000.0,Another,4,1,No
+2.0,14500.0,4.0,29.0,male,Secondary special education,Computers,1,2,9000.0,Married,1,0,No
+1.0,15000.0,24.0,25.0,female,Secondary special education,Household appliances,1,2,26000.0,Another,3,0,No
+6.0,10500.0,6.0,54.0,male,Higher education,Auto,0,2,33000.0,Married,1,1,No
+4.0,28500.0,15.0,30.0,female,Secondary special education,Household appliances,1,2,41000.0,Unmarried,1,0,No
+11.0,30500.0,12.0,22.0,female,Incomplete higher education,Cell phones,0,0,46000.0,Married,2,1,No
+9.0,66500.0,24.0,38.0,male,Higher education,Household appliances,1,2,121000.0,Another,1,0,No
+3.0,15000.0,6.0,46.0,female,Secondary special education,Cell phones,1,2,31000.0,Another,1,0,No
+3.0,19000.0,10.0,29.0,male,Higher education,Clothing,1,1,31000.0,Another,3,0,No
+10.0,10500.0,12.0,39.0,female,Secondary special education,Cell phones,0,2,37000.0,Married,1,0,No
+5.0,11500.0,6.0,22.0,female,Secondary education,Audio & Video,1,2,21000.0,Married,0,0,No
+10.0,11000.0,6.0,21.0,male,Higher education,Computers,0,2,31000.0,Another,0,0,No
+1.0,7000.0,12.0,39.0,male,Secondary special education,Cell phones,0,2,21000.0,Another,0,0,No
+5.0,8000.0,3.0,62.0,female,Secondary education,Household appliances,0,2,21000.0,Married,2,1,No
+7.0,82000.0,36.0,90.0,male,Higher education,Windows & Doors,0,0,46000.0,Another,1,1,No
+11.0,35000.0,18.0,52.0,male,Higher education,Cell phones,0,2,24000.0,Married,2,1,Yes
+6.0,16000.0,6.0,61.0,male,Secondary education,Furniture,0,2,21000.0,Another,3,1,No
+8.0,11000.0,12.0,22.0,female,Incomplete higher education,Cell phones,0,2,29000.0,Another,2,1,No
+3.0,10500.0,6.0,31.0,female,Higher education,Cell phones,1,2,51000.0,Another,1,1,No
+11.0,23500.0,18.0,31.0,female,Secondary education,Household appliances,1,2,28000.0,Another,1,1,No
+11.0,83000.0,36.0,58.0,male,Higher education,Cosmetics and beauty services,0,2,24000.0,Another,0,1,No
+4.0,9000.0,6.0,31.0,female,Higher education,Computers,0,2,19000.0,Another,0,0,No
+11.0,18500.0,10.0,22.0,male,Higher education,Jewelry,0,1,34000.0,Another,3,1,Yes
+4.0,8000.0,3.0,31.0,male,Higher education,Cell phones,1,2,29000.0,Another,1,1,No
+9.0,22000.0,11.0,40.0,male,Higher education,Computers,0,2,21000.0,Another,1,0,No
+8.0,20000.0,12.0,35.0,female,Secondary special education,Household appliances,1,2,41000.0,Another,4,1,No
+10.0,38000.0,24.0,49.0,male,Secondary special education,Medical services,1,2,21000.0,Another,2,1,No
+3.0,21000.0,6.0,31.0,male,Higher education,Household appliances,1,0,31000.0,Another,3,1,No
+3.0,22000.0,12.0,40.0,male,Higher education,Furniture,1,2,41000.0,Another,1,1,No
+10.0,32500.0,12.0,38.0,female,Secondary special education,Cell phones,0,2,28000.0,Another,1,1,Yes
+12.0,15000.0,12.0,44.0,female,Secondary education,Cell phones,1,2,46000.0,Another,0,0,No
+8.0,5000.0,3.0,47.0,female,Secondary special education,Household appliances,0,2,51000.0,Another,2,0,No
+9.0,15000.0,6.0,55.0,male,Higher education,Computers,1,2,41000.0,Another,0,0,No
+3.0,11500.0,12.0,39.0,female,Secondary special education,Computers,0,2,21000.0,Unmarried,1,1,No
+10.0,51000.0,18.0,20.0,female,Incomplete higher education,Household appliances,0,0,36000.0,Married,2,1,No
+5.0,14500.0,24.0,38.0,male,Secondary special education,Household appliances,1,2,11000.0,Another,0,0,No
+10.0,52500.0,6.0,64.0,male,Higher education,Furniture,0,2,51000.0,Another,0,0,No
+8.0,25000.0,24.0,35.0,female,Secondary special education,Auto,1,2,36000.0,Another,1,1,No
+10.0,7000.0,6.0,37.0,male,Secondary special education,Sporting goods,1,2,11000.0,Another,0,1,No
+5.0,13000.0,7.0,29.0,male,Secondary special education,Household appliances,0,2,16000.0,Another,2,1,No
+5.0,17500.0,12.0,24.0,male,Secondary education,Cell phones,0,2,21000.0,Another,3,0,Yes
+12.0,26000.0,8.0,50.0,male,Higher education,Household appliances,0,2,29000.0,Another,2,1,No
+7.0,8000.0,6.0,39.0,male,Secondary special education,Cell phones,1,2,14000.0,Married,0,1,No
+4.0,119000.0,8.0,28.0,male,Higher education,Furniture,0,0,69000.0,Another,2,0,No
+2.0,15500.0,6.0,35.0,male,Higher education,Furniture,1,2,26000.0,Married,2,1,No
+10.0,21500.0,12.0,39.0,female,Higher education,Computers,1,2,66000.0,Another,1,0,Yes
+11.0,103000.0,15.0,68.0,male,Secondary special education,Furniture,0,2,33000.0,Married,0,1,No
+12.0,93000.0,3.0,31.0,male,Higher education,Clothing,1,2,151000.0,Another,3,1,No
+8.0,54500.0,12.0,29.0,female,Secondary special education,Construction Materials,0,2,56000.0,Another,0,0,Yes
+3.0,43000.0,12.0,30.0,male,Higher education,Furniture,1,2,21000.0,Another,3,1,No
+5.0,11000.0,12.0,26.0,male,Secondary education,Cell phones,1,0,36000.0,Another,3,1,No
+5.0,28000.0,12.0,59.0,male,Secondary special education,Construction Materials,1,2,16000.0,Another,1,0,No
+10.0,27000.0,10.0,27.0,male,Incomplete higher education,Furniture,0,0,61000.0,Another,0,0,No
+12.0,66500.0,18.0,35.0,female,Higher education,Furniture,1,2,26000.0,Another,2,1,No
+9.0,15000.0,3.0,32.0,female,Higher education,Furniture,1,2,21000.0,Another,4,1,No
+4.0,20000.0,6.0,23.0,female,Secondary special education,Cell phones,0,2,36000.0,Married,1,1,Yes
+8.0,13000.0,10.0,32.0,female,Secondary special education,Household appliances,1,2,36000.0,Another,0,1,No
+12.0,22500.0,10.0,24.0,male,Secondary special education,Cell phones,0,1,26000.0,Another,1,0,No
+3.0,71000.0,18.0,25.0,female,Secondary special education,Clothing,0,2,26000.0,Another,0,1,No
+6.0,80000.0,36.0,45.0,male,Secondary special education,Windows & Doors,1,0,21000.0,Another,0,1,No
+3.0,16000.0,12.0,36.0,male,Secondary special education,Cell phones,0,0,31000.0,Another,1,0,No
+3.0,50000.0,18.0,26.0,female,Higher education,Audio & Video,0,1,71000.0,Married,2,1,No
+9.0,9500.0,10.0,31.0,male,Higher education,Cell phones,1,2,22000.0,Unmarried,1,0,No
+3.0,27500.0,12.0,28.0,female,Higher education,Cell phones,0,2,41000.0,Another,0,1,No
+2.0,199000.0,36.0,52.0,male,Higher education,Cosmetics and beauty services,0,2,61000.0,Another,1,1,No
+6.0,13000.0,3.0,21.0,male,Incomplete higher education,Household appliances,0,0,43000.0,Another,1,1,No
+6.0,26000.0,15.0,35.0,male,Higher education,Cell phones,1,2,26000.0,Another,2,1,No
+11.0,27000.0,12.0,24.0,female,Secondary education,Furniture,0,2,21000.0,Another,1,1,No
+6.0,23000.0,12.0,20.0,male,Secondary special education,Cell phones,0,2,26000.0,Another,1,1,No
+10.0,21000.0,12.0,21.0,female,Secondary special education,Cell phones,0,2,16000.0,Another,0,1,No
+3.0,19000.0,6.0,34.0,male,Secondary special education,Computers,1,2,27000.0,Another,1,0,No
+6.0,53500.0,12.0,37.0,male,Higher education,Training,1,0,26000.0,Another,0,1,No
+8.0,5500.0,3.0,36.0,female,Secondary special education,Construction Materials,1,2,21000.0,Another,1,1,No
+12.0,34000.0,8.0,62.0,male,Secondary education,Clothing,0,2,26000.0,Another,1,1,No
+6.0,19000.0,12.0,23.0,female,Secondary special education,Cell phones,0,2,26000.0,Married,1,1,No
+10.0,42500.0,12.0,79.0,male,Higher education,Clothing,0,2,19000.0,Married,1,1,No
+6.0,12000.0,18.0,23.0,female,Secondary special education,Household appliances,0,2,22000.0,Married,0,0,No
+12.0,56500.0,6.0,76.0,male,Higher education,Furniture,1,2,15000.0,Another,1,1,No
+11.0,37000.0,12.0,50.0,male,Secondary special education,Furniture,0,2,51000.0,Another,0,0,No
+12.0,23500.0,12.0,42.0,female,Secondary special education,Cell phones,1,2,56000.0,Married,0,0,Yes
+12.0,37000.0,6.0,29.0,female,Higher education,Household appliances,0,2,33000.0,Another,1,0,No
+10.0,25000.0,10.0,55.0,female,Higher education,Cell phones,0,2,51000.0,Married,2,1,No
+4.0,16500.0,6.0,20.0,female,Secondary special education,Computers,0,2,31000.0,Married,0,0,No
+9.0,36000.0,12.0,33.0,female,Secondary special education,Household appliances,0,2,51000.0,Another,0,0,No
+1.0,31000.0,12.0,20.0,male,Incomplete higher education,Household appliances,0,2,26000.0,Another,0,1,No
+9.0,53500.0,24.0,35.0,female,Higher education,Household appliances,1,2,71000.0,Another,1,0,No
+8.0,16500.0,12.0,31.0,male,Secondary special education,Household appliances,1,2,15000.0,Married,1,0,No
+9.0,18000.0,12.0,43.0,male,Higher education,Windows & Doors,1,2,26000.0,Another,0,0,No
+2.0,36000.0,24.0,41.0,male,Secondary special education,Clothing,1,2,21000.0,Another,1,0,No
+4.0,15000.0,6.0,24.0,male,Higher education,Boats,0,2,31000.0,Another,1,1,No
+3.0,30000.0,24.0,22.0,female,Secondary special education,Household appliances,0,2,13000.0,Another,2,1,No
+5.0,5000.0,6.0,23.0,female,Secondary special education,Cell phones,1,2,31000.0,Another,2,1,No
+2.0,31500.0,12.0,26.0,female,Secondary education,Cell phones,0,2,31000.0,Another,2,1,Yes
+7.0,11000.0,12.0,26.0,male,Higher education,Cell phones,1,2,37000.0,Married,0,1,No
+11.0,5500.0,6.0,24.0,female,Higher education,Clothing,1,2,36000.0,Another,1,1,No
+12.0,10000.0,3.0,56.0,female,Secondary special education,Household appliances,1,2,11000.0,Another,0,1,No
+1.0,26500.0,24.0,58.0,female,Higher education,Household appliances,1,0,26000.0,Another,1,0,No
+9.0,12500.0,5.0,22.0,female,Secondary special education,Household appliances,0,2,31000.0,Another,3,1,No
+1.0,8000.0,6.0,27.0,male,Secondary education,Cell phones,0,1,21000.0,Married,0,1,No
+9.0,28500.0,18.0,23.0,female,Secondary special education,Household appliances,0,2,44000.0,Unmarried,2,1,No
+11.0,18500.0,10.0,26.0,female,Incomplete higher education,Cell phones,0,2,36000.0,Another,1,0,No
+12.0,34500.0,10.0,30.0,female,Higher education,Computers,0,1,39000.0,Another,1,0,No
+5.0,12000.0,6.0,25.0,female,Secondary special education,Cell phones,0,2,12000.0,Another,0,1,Yes
+1.0,15000.0,6.0,21.0,female,Secondary special education,Cell phones,0,2,16000.0,Another,0,1,No
+9.0,26000.0,12.0,34.0,male,Higher education,Computers,1,2,56000.0,Married,2,0,No
+1.0,62000.0,12.0,62.0,male,Higher education,Clothing,0,0,41000.0,Another,3,1,No
+4.0,11000.0,6.0,43.0,male,Secondary special education,Cell phones,1,2,26000.0,Another,1,1,No
+5.0,28500.0,12.0,54.0,male,Secondary special education,Computers,0,2,25000.0,Married,2,1,No
+9.0,12000.0,6.0,25.0,female,Secondary special education,Household appliances,0,2,41000.0,Another,1,1,No
+1.0,29500.0,12.0,26.0,male,Higher education,Household appliances,0,2,16000.0,Another,0,1,No
+6.0,19500.0,12.0,32.0,male,Secondary special education,Cell phones,1,2,26000.0,Married,2,0,No
+12.0,15500.0,12.0,45.0,male,Secondary special education,Cell phones,1,2,20000.0,Another,2,1,No
+6.0,32500.0,18.0,53.0,female,Secondary special education,Cell phones,1,2,38000.0,Another,0,0,Yes
+6.0,11000.0,12.0,30.0,male,Higher education,Furniture,0,2,21000.0,Married,2,1,No
+4.0,8500.0,6.0,30.0,female,Secondary education,Computers,0,2,26000.0,Another,0,1,No
+9.0,42000.0,8.0,26.0,female,Secondary education,Windows & Doors,0,2,26000.0,Another,2,1,No
+10.0,15000.0,10.0,48.0,male,Secondary special education,Household appliances,0,0,36000.0,Another,1,0,No
+11.0,18500.0,6.0,42.0,female,Secondary special education,Computers,0,2,46000.0,Married,1,0,No
+9.0,9000.0,12.0,52.0,female,Secondary special education,Cell phones,0,2,51000.0,Another,0,1,No
+4.0,9500.0,3.0,32.0,male,Higher education,Household appliances,1,2,36000.0,Another,0,1,No
+3.0,24000.0,12.0,23.0,male,Secondary special education,Cell phones,0,2,26000.0,Married,0,1,No
+2.0,40000.0,12.0,24.0,female,Secondary special education,Cell phones,0,2,41000.0,Another,1,1,No
+11.0,36500.0,12.0,35.0,male,Secondary education,Cell phones,0,2,19000.0,Another,1,1,Yes
+7.0,29500.0,6.0,24.0,female,Higher education,Cell phones,0,2,26000.0,Another,0,1,No
+11.0,21500.0,9.0,22.0,female,Secondary special education,Household appliances,0,2,36000.0,Another,0,1,Yes
+11.0,34000.0,12.0,39.0,female,Higher education,Household appliances,0,0,36000.0,Married,1,1,No
+3.0,201000.0,12.0,37.0,male,Higher education,Clothing,0,0,61000.0,Married,1,1,Yes
+3.0,20500.0,10.0,43.0,male,Secondary special education,Computers,1,2,21000.0,Another,3,1,No
+1.0,9500.0,4.0,27.0,female,Secondary special education,Cell phones,0,2,31000.0,Married,1,0,No
+5.0,27000.0,12.0,22.0,male,Incomplete higher education,Household appliances,0,2,26000.0,Another,1,1,No
+4.0,20500.0,12.0,54.0,male,Secondary special education,Cell phones,0,2,41000.0,Another,0,1,No
+5.0,23000.0,12.0,26.0,male,Higher education,Cell phones,0,2,31000.0,Another,3,1,No
+6.0,13500.0,6.0,25.0,female,Secondary special education,Childen\s goods',0,2,19000.0,Another,1,1,No
+11.0,14000.0,10.0,38.0,male,Higher education,Jewelry,1,2,31000.0,Another,1,0,No
+1.0,29500.0,18.0,21.0,male,Secondary special education,Cell phones,0,2,23000.0,Another,1,0,Yes
+3.0,6000.0,3.0,25.0,male,Secondary special education,Jewelry,1,2,23000.0,Married,3,1,No
+11.0,23000.0,12.0,25.0,female,Secondary education,Computers,0,2,31000.0,Another,1,1,No
+12.0,10000.0,12.0,30.0,female,Secondary education,Cell phones,0,2,26000.0,Married,3,1,No
+12.0,80000.0,36.0,44.0,female,Secondary special education,Household appliances,1,2,54000.0,Another,0,1,No
+11.0,18000.0,10.0,33.0,male,Secondary education,Computers,1,2,16000.0,Another,2,0,No
+9.0,30500.0,12.0,20.0,male,Secondary special education,Household appliances,0,2,33000.0,Married,2,0,No
+12.0,24500.0,9.0,38.0,female,Incomplete higher education,Household appliances,1,2,31000.0,Another,0,1,No
+6.0,6000.0,3.0,63.0,male,Secondary special education,Computers,1,2,14000.0,Unmarried,2,0,No
+7.0,20500.0,12.0,30.0,female,Higher education,Computers,1,2,26000.0,Another,0,0,No
+12.0,14500.0,6.0,20.0,male,Secondary special education,Household appliances,0,2,20000.0,Married,3,1,No
+1.0,23500.0,11.0,54.0,male,Higher education,Fitness,0,2,31000.0,Another,1,1,No
+10.0,15000.0,12.0,25.0,female,Higher education,Computers,0,2,31000.0,Another,2,0,No
+8.0,16500.0,12.0,78.0,male,Secondary special education,Windows & Doors,1,0,21000.0,Unmarried,0,1,No
+7.0,15000.0,6.0,37.0,male,Secondary special education,Household appliances,0,2,21000.0,Another,1,0,No
+4.0,24000.0,18.0,22.0,male,Higher education,Cell phones,0,2,18000.0,Another,1,0,No
+8.0,28000.0,18.0,54.0,female,Secondary education,Household appliances,1,2,16000.0,Another,1,1,No
+3.0,25000.0,18.0,40.0,female,Secondary special education,Household appliances,1,2,46000.0,Another,0,0,No
+2.0,164000.0,12.0,57.0,male,Higher education,Clothing,1,2,81000.0,Another,0,1,No
+2.0,23500.0,12.0,49.0,female,Secondary special education,Cell phones,1,0,65000.0,Married,0,0,No
+4.0,8500.0,4.0,56.0,male,Secondary special education,Cell phones,0,2,2000.0,Another,1,0,No
+8.0,36000.0,15.0,21.0,male,Higher education,Furniture,0,2,21000.0,Married,0,0,No
+2.0,29000.0,12.0,31.0,male,Secondary education,Cell phones,0,1,31000.0,Married,1,0,No
+5.0,13000.0,6.0,27.0,female,Secondary special education,Household appliances,0,0,31000.0,Another,3,0,No
+12.0,7500.0,3.0,55.0,male,Secondary education,Household appliances,0,0,31000.0,Another,0,1,Yes
+11.0,5500.0,6.0,43.0,female,Secondary special education,Cell phones,0,2,23000.0,Another,1,0,No
+12.0,78500.0,24.0,38.0,male,Secondary special education,Computers,1,2,81000.0,Another,2,0,No
+4.0,12500.0,6.0,43.0,male,Secondary special education,Cell phones,0,2,21000.0,Another,1,1,No
+4.0,7000.0,4.0,28.0,female,Incomplete higher education,Jewelry,1,2,24000.0,Another,1,1,No
+8.0,39500.0,30.0,49.0,male,Higher education,Cosmetics and beauty services,0,2,13000.0,Married,1,1,No
+3.0,13000.0,15.0,30.0,male,Secondary special education,Cell phones,1,2,16000.0,Another,4,0,No
+3.0,5500.0,4.0,41.0,male,Secondary special education,Construction Materials,0,2,19000.0,Another,0,0,No
+9.0,8000.0,10.0,22.0,female,Secondary special education,Cell phones,0,2,16000.0,Unmarried,3,0,No
+7.0,19500.0,12.0,62.0,male,Secondary special education,Construction Materials,1,2,11000.0,Another,2,1,No
+4.0,10000.0,4.0,48.0,male,Secondary special education,Construction Materials,1,2,14000.0,Married,2,0,No
+7.0,15000.0,6.0,29.0,female,Incomplete higher education,Computers,0,1,36000.0,Another,2,1,No
+3.0,95500.0,36.0,45.0,male,Secondary special education,Clothing,1,2,26000.0,Married,3,1,No
+9.0,7500.0,3.0,63.0,male,Secondary education,Construction Materials,0,2,12000.0,Another,2,0,No
+7.0,21000.0,3.0,38.0,male,Secondary special education,Household appliances,1,2,101000.0,Married,0,0,No
+11.0,99500.0,18.0,27.0,female,Higher education,Household appliances,0,2,51000.0,Another,0,1,Yes
+10.0,28500.0,12.0,61.0,male,Secondary special education,Clothing,1,2,16000.0,Another,2,0,No
+11.0,35000.0,10.0,31.0,male,Higher education,Cell phones,0,0,121000.0,Another,0,0,No
+1.0,14500.0,12.0,25.0,female,Higher education,Cell phones,0,2,26000.0,Married,0,1,No
+8.0,34500.0,10.0,27.0,female,Higher education,Cell phones,0,2,31000.0,Another,2,0,No
+11.0,8000.0,3.0,22.0,female,Higher education,Auto,0,2,41000.0,Another,1,1,No
+12.0,100500.0,15.0,49.0,male,Higher education,Clothing,0,2,46000.0,Another,2,0,No
+10.0,63000.0,24.0,28.0,male,Secondary special education,Clothing,0,2,26000.0,Married,3,0,No
+7.0,103000.0,24.0,59.0,male,Higher education,Cosmetics and beauty services,1,2,36000.0,Another,1,1,No
+9.0,58500.0,12.0,59.0,male,Secondary education,Windows & Doors,1,2,38000.0,Another,1,0,No
+1.0,29000.0,12.0,29.0,female,Higher education,Household appliances,0,2,46000.0,Another,1,1,No
+7.0,16500.0,6.0,30.0,female,Incomplete higher education,Sporting goods,1,2,26000.0,Another,2,0,No
+7.0,19500.0,10.0,19.0,male,Secondary special education,Cell phones,0,2,20000.0,Another,3,0,No
+11.0,58500.0,34.0,53.0,male,Higher education,Cosmetics and beauty services,0,2,29000.0,Another,4,1,No
+9.0,31500.0,8.0,31.0,female,Higher education,Cell phones,0,0,53000.0,Married,1,1,Yes
+4.0,16000.0,12.0,46.0,male,Secondary special education,Furniture,1,2,20000.0,Another,1,0,No
+1.0,37000.0,10.0,64.0,male,Higher education,Clothing,0,0,51000.0,Another,1,1,No
+8.0,35000.0,6.0,36.0,male,Higher education,Audio & Video,1,2,29000.0,Another,2,1,No
+8.0,41000.0,18.0,50.0,male,Secondary special education,Cosmetics and beauty services,1,0,31000.0,Another,1,1,No
+7.0,7000.0,4.0,53.0,female,Secondary special education,Cell phones,0,0,16000.0,Married,1,1,No
+5.0,10000.0,12.0,22.0,male,Secondary special education,Cell phones,0,2,21000.0,Another,1,1,No
+7.0,73000.0,24.0,62.0,male,Secondary special education,Cosmetics and beauty services,0,0,21000.0,Married,0,1,No
+3.0,34000.0,10.0,51.0,male,Secondary special education,Construction Materials,0,2,51000.0,Another,0,0,No
+1.0,17500.0,6.0,35.0,female,Higher education,Cell phones,0,2,39000.0,Another,2,1,No
+11.0,20000.0,6.0,34.0,male,Incomplete higher education,Cell phones,0,0,46000.0,Another,0,0,No
+8.0,87500.0,18.0,55.0,male,Secondary special education,Cosmetics and beauty services,0,0,36000.0,Another,1,0,No
+5.0,27500.0,12.0,25.0,male,Secondary special education,Jewelry,0,2,21000.0,Another,1,1,Yes
+12.0,43000.0,24.0,28.0,male,Higher education,Cosmetics and beauty services,0,2,46000.0,Married,2,1,No
+12.0,19000.0,12.0,21.0,female,Secondary special education,Cell phones,0,2,18000.0,Another,0,0,No
+11.0,10500.0,6.0,33.0,female,Secondary education,Computers,0,2,21000.0,Another,1,1,No
+11.0,19500.0,18.0,44.0,female,Secondary special education,Household appliances,0,2,11000.0,Another,1,1,No
+6.0,35500.0,24.0,56.0,male,Higher education,Cosmetics and beauty services,0,2,26000.0,Married,1,1,No
+2.0,16000.0,6.0,21.0,female,Secondary special education,Cell phones,0,2,21000.0,Married,1,0,No
+11.0,112000.0,12.0,29.0,female,Higher education,Furniture,1,0,71000.0,Another,0,1,No
+11.0,27500.0,16.0,52.0,female,Secondary special education,Cell phones,0,2,30000.0,Another,1,1,Yes
+3.0,17500.0,18.0,44.0,male,Secondary special education,Household appliances,0,2,23000.0,Another,0,0,No
+11.0,99000.0,24.0,44.0,male,Higher education,Furniture,0,2,71000.0,Married,3,0,No
+6.0,17500.0,13.0,47.0,female,Higher education,Household appliances,1,2,21000.0,Another,0,0,No
+10.0,34500.0,24.0,32.0,female,Higher education,Cosmetics and beauty services,1,2,51000.0,Another,1,1,No
+12.0,25000.0,6.0,41.0,male,Higher education,Furniture,1,2,31000.0,Another,3,0,No
+11.0,46000.0,10.0,40.0,female,Higher education,Clothing,0,2,71000.0,Another,0,1,No
+10.0,13500.0,6.0,40.0,female,Secondary special education,Cell phones,1,2,29000.0,Married,0,1,Yes
+6.0,60500.0,36.0,39.0,male,Secondary education,Windows & Doors,1,2,14000.0,Another,1,1,No
+3.0,27000.0,24.0,27.0,male,Higher education,Computers,0,0,41000.0,Another,0,0,No
+11.0,6500.0,6.0,36.0,female,Secondary special education,Cell phones,0,2,21000.0,Another,1,0,Yes
+4.0,13500.0,12.0,34.0,male,Higher education,Household appliances,1,2,61000.0,Another,1,1,No
+2.0,28000.0,12.0,21.0,female,Secondary special education,Cell phones,0,2,71000.0,Another,0,1,No
+5.0,29500.0,3.0,22.0,male,Secondary special education,Cell phones,1,2,16000.0,Another,0,1,No
+3.0,6000.0,6.0,46.0,female,Secondary special education,Cell phones,1,2,31000.0,Another,3,0,No
+12.0,81000.0,36.0,31.0,female,Higher education,Repair Services,0,2,31000.0,Unmarried,3,1,Yes
+5.0,13000.0,10.0,23.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,1,0,No
+12.0,29500.0,6.0,30.0,female,Secondary education,Cell phones,1,0,71000.0,Another,1,1,No
+10.0,10000.0,6.0,34.0,female,Higher education,Auto,1,2,21000.0,Another,0,0,No
+6.0,13000.0,10.0,40.0,male,Higher education,Tourism,0,2,26000.0,Married,2,0,No
+9.0,21500.0,12.0,29.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,2,0,No
+3.0,23000.0,10.0,23.0,female,Secondary special education,Cell phones,0,2,51000.0,Married,1,1,No
+11.0,12000.0,3.0,27.0,female,Higher education,Cell phones,1,2,34000.0,Another,1,0,No
+6.0,28500.0,6.0,21.0,female,Secondary education,Household appliances,0,2,41000.0,Married,2,1,No
+6.0,15500.0,12.0,25.0,male,Secondary special education,Household appliances,1,2,18000.0,Another,3,0,No
+7.0,15000.0,6.0,27.0,female,Higher education,Household appliances,0,2,33000.0,Another,1,0,No
+12.0,21500.0,10.0,28.0,male,Secondary special education,Household appliances,1,0,46000.0,Another,3,0,No
+4.0,25000.0,36.0,20.0,male,Incomplete higher education,Clothing,0,2,36000.0,Another,3,0,No
+12.0,18500.0,10.0,28.0,male,Secondary special education,Cell phones,0,2,18000.0,Another,1,1,No
+3.0,51000.0,12.0,29.0,female,Higher education,Household appliances,0,2,41000.0,Another,2,0,No
+10.0,35000.0,11.0,25.0,male,Higher education,Fitness,0,0,61000.0,Another,0,1,No
+12.0,33000.0,12.0,25.0,female,Secondary special education,Cell phones,0,2,81000.0,Another,0,1,No
+12.0,7000.0,12.0,39.0,male,Secondary special education,Cell phones,1,2,10000.0,Married,1,0,Yes
+3.0,24500.0,12.0,37.0,female,Higher education,Household appliances,1,2,61000.0,Another,2,0,No
+7.0,106000.0,15.0,32.0,female,Higher education,Tourism,0,2,49000.0,Another,1,1,No
+2.0,29500.0,6.0,47.0,male,Secondary special education,Household appliances,0,2,26000.0,Another,1,0,No
+11.0,23500.0,10.0,39.0,female,Secondary special education,Household appliances,0,0,39000.0,Another,0,1,No
+6.0,40000.0,12.0,64.0,male,Secondary special education,Furniture,0,2,18000.0,Unmarried,1,0,No
+9.0,15500.0,6.0,35.0,female,Secondary special education,Cell phones,1,2,31000.0,Married,0,1,Yes
+9.0,24500.0,12.0,20.0,male,Secondary special education,Household appliances,0,2,26000.0,Another,1,1,No
+11.0,7000.0,10.0,38.0,female,Secondary special education,Cell phones,1,2,36000.0,Another,0,1,No
+4.0,21500.0,12.0,68.0,male,Higher education,Medical services,1,2,14000.0,Another,2,0,No
+4.0,15000.0,6.0,23.0,female,Secondary special education,Clothing,0,2,28000.0,Another,1,1,No
+6.0,18000.0,6.0,28.0,male,Secondary special education,Furniture,1,2,23000.0,Another,0,1,No
+8.0,11500.0,6.0,73.0,male,Secondary special education,Household appliances,0,2,13000.0,Married,3,0,No
+3.0,8000.0,3.0,30.0,female,Higher education,Computers,0,2,26000.0,Married,0,1,No
+2.0,15000.0,6.0,28.0,male,Higher education,Household appliances,0,2,26000.0,Married,1,0,No
+11.0,59000.0,7.0,50.0,male,Higher education,Clothing,0,2,36000.0,Another,0,1,No
+7.0,8500.0,7.0,22.0,female,Higher education,Household appliances,0,2,18000.0,Another,0,1,No
+12.0,8000.0,12.0,32.0,female,Secondary special education,Cell phones,0,0,31000.0,Another,0,1,No
+5.0,42000.0,6.0,71.0,male,Secondary education,Windows & Doors,0,2,16000.0,Another,1,1,No
+12.0,32000.0,10.0,24.0,female,Higher education,Cell phones,0,1,31000.0,Married,0,0,No
+1.0,30000.0,12.0,24.0,female,Secondary special education,Computers,1,2,31000.0,Married,0,0,No
+3.0,34000.0,12.0,18.0,male,Secondary education,Cell phones,0,2,26000.0,Another,4,1,Yes
+2.0,28000.0,12.0,43.0,female,Incomplete higher education,Computers,1,2,16000.0,Married,1,1,No
+11.0,58000.0,12.0,31.0,male,Higher education,Furniture,1,2,31000.0,Married,1,0,No
+9.0,11000.0,6.0,53.0,male,Secondary special education,Furniture,1,2,26000.0,Another,3,0,No
+9.0,20500.0,10.0,31.0,female,Secondary special education,Cell phones,0,2,17000.0,Another,1,1,No
+1.0,13000.0,12.0,28.0,male,Higher education,Household appliances,1,2,19000.0,Unmarried,1,1,No
+8.0,24000.0,6.0,49.0,female,Secondary special education,Household appliances,0,2,26000.0,Another,3,1,No
+10.0,14000.0,4.0,47.0,female,Secondary special education,Furniture,1,1,36000.0,Married,0,1,No
+8.0,8500.0,3.0,65.0,male,Secondary special education,Cell phones,1,2,10000.0,Married,0,1,No
+7.0,20000.0,12.0,24.0,male,Secondary special education,Cell phones,1,2,21000.0,Married,1,1,No
+6.0,11500.0,6.0,26.0,female,Secondary special education,Computers,0,2,32000.0,Another,2,0,No
+6.0,9000.0,3.0,29.0,male,Secondary special education,Cell phones,1,2,15000.0,Another,2,0,No
+4.0,39000.0,18.0,29.0,male,Higher education,Cosmetics and beauty services,1,2,41000.0,Another,0,1,No
+6.0,31500.0,18.0,24.0,female,Secondary special education,Cell phones,1,2,36000.0,Another,3,1,Yes
+7.0,52500.0,3.0,30.0,female,Secondary education,Auto,1,2,56000.0,Married,2,0,No
+2.0,57000.0,24.0,23.0,male,Higher education,Household appliances,0,2,46000.0,Married,2,1,No
+11.0,21000.0,18.0,21.0,male,Secondary special education,Household appliances,0,2,19000.0,Another,1,1,No
+12.0,9500.0,6.0,30.0,male,Higher education,Clothing,0,2,31000.0,Another,1,1,No
+4.0,14000.0,12.0,40.0,male,Secondary special education,Household appliances,0,2,18000.0,Another,4,0,No
+3.0,54000.0,18.0,55.0,male,Higher education,Clothing,1,0,12000.0,Another,1,0,No
+4.0,21000.0,10.0,28.0,male,Higher education,Cell phones,0,0,21000.0,Another,2,1,No
+3.0,32000.0,24.0,47.0,male,Secondary special education,Household appliances,1,2,33000.0,Unmarried,0,1,No
+4.0,12000.0,6.0,23.0,male,Higher education,Household appliances,0,2,31000.0,Another,2,0,No
+12.0,23500.0,12.0,58.0,male,Secondary education,Household appliances,0,2,8000.0,Another,2,1,No
+11.0,57500.0,18.0,76.0,female,Secondary education,Household appliances,1,2,1000.0,Another,0,1,No
+11.0,21000.0,6.0,25.0,female,Secondary special education,Furniture,0,2,101000.0,Another,2,1,No
+4.0,10500.0,10.0,56.0,female,Secondary special education,Cell phones,1,2,10000.0,Another,1,1,No
+10.0,46000.0,24.0,53.0,male,Secondary special education,Construction Materials,1,2,21000.0,Married,2,1,Yes
+11.0,19000.0,12.0,30.0,female,Secondary special education,Computers,1,2,41000.0,Another,0,1,No
+1.0,24000.0,12.0,37.0,male,Higher education,Household appliances,0,1,41000.0,Another,1,0,No
+3.0,9500.0,9.0,22.0,female,Secondary special education,Computers,0,2,19000.0,Married,1,1,Yes
+11.0,28500.0,12.0,28.0,female,Secondary education,Household appliances,1,2,36000.0,Another,3,1,No
+4.0,22500.0,6.0,55.0,female,Secondary special education,Computers,1,2,71000.0,Married,1,0,No
+8.0,16000.0,12.0,42.0,male,Secondary special education,Auto,0,2,24000.0,Married,1,0,No
+6.0,24500.0,12.0,23.0,male,Higher education,Computers,0,2,24000.0,Another,0,0,No
+11.0,63500.0,10.0,37.0,male,Secondary special education,Furniture,1,2,36000.0,Married,0,1,Yes
+12.0,49000.0,36.0,43.0,female,Secondary special education,Boats,0,2,26000.0,Another,3,1,Yes
+8.0,7000.0,6.0,33.0,male,Secondary special education,Cell phones,1,2,13000.0,Married,2,0,No
+6.0,18500.0,6.0,26.0,female,Secondary special education,Cell phones,0,2,25000.0,Another,3,0,No
+4.0,17000.0,10.0,30.0,male,Secondary special education,Jewelry,1,1,26000.0,Married,1,1,No
+4.0,14000.0,12.0,46.0,female,Higher education,Cell phones,1,2,26000.0,Another,2,1,No
+7.0,19000.0,10.0,60.0,male,Secondary special education,Household appliances,1,2,21000.0,Unmarried,1,0,No
+4.0,85000.0,18.0,66.0,male,Secondary special education,Furniture,1,2,19000.0,Another,2,1,No
+3.0,14000.0,6.0,20.0,female,Secondary special education,Cell phones,0,2,21000.0,Another,2,1,No
+12.0,10500.0,10.0,21.0,female,Secondary special education,Cell phones,0,2,21000.0,Another,2,0,No
+12.0,54000.0,24.0,38.0,male,Secondary special education,Furniture,1,2,21000.0,Another,3,1,No
+5.0,13500.0,12.0,43.0,male,Secondary special education,Medical services,1,2,31000.0,Married,2,1,No
+12.0,116000.0,24.0,34.0,male,Higher education,Clothing,1,2,41000.0,Another,2,0,No
+10.0,20000.0,12.0,20.0,female,Secondary education,Auto,1,2,29000.0,Another,1,1,No
+7.0,20500.0,24.0,36.0,male,Higher education,Computers,1,2,31000.0,Another,2,0,No
+1.0,8000.0,3.0,23.0,male,Higher education,Computers,0,2,21000.0,Another,0,1,No
+9.0,5500.0,5.0,47.0,male,Secondary special education,Clothing,0,2,16000.0,Unmarried,1,0,No
+12.0,37500.0,24.0,27.0,male,Higher education,Tourism,0,2,26000.0,Married,1,1,No
+12.0,23500.0,10.0,53.0,male,Higher education,Household appliances,1,2,21000.0,Another,1,1,No
+5.0,14000.0,6.0,46.0,female,Secondary education,Computers,0,2,46000.0,Married,2,1,No
+8.0,19500.0,12.0,22.0,male,Secondary special education,Cell phones,0,2,19000.0,Another,3,1,Yes
+12.0,29500.0,12.0,20.0,male,Secondary special education,Tourism,0,2,26000.0,Another,3,1,No
+7.0,6500.0,12.0,34.0,female,Secondary special education,Household appliances,0,2,16000.0,Married,0,1,No
+6.0,30500.0,6.0,40.0,female,Higher education,Household appliances,1,2,51000.0,Another,0,0,No
+10.0,55500.0,10.0,49.0,male,Higher education,Household appliances,0,2,41000.0,Another,1,0,No
+6.0,11000.0,12.0,22.0,female,Secondary special education,Cell phones,0,2,21000.0,Another,1,0,No
+10.0,20500.0,6.0,33.0,female,Secondary special education,Cell phones,1,2,46000.0,Married,3,1,No
+12.0,30500.0,18.0,28.0,female,Secondary special education,Household appliances,1,2,31000.0,Married,1,1,No
+8.0,7500.0,3.0,36.0,female,Secondary education,Household appliances,0,2,31000.0,Another,2,0,No
+3.0,22500.0,6.0,33.0,male,Higher education,Training,1,2,31000.0,Married,1,0,No
+10.0,42500.0,24.0,35.0,male,Higher education,Cosmetics and beauty services,0,2,36000.0,Another,0,0,No
+10.0,13000.0,6.0,48.0,male,Higher education,Cell phones,0,2,19000.0,Married,0,1,No
+7.0,6000.0,12.0,38.0,male,Secondary education,Windows & Doors,1,2,13000.0,Another,1,1,Yes
+6.0,9000.0,6.0,20.0,female,Incomplete higher education,Household appliances,0,2,23000.0,Another,0,1,No
+8.0,14000.0,12.0,33.0,female,Secondary special education,Jewelry,0,2,51000.0,Another,0,0,No
+3.0,15500.0,10.0,32.0,female,Higher education,Cell phones,0,2,51000.0,Another,2,1,No
+9.0,16000.0,16.0,19.0,female,Secondary special education,Cell phones,0,2,26000.0,Married,1,1,No
+10.0,101000.0,36.0,55.0,male,Secondary special education,Boats,1,2,36000.0,Another,0,0,No
+3.0,25000.0,12.0,42.0,female,Secondary special education,Cell phones,0,0,21000.0,Another,1,0,Yes
+1.0,10500.0,10.0,22.0,female,Secondary special education,Computers,0,2,21000.0,Another,2,1,No
+1.0,23500.0,18.0,31.0,male,Secondary special education,Household appliances,1,2,19000.0,Another,1,0,No
+6.0,22500.0,6.0,24.0,female,Higher education,Household appliances,0,2,21000.0,Married,2,1,No
+2.0,6500.0,6.0,31.0,male,Secondary special education,Cell phones,1,2,26000.0,Another,1,1,Yes
+1.0,10000.0,24.0,23.0,male,Incomplete higher education,Computers,0,2,21000.0,Married,1,0,Yes
+6.0,8500.0,6.0,78.0,male,Higher education,Household appliances,0,2,16000.0,Another,0,1,No
+1.0,9000.0,6.0,31.0,male,Secondary special education,Cell phones,1,2,36000.0,Married,0,1,No
+11.0,10000.0,5.0,43.0,male,Secondary special education,Computers,1,2,21000.0,Married,1,1,No
+9.0,29500.0,12.0,78.0,female,Higher education,Boats,0,2,13000.0,Another,0,1,No
+11.0,23000.0,6.0,21.0,female,Secondary special education,Household appliances,0,2,41000.0,Another,0,0,No
+12.0,20000.0,12.0,22.0,female,Secondary special education,Household appliances,0,2,28000.0,Another,0,1,Yes
+8.0,26500.0,18.0,26.0,male,Higher education,Cell phones,0,0,56000.0,Another,1,0,No
+12.0,14500.0,10.0,39.0,male,Secondary education,Windows & Doors,1,2,18000.0,Another,0,0,No
+7.0,14000.0,6.0,28.0,male,Secondary education,Furniture,1,2,21000.0,Another,2,1,No
+10.0,11500.0,10.0,30.0,female,Incomplete higher education,Cell phones,1,1,26000.0,Unmarried,0,0,No
+9.0,27500.0,12.0,38.0,male,Secondary special education,Computers,1,2,19000.0,Another,2,0,No
+11.0,30500.0,6.0,29.0,male,Higher education,Fitness,0,0,61000.0,Another,3,0,No
+7.0,35500.0,12.0,24.0,male,Higher education,Household appliances,0,0,26000.0,Married,3,0,No
+4.0,12000.0,12.0,26.0,female,Secondary education,Cell phones,0,2,14000.0,Married,2,1,No
+10.0,19500.0,24.0,29.0,female,Secondary special education,Household appliances,1,2,41000.0,Married,1,1,No
+1.0,25500.0,12.0,28.0,male,Higher education,Computers,0,2,26000.0,Another,0,0,No
+12.0,17000.0,12.0,24.0,female,Secondary special education,Cell phones,0,2,21000.0,Another,1,1,No
+2.0,10000.0,12.0,39.0,male,Higher education,Household appliances,1,2,21000.0,Married,0,1,No
+2.0,30500.0,18.0,28.0,male,Higher education,Furniture,1,2,21000.0,Married,2,1,No
+4.0,58500.0,24.0,54.0,male,Secondary special education,Computers,0,2,26000.0,Another,1,0,No
+11.0,7000.0,6.0,34.0,female,Higher education,Auto,1,2,39000.0,Another,3,1,No
+2.0,12500.0,18.0,32.0,female,Secondary education,Cell phones,1,2,11000.0,Married,1,0,No
+3.0,9500.0,6.0,58.0,male,Secondary special education,Cell phones,0,2,21000.0,Married,1,0,No
+10.0,14000.0,10.0,49.0,female,Secondary special education,Cell phones,1,0,31000.0,Unmarried,0,1,Yes
+2.0,22000.0,24.0,32.0,female,Higher education,Household appliances,1,2,23000.0,Another,1,0,No
+9.0,31000.0,12.0,21.0,female,Secondary special education,Cell phones,0,2,36000.0,Married,1,1,Yes
+1.0,116000.0,18.0,33.0,female,Higher education,Clothing,1,2,36000.0,Married,3,1,No
+7.0,78000.0,36.0,33.0,female,Secondary special education,Auto,1,2,28000.0,Another,4,1,No
+4.0,15000.0,12.0,41.0,male,Higher education,Computers,1,2,18000.0,Another,1,1,No
+10.0,10000.0,12.0,27.0,female,Higher education,Household appliances,1,2,31000.0,Married,0,1,No
+11.0,81500.0,15.0,24.0,male,Higher education,Tourism,0,0,61000.0,Married,0,0,No
+11.0,9500.0,12.0,23.0,male,Secondary education,Cell phones,0,2,20000.0,Married,0,1,No
+6.0,29000.0,18.0,23.0,male,Secondary special education,Cell phones,1,2,31000.0,Another,1,1,No
+9.0,33000.0,12.0,29.0,female,Higher education,Computers,1,0,36000.0,Another,2,0,No
+7.0,6500.0,4.0,33.0,male,Higher education,Cell phones,0,2,26000.0,Another,0,1,No
+4.0,27500.0,10.0,21.0,female,Secondary special education,Cell phones,0,2,22000.0,Unmarried,3,1,No
+4.0,56000.0,16.0,28.0,male,Secondary special education,Household appliances,0,2,31000.0,Another,1,1,Yes
+8.0,31500.0,18.0,61.0,female,Higher education,Cell phones,1,2,37000.0,Another,2,1,No
+10.0,66000.0,10.0,32.0,male,Higher education,Clothing,1,2,61000.0,Married,2,0,No
+6.0,157500.0,18.0,53.0,male,Secondary education,Household appliances,0,0,66000.0,Another,0,0,No
+5.0,13000.0,12.0,74.0,male,Secondary education,Household appliances,0,2,13000.0,Married,1,1,No
+6.0,55000.0,12.0,36.0,female,Secondary special education,Household appliances,0,2,44000.0,Another,1,1,No
+8.0,21000.0,15.0,29.0,male,Secondary special education,Household appliances,0,2,36000.0,Another,2,1,No
+4.0,12500.0,10.0,24.0,female,Secondary special education,Cell phones,0,0,26000.0,Another,0,1,Yes
+12.0,29000.0,5.0,40.0,male,Higher education,Computers,1,2,46000.0,Married,1,0,No
+2.0,165000.0,12.0,48.0,female,Secondary special education,Furniture,0,2,51000.0,Another,3,1,No
+6.0,31000.0,12.0,48.0,male,Secondary special education,Cell phones,0,0,43000.0,Another,1,0,Yes
+4.0,17500.0,6.0,21.0,male,Secondary special education,Household appliances,0,2,16000.0,Another,0,1,No
+5.0,35500.0,18.0,37.0,female,Secondary education,Garden equipment,1,2,16000.0,Another,0,1,No
+9.0,28500.0,12.0,30.0,female,Secondary special education,Household appliances,0,2,24000.0,Another,0,1,No
+4.0,12500.0,10.0,52.0,female,Secondary special education,Cell phones,1,0,21000.0,Another,0,0,No
+7.0,58000.0,12.0,41.0,male,Secondary special education,Boats,1,0,41000.0,Another,1,1,No
+3.0,20000.0,12.0,22.0,female,Incomplete higher education,Cell phones,0,2,21000.0,Another,1,1,No
+4.0,9500.0,4.0,29.0,male,Higher education,Cell phones,1,2,26000.0,Another,0,1,No
+9.0,28000.0,12.0,31.0,male,Incomplete higher education,Household appliances,1,0,31000.0,Another,1,1,No
+6.0,13500.0,10.0,23.0,female,Higher education,Cell phones,0,2,31000.0,Another,2,1,No
+11.0,24000.0,12.0,64.0,female,Secondary special education,Household appliances,0,2,16000.0,Married,1,0,Yes
+2.0,22500.0,10.0,42.0,female,Higher education,Garden equipment,1,2,21000.0,Married,2,1,No
+9.0,12000.0,12.0,57.0,male,Secondary special education,Furniture,1,2,16000.0,Married,0,1,No
+1.0,18500.0,6.0,32.0,female,Secondary special education,Household appliances,1,2,31000.0,Another,1,1,No
+6.0,25000.0,12.0,23.0,female,Secondary special education,Cell phones,0,2,24000.0,Another,1,1,Yes
+7.0,41000.0,10.0,29.0,male,Higher education,Furniture,1,2,26000.0,Unmarried,3,0,No
+10.0,14000.0,12.0,22.0,female,Secondary special education,Computers,0,2,26000.0,Another,0,1,No
+7.0,25000.0,12.0,22.0,male,Secondary special education,Cell phones,0,2,24000.0,Another,1,0,Yes
+6.0,18000.0,12.0,23.0,female,Higher education,Furniture,0,0,41000.0,Married,0,1,No
+1.0,29500.0,12.0,35.0,female,Secondary education,Cell phones,0,2,26000.0,Another,0,1,No
+7.0,25500.0,12.0,72.0,male,Higher education,Jewelry,1,2,19000.0,Married,2,1,No
+5.0,57000.0,15.0,33.0,female,Higher education,Tourism,1,2,41000.0,Another,0,1,No
+10.0,8000.0,6.0,31.0,female,Secondary special education,Computers,1,2,26000.0,Another,3,0,No
+12.0,30000.0,7.0,42.0,male,Secondary special education,Clothing,0,2,23000.0,Another,0,1,No
+12.0,11000.0,6.0,38.0,female,Secondary special education,Household appliances,1,2,16000.0,Another,2,1,No
+4.0,9500.0,12.0,22.0,male,Secondary special education,Cell phones,0,2,19000.0,Another,1,0,No
+11.0,69000.0,24.0,36.0,male,Secondary special education,Household appliances,1,2,17000.0,Another,2,1,No
+8.0,51500.0,12.0,58.0,male,Secondary education,Household appliances,0,2,11000.0,Married,1,1,No
+1.0,16000.0,8.0,27.0,female,Secondary special education,Household appliances,0,2,26000.0,Unmarried,1,1,No
+1.0,15500.0,12.0,21.0,female,Secondary special education,Cell phones,0,2,51000.0,Another,0,0,No
+10.0,301000.0,36.0,32.0,male,Higher education,Construction Materials,0,2,121000.0,Another,1,1,No
+12.0,73500.0,10.0,52.0,male,Secondary education,Household appliances,0,0,46000.0,Another,2,0,No
+3.0,31500.0,10.0,53.0,female,Secondary special education,Cell phones,0,2,36000.0,Married,2,1,No
+10.0,38500.0,12.0,41.0,male,Secondary special education,Household appliances,1,2,31000.0,Married,2,0,No
+9.0,6500.0,5.0,51.0,male,Secondary special education,Household appliances,0,2,16000.0,Another,2,0,No
+2.0,87000.0,10.0,40.0,male,Secondary special education,Furniture,1,2,26000.0,Another,3,1,No
+11.0,8500.0,12.0,20.0,male,Secondary special education,Cell phones,0,2,13000.0,Married,1,1,Yes
+5.0,25000.0,9.0,57.0,male,Higher education,Fitness,0,2,51000.0,Married,3,1,No
+8.0,29000.0,12.0,48.0,female,Secondary education,Computers,1,2,41000.0,Another,1,0,No
+11.0,14500.0,12.0,35.0,female,Secondary special education,Cell phones,0,2,19000.0,Unmarried,1,1,No
+1.0,21000.0,18.0,28.0,male,Higher education,Furniture,1,2,21000.0,Another,0,1,No
+9.0,6000.0,12.0,30.0,male,Secondary special education,Cell phones,0,2,11000.0,Another,1,1,No
+11.0,10000.0,6.0,24.0,female,Secondary special education,Clothing,0,2,26000.0,Married,0,0,No
+6.0,66000.0,15.0,26.0,female,Secondary special education,Tourism,0,2,78000.0,Another,1,0,No
+1.0,7000.0,6.0,37.0,male,Secondary special education,Household appliances,1,2,16000.0,Another,0,0,No
+3.0,22500.0,10.0,30.0,male,Incomplete higher education,Furniture,1,2,16000.0,Married,1,0,No
+7.0,47500.0,18.0,48.0,male,Higher education,Cosmetics and beauty services,0,1,39000.0,Another,1,1,No
+6.0,19000.0,8.0,24.0,female,Secondary special education,Household appliances,0,2,26000.0,Another,0,1,No
+3.0,27000.0,12.0,55.0,male,Secondary special education,Household appliances,0,2,33000.0,Another,1,1,No
+9.0,34500.0,12.0,31.0,female,Higher education,Computers,1,2,11000.0,Another,1,0,No
+3.0,10500.0,24.0,22.0,male,Secondary special education,Household appliances,1,2,26000.0,Married,0,1,No
+4.0,163000.0,24.0,60.0,male,Secondary special education,Construction Materials,0,2,43000.0,Another,1,1,Yes
+5.0,11000.0,10.0,29.0,female,Secondary special education,Cell phones,1,2,41000.0,Another,0,1,No
+10.0,21500.0,10.0,23.0,male,Secondary special education,Household appliances,1,2,21000.0,Married,1,0,No
+2.0,16500.0,12.0,35.0,male,Higher education,Computers,1,2,22000.0,Married,0,0,No
+9.0,55000.0,15.0,25.0,male,Higher education,Training,0,0,41000.0,Another,0,1,No
+12.0,23500.0,10.0,35.0,female,Higher education,Furniture,1,2,16000.0,Another,0,1,No
+10.0,15500.0,12.0,24.0,male,Higher education,Cell phones,1,2,16000.0,Another,3,1,Yes
+1.0,17500.0,12.0,20.0,male,Secondary special education,Cell phones,0,2,16000.0,Another,0,1,No
+8.0,44000.0,12.0,54.0,male,Higher education,Cosmetics and beauty services,0,2,36000.0,Another,1,1,No
+3.0,176000.0,36.0,87.0,male,Higher education,Childen\s goods',0,2,26000.0,Unmarried,0,1,No
+11.0,36500.0,10.0,46.0,male,Higher education,Household appliances,0,2,61000.0,Married,3,1,No
+8.0,28500.0,10.0,45.0,male,Higher education,Cell phones,1,2,66000.0,Unmarried,2,0,No
+2.0,15500.0,4.0,58.0,female,Secondary education,Cell phones,0,0,26000.0,Married,0,1,No
+2.0,22500.0,12.0,21.0,male,Secondary special education,Computers,1,2,26000.0,Another,0,1,No
+12.0,15500.0,12.0,42.0,female,Secondary education,Computers,0,2,36000.0,Another,1,1,No
+11.0,5000.0,4.0,32.0,male,Secondary education,Cell phones,1,2,19000.0,Another,1,1,No
+6.0,22500.0,18.0,43.0,female,Secondary special education,Household appliances,1,2,36000.0,Another,1,0,No
+8.0,30000.0,12.0,33.0,female,Higher education,Household appliances,0,2,36000.0,Married,0,1,Yes
+11.0,8000.0,4.0,24.0,male,Secondary special education,Cell phones,1,2,26000.0,Another,1,0,No
+3.0,14000.0,6.0,21.0,female,Secondary special education,Household appliances,0,2,21000.0,Another,2,1,No
+11.0,25500.0,12.0,36.0,male,Higher education,Furniture,1,2,31000.0,Another,2,0,No
+2.0,32000.0,10.0,57.0,male,Higher education,Household appliances,1,0,15000.0,Another,2,1,No
+3.0,17000.0,10.0,35.0,female,Secondary special education,Household appliances,1,2,21000.0,Married,2,1,No
+6.0,13000.0,4.0,27.0,male,Higher education,Computers,0,2,41000.0,Married,1,1,No
+11.0,144500.0,15.0,31.0,male,Higher education,Furniture,0,0,51000.0,Another,1,1,No
+8.0,27000.0,12.0,23.0,male,Secondary special education,Computers,0,2,23000.0,Another,0,1,No
+8.0,25000.0,12.0,54.0,male,Higher education,Household appliances,0,2,19000.0,Another,3,0,No
+12.0,35500.0,6.0,27.0,female,Higher education,Computers,0,0,51000.0,Married,2,1,No
+6.0,50500.0,18.0,75.0,male,Secondary special education,Windows & Doors,0,2,16000.0,Married,1,1,No
+12.0,16000.0,10.0,25.0,male,Higher education,Cell phones,0,2,41000.0,Married,1,1,No
+3.0,221000.0,36.0,48.0,female,Higher education,Clothing,0,2,56000.0,Married,0,1,No
+6.0,20500.0,6.0,30.0,male,Secondary special education,Furniture,1,2,16000.0,Another,1,1,No
+1.0,12000.0,10.0,58.0,male,Secondary special education,Household appliances,0,2,21000.0,Married,2,0,No
+3.0,18500.0,6.0,27.0,female,Incomplete higher education,Clothing,1,2,81000.0,Another,2,0,No
+8.0,15000.0,12.0,49.0,female,Higher education,Furniture,0,2,36000.0,Another,0,1,No
+3.0,30500.0,4.0,28.0,female,Higher education,Fitness,1,2,61000.0,Another,1,0,No
+10.0,24500.0,6.0,30.0,female,Higher education,Computers,0,1,41000.0,Another,0,1,No
+10.0,5500.0,12.0,37.0,female,Higher education,Cell phones,1,2,36000.0,Another,0,0,No
+6.0,23000.0,12.0,28.0,male,Higher education,Cell phones,1,0,51000.0,Married,3,0,Yes
+1.0,8000.0,3.0,53.0,male,Higher education,Computers,0,2,19000.0,Another,3,1,No
+8.0,7000.0,6.0,37.0,male,Secondary special education,Computers,1,2,25000.0,Married,2,0,No
+8.0,9500.0,6.0,22.0,female,Secondary special education,Cell phones,0,2,18000.0,Another,2,1,No
+3.0,11500.0,6.0,24.0,male,Incomplete higher education,Household appliances,1,2,31000.0,Another,1,0,No
+3.0,27000.0,6.0,42.0,male,Secondary special education,Furniture,1,2,16000.0,Another,1,1,No
+1.0,29000.0,12.0,23.0,female,Secondary special education,Household appliances,0,2,31000.0,Another,2,0,No
+10.0,16000.0,8.0,34.0,female,Secondary special education,Medical services,1,2,31000.0,Married,1,0,No
+1.0,28500.0,12.0,23.0,male,Secondary special education,Household appliances,1,2,18000.0,Married,1,1,No
+4.0,5500.0,3.0,27.0,male,Secondary special education,Computers,1,2,17000.0,Another,1,1,No
+12.0,8000.0,10.0,64.0,male,Higher education,Cell phones,0,2,21000.0,Another,0,0,No
+5.0,68500.0,24.0,52.0,male,Higher education,Cosmetics and beauty services,0,0,31000.0,Another,0,1,No
+6.0,13500.0,18.0,60.0,male,Secondary special education,Household appliances,0,2,13000.0,Another,1,1,No
+10.0,16500.0,4.0,30.0,female,Secondary education,Cell phones,0,0,26000.0,Another,1,0,Yes
+12.0,7500.0,6.0,42.0,female,Secondary education,Cell phones,1,2,33000.0,Another,1,1,No
+12.0,46000.0,24.0,46.0,male,Higher education,Cosmetics and beauty services,1,2,41000.0,Another,0,0,Yes
+1.0,10000.0,12.0,30.0,male,Secondary special education,Cell phones,1,2,31000.0,Unmarried,3,1,No
+3.0,23500.0,6.0,53.0,male,Higher education,Furniture,0,2,26000.0,Another,0,1,No
+2.0,7500.0,6.0,32.0,male,Secondary education,Windows & Doors,1,2,13000.0,Another,0,1,No
+1.0,30500.0,12.0,38.0,male,Secondary special education,Cell phones,1,2,21000.0,Married,1,1,No
+6.0,31500.0,6.0,40.0,male,Higher education,Household appliances,1,0,71000.0,Another,0,1,No
+9.0,15500.0,6.0,29.0,female,Secondary special education,Household appliances,0,2,21000.0,Another,1,1,No
+12.0,51500.0,10.0,32.0,female,Higher education,Household appliances,0,0,56000.0,Married,1,0,No
+9.0,36500.0,24.0,25.0,female,Secondary special education,Household appliances,0,2,32000.0,Another,0,1,Yes
+8.0,44000.0,18.0,27.0,male,Higher education,Household appliances,1,2,31000.0,Married,0,1,No
+5.0,36000.0,18.0,33.0,female,Secondary special education,Cell phones,1,2,21000.0,Married,3,1,No
+1.0,11000.0,6.0,47.0,female,Secondary special education,Jewelry,1,2,31000.0,Another,1,1,Yes
+4.0,24500.0,12.0,32.0,male,Higher education,Furniture,1,2,26000.0,Another,3,0,No
+8.0,84000.0,36.0,26.0,male,Secondary special education,Construction Materials,1,2,27000.0,Another,1,1,No
+1.0,23500.0,10.0,69.0,male,Higher education,Medical services,0,1,16000.0,Another,0,1,No
+9.0,11000.0,4.0,39.0,male,Higher education,Household appliances,1,2,19000.0,Married,0,1,No
+12.0,11000.0,12.0,41.0,female,Secondary education,Cell phones,0,2,16000.0,Another,0,1,No
+11.0,10500.0,12.0,23.0,male,Secondary special education,Household appliances,1,2,18000.0,Another,4,1,No
+9.0,26500.0,15.0,50.0,male,Higher education,Cell phones,1,2,16000.0,Married,1,1,No
+12.0,25500.0,6.0,69.0,female,Higher education,Household appliances,1,1,61000.0,Another,0,1,No
+6.0,34500.0,3.0,20.0,female,Secondary special education,Tourism,0,0,31000.0,Married,1,1,Yes
+10.0,11000.0,6.0,21.0,male,Secondary special education,Clothing,0,2,24000.0,Another,1,1,No
+5.0,23000.0,12.0,30.0,female,Secondary special education,Computers,0,2,34000.0,Another,1,1,No
+9.0,14500.0,12.0,51.0,male,Secondary special education,Windows & Doors,1,2,19000.0,Another,1,1,No
+10.0,16000.0,3.0,53.0,male,Secondary special education,Clothing,0,2,16000.0,Another,3,1,Yes
+12.0,292500.0,6.0,34.0,male,Higher education,Furniture,1,0,241000.0,Another,1,1,No
+9.0,17000.0,11.0,23.0,female,Secondary special education,Household appliances,1,2,31000.0,Another,1,1,No
+2.0,48000.0,36.0,34.0,male,Secondary special education,Furniture,1,2,18000.0,Unmarried,0,1,Yes
+7.0,20500.0,12.0,48.0,female,Incomplete secondary education,Cell phones,0,2,11000.0,Another,3,1,No
+7.0,15500.0,6.0,23.0,female,Secondary special education,Cell phones,0,1,26000.0,Married,0,1,No
+11.0,18000.0,10.0,49.0,male,Higher education,Furniture,0,2,21000.0,Married,0,0,No
+7.0,60500.0,15.0,44.0,male,Incomplete higher education,Tourism,0,2,41000.0,Unmarried,0,0,No
+12.0,6500.0,6.0,19.0,male,Secondary special education,Household appliances,0,2,16000.0,Unmarried,1,0,No
+4.0,15000.0,12.0,30.0,female,Higher education,Cell phones,0,0,81000.0,Another,0,0,No
+12.0,38000.0,6.0,27.0,male,Secondary education,Household appliances,1,2,16000.0,Married,2,1,Yes
+7.0,7500.0,6.0,21.0,male,Incomplete higher education,Cell phones,0,2,17000.0,Another,1,0,No
+11.0,46500.0,12.0,27.0,male,Higher education,Cosmetics and beauty services,0,0,41000.0,Married,1,1,No
+5.0,36000.0,12.0,28.0,female,Secondary special education,Auto,0,2,51000.0,Another,0,1,No
+3.0,97000.0,24.0,35.0,male,Higher education,Household appliances,1,2,29000.0,Another,1,1,No
+7.0,14500.0,6.0,33.0,male,Secondary special education,Computers,0,2,19000.0,Unmarried,0,0,No
+8.0,13500.0,10.0,25.0,female,Secondary special education,Household appliances,1,2,26000.0,Another,0,1,No
+3.0,15000.0,12.0,26.0,male,Higher education,Computers,1,2,21000.0,Married,0,0,No
+10.0,53000.0,12.0,55.0,female,Secondary education,Construction Materials,1,2,21000.0,Another,1,1,No
+3.0,14500.0,12.0,23.0,female,Secondary special education,Cell phones,0,2,21000.0,Another,0,1,No
+8.0,10500.0,6.0,31.0,male,Higher education,Cell phones,1,2,22000.0,Another,0,1,No
+8.0,15000.0,12.0,22.0,female,Higher education,Audio & Video,0,2,41000.0,Another,2,0,No
+9.0,27000.0,15.0,33.0,male,Higher education,Tourism,0,2,31000.0,Unmarried,0,0,No
+4.0,141500.0,36.0,55.0,male,Secondary special education,Medical services,1,2,46000.0,Another,1,1,No
+8.0,26000.0,6.0,53.0,male,Secondary special education,Clothing,1,2,16000.0,Unmarried,1,1,No
+5.0,18000.0,12.0,53.0,male,Secondary special education,Furniture,1,0,31000.0,Another,4,1,No
+6.0,10000.0,3.0,56.0,male,Secondary special education,Household appliances,0,2,29000.0,Another,1,1,No
+7.0,38000.0,18.0,44.0,male,Higher education,Cosmetics and beauty services,1,2,36000.0,Another,0,1,No
+9.0,15000.0,10.0,23.0,male,Secondary special education,Computers,0,2,18000.0,Another,2,1,No
+3.0,59000.0,24.0,40.0,female,Higher education,Computers,1,2,81000.0,Unmarried,3,0,No
+9.0,28500.0,12.0,30.0,female,Secondary special education,Computers,0,1,31000.0,Married,1,1,No
+5.0,101000.0,18.0,27.0,female,Secondary special education,Furniture,0,2,48000.0,Another,3,1,No
+3.0,74000.0,24.0,57.0,male,Higher education,Cosmetics and beauty services,0,2,28000.0,Another,0,1,No
+2.0,8000.0,10.0,29.0,male,Secondary special education,Cell phones,1,2,31000.0,Married,1,0,No
+7.0,28000.0,12.0,24.0,male,Higher education,Cell phones,0,2,31000.0,Married,1,1,No
+10.0,28000.0,12.0,30.0,male,Higher education,Household appliances,1,0,31000.0,Another,2,0,No
+3.0,39000.0,18.0,50.0,female,Secondary special education,Boats,0,2,33000.0,Another,1,0,No
+5.0,18000.0,12.0,31.0,female,Secondary special education,Household appliances,0,2,21000.0,Another,1,1,No
+8.0,118500.0,11.0,37.0,female,Incomplete secondary education,Furniture,1,1,111000.0,Another,1,1,No
+7.0,33000.0,12.0,22.0,male,Higher education,Training,0,0,36000.0,Another,1,0,No
+7.0,27000.0,12.0,39.0,male,Secondary special education,Clothing,1,2,17000.0,Another,1,0,No
+1.0,25000.0,6.0,30.0,female,Higher education,Cell phones,1,2,41000.0,Another,1,0,No
+1.0,32500.0,24.0,47.0,female,Secondary special education,Furniture,0,2,26000.0,Married,0,1,No
+8.0,38000.0,36.0,51.0,male,Secondary special education,Tourism,1,2,18000.0,Another,0,0,No
+9.0,12000.0,8.0,52.0,male,Secondary special education,Household appliances,0,2,26000.0,Another,3,0,No
+5.0,8000.0,12.0,34.0,female,Secondary special education,Cell phones,1,2,21000.0,Another,1,0,No
+1.0,29000.0,18.0,29.0,female,Secondary special education,Household appliances,0,2,31000.0,Another,0,1,Yes
+12.0,21000.0,12.0,21.0,female,Secondary special education,Household appliances,0,2,21000.0,Married,2,1,No
+12.0,40500.0,24.0,28.0,female,Secondary special education,Household appliances,0,2,45000.0,Married,2,1,No
+10.0,27000.0,12.0,35.0,male,Higher education,Computers,0,2,41000.0,Another,1,0,No
+5.0,59000.0,6.0,47.0,female,Higher education,Furniture,0,0,31000.0,Another,1,1,No
+2.0,29000.0,12.0,32.0,female,Secondary special education,Household appliances,0,2,31000.0,Married,1,1,No
+8.0,22500.0,12.0,23.0,male,Higher education,Computers,0,2,26000.0,Another,0,0,No
+10.0,10500.0,6.0,44.0,male,Secondary special education,Household appliances,1,0,26000.0,Unmarried,2,0,No
+7.0,29500.0,6.0,51.0,male,Higher education,Household appliances,0,0,51000.0,Another,1,0,No
+6.0,29000.0,10.0,48.0,male,Secondary education,Furniture,1,2,16000.0,Married,1,0,No
+3.0,10500.0,9.0,45.0,female,Secondary special education,Household appliances,1,2,36000.0,Another,0,0,No
+5.0,7500.0,10.0,39.0,male,Secondary special education,Cell phones,1,2,39000.0,Married,1,1,No
+11.0,23500.0,10.0,21.0,male,Secondary special education,Household appliances,0,2,36000.0,Married,4,0,No
+11.0,31000.0,6.0,62.0,male,Secondary special education,Household appliances,0,2,46000.0,Married,0,1,No
+8.0,9500.0,10.0,31.0,male,Secondary special education,Household appliances,1,2,16000.0,Another,0,0,No
+2.0,32500.0,6.0,47.0,male,Higher education,Windows & Doors,1,0,51000.0,Another,3,1,No
+11.0,36000.0,8.0,22.0,male,Secondary special education,Cell phones,0,0,51000.0,Married,0,1,No
+7.0,21000.0,6.0,28.0,female,Secondary education,Cell phones,0,2,41000.0,Married,0,0,No
+7.0,11500.0,12.0,28.0,female,PhD degree,Cell phones,1,2,21000.0,Another,1,0,No
+10.0,7000.0,4.0,51.0,male,Higher education,Clothing,1,2,14000.0,Another,0,0,No
+11.0,9000.0,6.0,23.0,female,Higher education,Cell phones,0,2,26000.0,Married,1,0,No
+1.0,43000.0,6.0,22.0,male,Incomplete higher education,Clothing,0,0,31000.0,Another,3,1,No
+11.0,25000.0,12.0,26.0,male,Higher education,Household appliances,1,2,23000.0,Another,0,1,No
+3.0,17000.0,18.0,53.0,female,Secondary special education,Household appliances,1,2,16000.0,Another,0,1,No
+1.0,50000.0,18.0,20.0,male,Secondary special education,Jewelry,0,2,21000.0,Another,0,1,Yes
+2.0,21000.0,12.0,26.0,female,Secondary education,Cell phones,0,2,21000.0,Another,2,1,Yes
+6.0,13500.0,12.0,24.0,female,Secondary special education,Computers,0,2,31000.0,Another,1,1,No
+10.0,8000.0,3.0,31.0,male,Secondary special education,Jewelry,1,2,21000.0,Another,1,1,No
+2.0,41000.0,5.0,20.0,female,Incomplete higher education,Auto,0,1,61000.0,Married,1,1,No
+9.0,30500.0,12.0,19.0,male,Secondary special education,Cell phones,0,2,31000.0,Married,2,1,No
+10.0,38000.0,6.0,31.0,male,Higher education,Clothing,1,2,26000.0,Married,1,1,No
+9.0,52000.0,15.0,49.0,female,Higher education,Training,1,0,51000.0,Another,1,1,No
+8.0,26500.0,12.0,24.0,male,Higher education,Furniture,0,2,41000.0,Married,1,0,No
+2.0,15000.0,12.0,32.0,male,Secondary special education,Household appliances,1,2,21000.0,Another,3,1,No
+4.0,76500.0,24.0,33.0,male,Secondary special education,Furniture,1,0,61000.0,Another,0,1,No
+5.0,59000.0,15.0,31.0,female,Higher education,Tourism,0,2,61000.0,Another,0,0,No
+3.0,23000.0,10.0,31.0,female,Secondary special education,Household appliances,0,2,29000.0,Another,2,0,No
+10.0,35000.0,10.0,24.0,male,Secondary special education,Cell phones,0,2,31000.0,Another,0,0,No
+8.0,27500.0,6.0,42.0,male,Secondary special education,Household appliances,1,2,31000.0,Unmarried,3,1,No
+4.0,7000.0,6.0,21.0,male,Incomplete higher education,Cell phones,0,0,38000.0,Married,1,1,No
+10.0,9000.0,6.0,24.0,female,Higher education,Computers,1,0,61000.0,Another,1,1,No
+10.0,16000.0,6.0,38.0,male,Higher education,Cell phones,1,2,17000.0,Another,0,0,No
+8.0,61000.0,24.0,73.0,male,Secondary education,Furniture,1,2,16000.0,Another,0,1,No
+6.0,14500.0,12.0,22.0,male,Secondary special education,Cell phones,1,2,21000.0,Another,0,1,Yes
+7.0,32000.0,12.0,23.0,female,Secondary education,Construction Materials,0,2,31000.0,Married,0,1,No
+11.0,87000.0,24.0,45.0,male,Higher education,Cosmetics and beauty services,0,1,36000.0,Another,0,0,No
+4.0,20500.0,6.0,27.0,female,Secondary special education,Household appliances,1,2,33000.0,Another,1,0,No
+3.0,11000.0,18.0,23.0,female,Secondary special education,Jewelry,0,2,24000.0,Unmarried,2,1,No
+7.0,10000.0,4.0,40.0,female,Secondary special education,Cell phones,1,2,28000.0,Another,2,0,No
+10.0,27500.0,10.0,26.0,male,Secondary special education,Cell phones,0,2,21000.0,Unmarried,1,1,Yes
+9.0,116000.0,24.0,39.0,male,Secondary special education,Cosmetics and beauty services,1,0,71000.0,Another,1,1,No
+4.0,21500.0,18.0,42.0,male,Secondary special education,Cell phones,1,2,21000.0,Married,1,1,No
+4.0,35500.0,12.0,27.0,female,Incomplete higher education,Cell phones,0,2,56000.0,Another,1,1,No
+2.0,23500.0,10.0,41.0,male,Secondary special education,Household appliances,1,2,46000.0,Another,1,0,No
+4.0,29500.0,12.0,57.0,male,Secondary special education,Sporting goods,0,2,26000.0,Married,1,1,No
+10.0,47000.0,3.0,54.0,male,Higher education,Clothing,1,2,56000.0,Married,0,1,No
+5.0,25000.0,18.0,42.0,female,Secondary education,Cell phones,1,2,26000.0,Married,1,1,No
+9.0,6500.0,6.0,24.0,male,Secondary education,Cell phones,0,2,21000.0,Another,0,1,No
+8.0,11000.0,10.0,39.0,female,Secondary education,Household appliances,1,0,71000.0,Another,0,0,No
+1.0,36000.0,18.0,32.0,male,Higher education,Clothing,0,2,36000.0,Another,0,1,Yes
+2.0,6500.0,4.0,31.0,female,Secondary special education,Cell phones,1,2,21000.0,Another,3,0,No
+1.0,26000.0,12.0,26.0,female,Secondary special education,Computers,0,2,16000.0,Married,2,1,No
+11.0,9000.0,12.0,63.0,female,Secondary special education,Household appliances,0,2,31000.0,Another,0,0,No
+6.0,12500.0,5.0,23.0,female,Secondary special education,Cell phones,0,2,34000.0,Another,2,1,No
+6.0,10000.0,3.0,29.0,male,Secondary special education,Cell phones,1,2,23000.0,Married,0,1,No
+9.0,34500.0,12.0,45.0,male,Higher education,Furniture,1,2,16000.0,Another,1,1,No
+9.0,14000.0,10.0,36.0,male,Secondary special education,Furniture,1,2,26000.0,Another,2,0,No
+7.0,13000.0,4.0,26.0,male,Higher education,Cell phones,1,2,26000.0,Married,1,0,No
+2.0,25500.0,10.0,20.0,male,Incomplete higher education,Cell phones,0,2,23000.0,Unmarried,1,1,No
+11.0,15000.0,6.0,54.0,male,Higher education,Fitness,1,2,26000.0,Another,1,0,No
+2.0,16000.0,12.0,32.0,male,Secondary special education,Medical services,1,2,31000.0,Married,3,0,No
+8.0,60000.0,24.0,30.0,male,Higher education,Household appliances,1,2,22000.0,Another,0,1,No
+12.0,43500.0,12.0,35.0,male,Higher education,Medical services,0,2,86000.0,Unmarried,3,0,No
+4.0,26500.0,10.0,25.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,1,1,No
+6.0,17000.0,12.0,26.0,female,Higher education,Audio & Video,0,2,26000.0,Married,3,1,No
+7.0,23500.0,8.0,24.0,female,Secondary special education,Sporting goods,0,2,36000.0,Married,2,0,No
+1.0,40500.0,9.0,45.0,male,Secondary special education,Cosmetics and beauty services,1,0,31000.0,Married,2,1,No
+8.0,27500.0,9.0,38.0,female,Higher education,Computers,1,0,81000.0,Another,0,1,No
+5.0,31000.0,12.0,30.0,male,Higher education,Cell phones,0,1,21000.0,Another,3,1,No
+3.0,14500.0,10.0,23.0,female,Secondary special education,Cell phones,0,2,16000.0,Another,3,1,No
+9.0,22500.0,15.0,23.0,male,Secondary special education,Household appliances,0,2,25000.0,Another,1,1,No
+9.0,9500.0,12.0,55.0,female,Secondary special education,Household appliances,1,2,11000.0,Another,1,1,No
+1.0,51000.0,6.0,56.0,male,Secondary special education,Household appliances,0,2,21000.0,Another,1,1,No
+12.0,52500.0,6.0,26.0,male,Higher education,Computers,0,0,101000.0,Another,0,0,No
+11.0,66500.0,10.0,28.0,female,Higher education,Household appliances,0,0,43000.0,Another,2,1,No
+6.0,17500.0,5.0,27.0,male,Secondary education,Cell phones,1,2,31000.0,Another,1,1,No
+11.0,11500.0,12.0,32.0,male,Higher education,Fitness,1,2,31000.0,Another,2,1,No
+4.0,9500.0,3.0,75.0,male,Secondary education,Furniture,0,2,23000.0,Another,3,1,No
+7.0,49000.0,12.0,28.0,female,Secondary special education,Household appliances,0,0,66000.0,Another,1,0,No
+4.0,44500.0,12.0,22.0,male,Incomplete higher education,Computers,0,2,21000.0,Another,2,0,No
+10.0,21500.0,4.0,39.0,female,Higher education,Computers,1,2,151000.0,Another,0,0,No
+10.0,78500.0,34.0,27.0,male,Higher education,Cosmetics and beauty services,0,1,39000.0,Unmarried,0,0,No
+12.0,14000.0,12.0,29.0,female,Secondary special education,Cell phones,1,2,31000.0,Another,1,1,Yes
+5.0,20000.0,6.0,52.0,female,Secondary special education,Garden equipment,1,2,41000.0,Married,0,1,No
+10.0,86000.0,12.0,56.0,male,Higher education,Clothing,1,2,41000.0,Another,1,1,No
+9.0,45000.0,18.0,31.0,male,Higher education,Cosmetics and beauty services,0,0,51000.0,Another,1,0,No
+5.0,24000.0,12.0,26.0,female,Secondary education,Household appliances,0,2,18000.0,Another,1,0,Yes
+9.0,10500.0,6.0,28.0,male,Secondary special education,Computers,0,2,21000.0,Another,1,0,No
+4.0,24500.0,18.0,30.0,female,Secondary special education,Household appliances,0,2,38000.0,Another,4,0,Yes
+2.0,144500.0,15.0,46.0,female,Higher education,Construction Materials,0,2,81000.0,Another,1,0,No
+2.0,9500.0,6.0,31.0,female,Secondary education,Cell phones,1,2,14000.0,Another,0,1,No
+10.0,26000.0,6.0,28.0,female,Higher education,Household appliances,0,2,46000.0,Another,0,0,No
+7.0,9500.0,12.0,49.0,male,Secondary special education,Cell phones,0,2,11000.0,Another,0,1,Yes
+4.0,93000.0,24.0,31.0,male,Higher education,Household appliances,0,2,36000.0,Another,2,0,No
+7.0,19000.0,3.0,72.0,male,Secondary special education,Furniture,0,2,36000.0,Another,1,1,No
+8.0,7000.0,6.0,58.0,female,Secondary special education,Computers,1,2,21000.0,Married,3,0,No
+3.0,11000.0,6.0,27.0,female,Higher education,Household appliances,0,0,46000.0,Unmarried,1,0,No
+11.0,37500.0,5.0,37.0,male,Higher education,Training,1,0,71000.0,Another,1,0,No
+12.0,44500.0,24.0,41.0,female,Higher education,Computers,0,2,26000.0,Married,3,1,No
+2.0,20000.0,3.0,39.0,male,Higher education,Medical services,1,2,26000.0,Married,0,1,No
+12.0,23000.0,12.0,38.0,female,Secondary special education,Computers,1,2,21000.0,Another,1,0,No
+11.0,13500.0,6.0,58.0,male,Secondary special education,Windows & Doors,0,2,16000.0,Married,0,1,No
+3.0,14000.0,12.0,24.0,male,Secondary special education,Cell phones,1,2,16000.0,Married,1,0,No
+8.0,9500.0,10.0,24.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,2,1,No
+5.0,65500.0,15.0,30.0,male,Higher education,Windows & Doors,1,2,31000.0,Another,0,1,No
+10.0,33000.0,8.0,26.0,male,Higher education,Clothing,1,0,61000.0,Married,1,0,No
+6.0,17000.0,10.0,49.0,male,Secondary special education,Household appliances,0,2,23000.0,Unmarried,0,1,No
+1.0,84500.0,18.0,40.0,male,Secondary special education,Tourism,1,2,61000.0,Married,1,0,No
+11.0,46000.0,10.0,24.0,male,Higher education,Household appliances,0,0,46000.0,Another,0,1,No
+3.0,40000.0,10.0,22.0,male,Secondary special education,Computers,0,2,61000.0,Another,1,0,No
+1.0,27000.0,6.0,28.0,male,Secondary special education,Cell phones,0,0,31000.0,Married,0,1,No
+7.0,14500.0,12.0,34.0,female,Secondary special education,Jewelry,0,2,31000.0,Married,0,0,No
+1.0,31500.0,18.0,22.0,male,Secondary education,Household appliances,1,2,26000.0,Married,1,1,No
+10.0,25000.0,12.0,27.0,male,Secondary special education,Computers,1,2,32000.0,Married,0,0,No
+6.0,42000.0,6.0,44.0,male,Secondary special education,Household appliances,0,2,36000.0,Married,1,0,No
+9.0,109000.0,36.0,44.0,male,Higher education,Furniture,0,2,26000.0,Another,2,1,No
+2.0,8000.0,6.0,29.0,female,Higher education,Household appliances,0,0,31000.0,Another,1,0,No
+8.0,73000.0,9.0,56.0,male,Secondary special education,Household appliances,0,2,25000.0,Another,2,1,No
+12.0,5500.0,6.0,23.0,female,Secondary education,Jewelry,0,2,26000.0,Another,0,0,No
+11.0,100000.0,15.0,32.0,male,Incomplete higher education,Tourism,1,2,41000.0,Married,1,1,No
+1.0,79000.0,15.0,23.0,male,Secondary special education,Tourism,0,2,46000.0,Married,2,1,No
+4.0,37500.0,4.0,37.0,male,Secondary special education,Household appliances,0,2,34000.0,Another,3,1,No
+4.0,73000.0,18.0,37.0,male,Higher education,Cosmetics and beauty services,0,1,41000.0,Another,1,1,No
+8.0,7500.0,6.0,60.0,male,Secondary special education,Household appliances,0,2,13000.0,Married,0,0,No
+9.0,15500.0,6.0,28.0,female,Secondary special education,Household appliances,1,0,51000.0,Married,2,1,No
+10.0,34000.0,6.0,43.0,male,Higher education,Clothing,0,2,41000.0,Another,1,1,No
+7.0,27500.0,12.0,27.0,male,Incomplete higher education,Computers,0,2,26000.0,Another,2,1,No
+4.0,26000.0,6.0,34.0,female,Secondary special education,Auto,0,2,36000.0,Unmarried,2,1,Yes
+10.0,14500.0,6.0,49.0,male,Secondary education,Household appliances,0,2,21000.0,Another,0,1,No
+1.0,14000.0,10.0,25.0,female,Secondary special education,Cell phones,0,2,24000.0,Another,1,1,Yes
+10.0,26500.0,10.0,26.0,female,Secondary education,Cell phones,0,0,31000.0,Another,0,0,Yes
+9.0,6000.0,3.0,29.0,female,Higher education,Household appliances,0,2,401000.0,Another,3,0,No
+11.0,10500.0,12.0,21.0,male,Incomplete higher education,Computers,0,2,21000.0,Unmarried,0,1,No
+10.0,8500.0,6.0,36.0,male,Secondary special education,Cell phones,1,2,26000.0,Another,1,1,No
+8.0,45000.0,10.0,48.0,male,Higher education,Medical services,1,0,51000.0,Another,2,0,No
+7.0,33000.0,6.0,26.0,male,Incomplete higher education,Cell phones,0,2,36000.0,Married,1,0,No
+11.0,157000.0,36.0,24.0,female,Higher education,Boats,0,2,39000.0,Another,2,1,No
+11.0,52000.0,18.0,33.0,male,Higher education,Household appliances,1,0,51000.0,Another,0,0,No
+10.0,7500.0,6.0,29.0,female,Higher education,Computers,1,2,33000.0,Married,1,0,No
+8.0,17500.0,12.0,33.0,female,Higher education,Household appliances,1,0,31000.0,Another,3,1,No
+9.0,39000.0,3.0,60.0,male,Secondary special education,Windows & Doors,0,0,15000.0,Another,2,0,No
+12.0,31500.0,18.0,20.0,female,Secondary special education,Cell phones,0,2,21000.0,Married,1,1,No
+2.0,13500.0,6.0,64.0,male,Secondary special education,Construction Materials,1,2,13000.0,Another,1,1,No
+10.0,25000.0,14.0,23.0,male,Higher education,Cell phones,0,0,36000.0,Another,1,0,No
+6.0,44000.0,12.0,40.0,male,Higher education,Cosmetics and beauty services,0,0,41000.0,Another,1,0,No
+12.0,23000.0,15.0,45.0,male,Secondary special education,Computers,0,2,36000.0,Married,2,1,No
+3.0,18000.0,6.0,27.0,female,Secondary special education,Cell phones,0,2,36000.0,Another,2,0,No
+10.0,11000.0,6.0,73.0,male,Higher education,Clothing,0,2,19000.0,Another,1,1,No
+7.0,22500.0,10.0,35.0,male,Secondary education,Furniture,1,0,61000.0,Another,0,0,No
+7.0,12000.0,6.0,60.0,male,Higher education,Furniture,0,2,26000.0,Another,0,1,No
+3.0,38500.0,24.0,21.0,female,Higher education,Computers,0,2,26000.0,Married,0,1,No
+10.0,40000.0,3.0,46.0,female,Higher education,Windows & Doors,1,0,51000.0,Another,1,1,No
+8.0,44000.0,12.0,37.0,male,Higher education,Cosmetics and beauty services,0,0,26000.0,Another,1,1,No
+10.0,11500.0,12.0,23.0,male,Higher education,Computers,0,2,19000.0,Another,2,1,No
+7.0,15000.0,6.0,25.0,male,Higher education,Tourism,0,0,66000.0,Married,3,0,No
+12.0,23500.0,12.0,39.0,female,Secondary special education,Windows & Doors,1,2,26000.0,Another,2,1,Yes
+9.0,12000.0,3.0,39.0,male,Secondary education,Household appliances,1,2,21000.0,Married,1,1,No
+10.0,48500.0,10.0,25.0,female,Higher education,Clothing,0,0,39000.0,Another,2,1,No
+10.0,23000.0,12.0,33.0,male,Secondary education,Computers,0,2,22000.0,Another,2,1,No
+1.0,43000.0,15.0,25.0,male,Secondary special education,Tourism,0,2,29000.0,Another,2,1,No
+6.0,9500.0,6.0,23.0,female,Secondary special education,Cell phones,0,2,13000.0,Another,1,1,No
+6.0,51000.0,12.0,48.0,male,Higher education,Furniture,0,2,32000.0,Another,1,1,No
+12.0,33500.0,18.0,24.0,female,Higher education,Household appliances,0,2,36000.0,Another,1,1,No
+3.0,6000.0,4.0,48.0,female,Higher education,Cell phones,1,2,29000.0,Married,0,0,No
+7.0,7000.0,12.0,20.0,male,Secondary special education,Cell phones,0,2,6000.0,Married,2,1,No
+4.0,21000.0,24.0,30.0,male,Higher education,Household appliances,1,2,25000.0,Married,2,1,No
+8.0,16500.0,10.0,53.0,male,Secondary education,Household appliances,0,2,21000.0,Another,0,0,No
+6.0,11000.0,12.0,28.0,male,Incomplete higher education,Household appliances,1,2,24000.0,Another,1,1,No
+9.0,19500.0,12.0,35.0,male,Secondary special education,Household appliances,0,2,21000.0,Another,1,1,No
+12.0,16000.0,12.0,23.0,female,Secondary education,Computers,0,2,21000.0,Another,2,1,Yes
+8.0,101000.0,12.0,46.0,male,Secondary special education,Furniture,1,0,33000.0,Another,3,0,No
+11.0,8500.0,12.0,29.0,female,Higher education,Computers,1,2,24000.0,Another,0,1,No
+6.0,30000.0,6.0,29.0,female,Higher education,Computers,0,0,66000.0,Another,1,0,No
+1.0,26500.0,3.0,40.0,female,Secondary special education,Household appliances,1,2,51000.0,Another,0,1,No
+9.0,26500.0,4.0,31.0,female,Higher education,Cell phones,0,0,97000.0,Another,2,1,No
+12.0,30000.0,18.0,30.0,male,Higher education,Household appliances,0,0,101000.0,Married,1,0,No
+6.0,31500.0,18.0,30.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,0,0,Yes
+8.0,29500.0,6.0,21.0,female,Incomplete higher education,Cell phones,0,2,33000.0,Unmarried,0,1,No
+1.0,26500.0,14.0,23.0,male,Higher education,Household appliances,0,2,29000.0,Another,1,0,Yes
+9.0,7500.0,6.0,58.0,male,Secondary special education,Clothing,1,2,19000.0,Another,3,1,No
+6.0,35500.0,6.0,22.0,male,Higher education,Cell phones,0,0,26000.0,Another,3,1,No
+5.0,16500.0,12.0,30.0,female,Secondary special education,Computers,0,2,26000.0,Another,0,1,No
+9.0,57000.0,18.0,44.0,male,Higher education,Cosmetics and beauty services,1,2,36000.0,Another,0,1,Yes
+7.0,40500.0,18.0,36.0,male,Higher education,Household appliances,1,2,21000.0,Another,1,1,Yes
+7.0,89000.0,30.0,23.0,female,Secondary special education,Boats,0,0,41000.0,Another,0,0,No
+6.0,13000.0,12.0,68.0,male,Secondary special education,Household appliances,1,2,16000.0,Married,0,1,No
+8.0,54500.0,12.0,27.0,male,Higher education,Tourism,0,2,46000.0,Another,2,1,No
+11.0,10500.0,12.0,33.0,female,Secondary special education,Auto,1,2,21000.0,Another,1,0,Yes
+2.0,21500.0,6.0,52.0,male,Secondary special education,Cell phones,1,2,10000.0,Another,1,0,No
+2.0,34000.0,12.0,36.0,male,Higher education,Cell phones,1,2,24000.0,Another,1,1,Yes
+11.0,53500.0,12.0,30.0,female,Secondary special education,Household appliances,0,2,36000.0,Unmarried,1,0,No
+9.0,8000.0,12.0,29.0,female,Secondary education,Household appliances,1,2,18000.0,Another,0,1,Yes
+9.0,116000.0,24.0,36.0,male,Higher education,Cosmetics and beauty services,0,0,49000.0,Another,0,1,No
+5.0,12000.0,6.0,53.0,male,Secondary special education,Household appliances,0,2,13000.0,Another,3,1,No
+8.0,52500.0,24.0,63.0,female,Higher education,Tourism,0,2,1000.0,Another,3,1,No
+3.0,9500.0,6.0,45.0,male,Secondary special education,Cell phones,0,2,16000.0,Another,1,1,No
+10.0,17000.0,6.0,25.0,female,Secondary special education,Cell phones,0,2,28000.0,Married,1,0,No
+9.0,12000.0,24.0,28.0,female,Secondary special education,Household appliances,0,2,26000.0,Married,0,0,No
+1.0,17500.0,10.0,36.0,female,Secondary special education,Cell phones,1,2,31000.0,Another,0,0,Yes
+9.0,6000.0,4.0,25.0,female,Secondary special education,Jewelry,0,2,21000.0,Another,3,1,Yes
+7.0,48500.0,18.0,41.0,male,Secondary special education,Cosmetics and beauty services,1,2,26000.0,Married,0,1,No
+12.0,17500.0,12.0,46.0,male,Higher education,Computers,1,2,51000.0,Another,1,0,No
+8.0,27000.0,24.0,21.0,male,Incomplete higher education,Household appliances,1,2,21000.0,Another,2,1,No
+5.0,7000.0,4.0,44.0,female,Secondary education,Construction Materials,1,2,21000.0,Another,0,0,No
+3.0,16500.0,15.0,56.0,male,Secondary special education,Household appliances,1,2,11000.0,Another,0,1,No
+5.0,18500.0,9.0,22.0,female,Incomplete higher education,Household appliances,0,2,21000.0,Married,0,1,No
+10.0,44000.0,36.0,61.0,male,Higher education,Clothing,1,2,36000.0,Another,0,1,No
+11.0,17000.0,6.0,48.0,female,Secondary special education,Household appliances,1,2,19000.0,Another,0,0,No
+5.0,7500.0,6.0,37.0,male,Secondary special education,Clothing,1,2,21000.0,Another,0,0,No
+4.0,5000.0,3.0,55.0,female,Secondary special education,Sporting goods,1,2,22000.0,Another,1,1,No
+5.0,58500.0,10.0,48.0,male,Secondary special education,Auto,1,2,30000.0,Married,0,1,Yes
+12.0,11500.0,3.0,56.0,male,Secondary education,Household appliances,0,2,13000.0,Married,0,1,No
+10.0,22500.0,12.0,19.0,male,Secondary education,Cell phones,0,2,21000.0,Another,1,1,No
+12.0,21000.0,3.0,76.0,male,Higher education,Furniture,1,0,36000.0,Married,1,1,No
+10.0,10500.0,12.0,58.0,male,Secondary special education,Windows & Doors,1,2,7000.0,Unmarried,1,0,No
+4.0,57000.0,15.0,41.0,female,Higher education,Tourism,1,2,56000.0,Unmarried,0,1,No
+1.0,13500.0,12.0,64.0,male,Higher education,Windows & Doors,0,2,26000.0,Another,1,1,No
+7.0,8000.0,6.0,35.0,male,Secondary special education,Cell phones,1,2,19000.0,Unmarried,1,1,No
+11.0,16000.0,12.0,36.0,female,Secondary special education,Cell phones,1,2,31000.0,Another,1,1,No
+7.0,11500.0,12.0,24.0,female,Secondary special education,Furniture,0,2,16000.0,Another,3,1,Yes
+8.0,25500.0,20.0,30.0,male,Secondary special education,Clothing,1,2,28000.0,Another,2,1,No
+9.0,18000.0,12.0,43.0,male,Higher education,Furniture,0,2,8000.0,Another,1,1,No
+8.0,16500.0,6.0,32.0,female,Secondary special education,Household appliances,1,2,24000.0,Married,2,0,No
+10.0,18000.0,12.0,24.0,male,Secondary education,Cell phones,1,2,18000.0,Another,0,1,No
+9.0,10500.0,3.0,23.0,female,Secondary special education,Cell phones,0,2,31000.0,Married,3,1,No
+7.0,29000.0,10.0,42.0,male,Higher education,Jewelry,0,0,31000.0,Unmarried,1,0,No
+8.0,21500.0,10.0,70.0,female,Secondary special education,Construction Materials,0,2,22000.0,Another,1,1,No
+2.0,38500.0,12.0,33.0,female,Higher education,Furniture,0,2,79000.0,Married,0,1,No
+4.0,21000.0,6.0,28.0,female,Incomplete higher education,Cell phones,0,0,51000.0,Married,0,0,No
+1.0,41000.0,18.0,46.0,male,Secondary special education,Cosmetics and beauty services,0,0,41000.0,Another,3,1,No
+8.0,15000.0,12.0,35.0,male,Secondary education,Household appliances,1,2,21000.0,Married,2,1,No
+10.0,40500.0,12.0,22.0,male,Secondary education,Cell phones,0,2,23000.0,Married,1,1,No
+8.0,40500.0,12.0,25.0,male,Secondary special education,Cell phones,1,2,26000.0,Married,1,1,Yes
+10.0,30500.0,10.0,26.0,female,Higher education,Cell phones,0,2,31000.0,Married,2,1,No
+8.0,7500.0,6.0,25.0,male,Higher education,Cell phones,0,2,19000.0,Another,1,1,No
+12.0,30000.0,14.0,33.0,female,Secondary special education,Cell phones,1,2,39000.0,Another,0,1,Yes
+7.0,29500.0,3.0,40.0,male,Higher education,Furniture,0,0,74000.0,Married,2,0,No
+1.0,8500.0,6.0,75.0,male,Secondary education,Household appliances,1,2,19000.0,Married,1,1,No
+6.0,29000.0,12.0,32.0,female,Secondary special education,Computers,1,2,36000.0,Another,0,1,No
+5.0,9500.0,6.0,45.0,male,Secondary special education,Furniture,1,2,14000.0,Married,0,1,No
+10.0,5500.0,6.0,22.0,male,Secondary special education,Cell phones,1,2,16000.0,Another,4,0,No
+10.0,21500.0,6.0,41.0,female,Secondary education,Furniture,1,2,56000.0,Married,1,0,No
+11.0,18500.0,18.0,43.0,female,Secondary education,Household appliances,0,1,41000.0,Another,0,1,No
+5.0,12000.0,10.0,32.0,male,Higher education,Cell phones,1,2,18000.0,Married,1,1,Yes
+8.0,13000.0,3.0,42.0,male,Higher education,Household appliances,0,0,41000.0,Another,1,1,No
+7.0,24000.0,3.0,21.0,female,Secondary special education,Computers,0,0,71000.0,Another,1,1,No
+7.0,31500.0,12.0,27.0,female,Higher education,Cell phones,0,0,61000.0,Another,0,1,No
+8.0,26500.0,6.0,41.0,female,Secondary education,Household appliances,0,2,36000.0,Married,1,0,No
+4.0,23000.0,12.0,24.0,male,Secondary special education,Household appliances,0,2,71000.0,Another,2,1,No
+2.0,21000.0,24.0,27.0,male,Secondary special education,Household appliances,1,2,16000.0,Another,1,0,No
+1.0,26000.0,6.0,21.0,female,Secondary special education,Cell phones,0,0,31000.0,Another,2,1,No
+11.0,12000.0,4.0,58.0,female,Secondary education,Windows & Doors,0,2,12000.0,Another,1,1,No
+8.0,9500.0,4.0,34.0,female,Secondary education,Household appliances,0,2,31000.0,Another,0,0,No
+8.0,36000.0,6.0,39.0,male,Higher education,Computers,1,2,55000.0,Married,0,0,No
+8.0,13000.0,6.0,30.0,male,Higher education,Clothing,1,2,26000.0,Unmarried,1,0,No
+5.0,20500.0,12.0,20.0,male,Secondary special education,Construction Materials,0,2,12000.0,Another,3,1,No
+10.0,26000.0,10.0,21.0,male,Secondary special education,Cell phones,0,2,26000.0,Another,2,1,No
+4.0,12500.0,3.0,63.0,male,Secondary special education,Clothing,1,2,18000.0,Married,0,1,No
+2.0,11000.0,6.0,64.0,male,Incomplete higher education,Furniture,1,2,20000.0,Married,1,1,No
+7.0,10000.0,10.0,43.0,female,Secondary special education,Household appliances,1,2,16000.0,Married,1,0,No
+6.0,36500.0,6.0,54.0,male,Secondary special education,Windows & Doors,1,2,26000.0,Another,1,0,No
+11.0,41500.0,10.0,23.0,male,Secondary special education,Household appliances,0,2,19000.0,Another,0,1,No
+9.0,27500.0,12.0,23.0,male,Secondary special education,Household appliances,0,1,28000.0,Married,1,1,No
+4.0,101000.0,12.0,52.0,female,Higher education,Tourism,1,2,61000.0,Another,0,1,No
+10.0,23500.0,18.0,38.0,female,Secondary special education,Household appliances,1,2,41000.0,Another,3,0,No
+12.0,7500.0,8.0,33.0,female,Secondary special education,Cell phones,0,2,21000.0,Another,1,1,No
+11.0,11000.0,12.0,21.0,female,Secondary special education,Jewelry,0,2,31000.0,Another,1,0,No
+4.0,28500.0,12.0,38.0,male,Higher education,Household appliances,1,0,36000.0,Another,1,0,No
+1.0,22500.0,18.0,42.0,male,Secondary special education,Furniture,0,2,13000.0,Another,1,1,No
+11.0,5500.0,4.0,59.0,male,Higher education,Fitness,0,2,27000.0,Another,1,0,No
+8.0,44500.0,12.0,28.0,male,Higher education,Clothing,0,0,81000.0,Another,3,0,No
+11.0,14500.0,10.0,39.0,female,Secondary special education,Household appliances,1,2,36000.0,Married,1,0,No
+10.0,27500.0,3.0,39.0,male,Higher education,Clothing,1,2,61000.0,Another,1,1,No
+8.0,28500.0,12.0,21.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,1,1,Yes
+8.0,13500.0,6.0,68.0,female,Secondary education,Furniture,1,2,14000.0,Another,1,1,No
+3.0,12000.0,12.0,30.0,female,Secondary special education,Cell phones,1,2,41000.0,Another,0,0,No
+10.0,17500.0,4.0,24.0,male,Incomplete higher education,Furniture,0,2,17000.0,Another,1,0,No
+1.0,35000.0,12.0,42.0,male,Higher education,Furniture,1,2,11000.0,Married,0,1,No
+9.0,8000.0,6.0,44.0,male,Secondary special education,Cell phones,0,2,26000.0,Another,0,1,No
+2.0,37000.0,10.0,33.0,male,Higher education,Clothing,1,0,101000.0,Another,1,0,No
+6.0,129000.0,8.0,39.0,female,Higher education,Furniture,0,0,101000.0,Another,0,0,No
+6.0,38000.0,15.0,28.0,female,Higher education,Tourism,0,2,39000.0,Another,1,1,No
+7.0,8500.0,12.0,44.0,female,Secondary education,Cell phones,1,2,21000.0,Another,1,0,No
+7.0,31500.0,18.0,29.0,male,Secondary special education,Household appliances,1,2,19000.0,Another,2,0,No
+2.0,14000.0,12.0,40.0,female,Higher education,Household appliances,1,2,51000.0,Another,2,0,No
+11.0,41000.0,12.0,40.0,male,Secondary education,Medical services,1,2,30000.0,Married,0,1,No
+3.0,7000.0,12.0,23.0,female,Secondary special education,Cell phones,1,2,16000.0,Unmarried,0,1,No
+11.0,67000.0,36.0,36.0,male,Higher education,Cosmetics and beauty services,1,2,21000.0,Another,0,0,No
+9.0,6000.0,3.0,32.0,male,Secondary special education,Household appliances,0,2,19000.0,Married,0,0,No
+4.0,39500.0,12.0,22.0,female,Secondary special education,Cell phones,0,2,26000.0,Another,0,1,No
+7.0,31500.0,6.0,28.0,female,Higher education,Computers,0,2,76000.0,Another,1,0,No
+11.0,28000.0,10.0,38.0,male,Higher education,Furniture,1,2,22000.0,Unmarried,1,1,No
+11.0,19000.0,10.0,45.0,male,Higher education,Household appliances,1,2,21000.0,Married,1,1,No
+2.0,20000.0,12.0,21.0,male,Secondary education,Furniture,0,2,15000.0,Married,3,1,No
+4.0,9000.0,6.0,24.0,female,Secondary special education,Cell phones,1,2,16000.0,Married,1,1,No
+2.0,190500.0,6.0,31.0,female,Secondary special education,Boats,0,2,171000.0,Another,1,0,No
+4.0,41000.0,15.0,54.0,male,Secondary education,Windows & Doors,0,2,15000.0,Another,0,0,No
+5.0,16000.0,10.0,28.0,male,Secondary special education,Cell phones,0,2,29000.0,Another,0,1,No
+2.0,18500.0,6.0,29.0,male,Secondary special education,Furniture,1,2,27000.0,Another,1,0,No
+10.0,13000.0,12.0,44.0,female,Secondary special education,Household appliances,0,2,28000.0,Another,2,1,No
+1.0,19000.0,6.0,20.0,male,Secondary special education,Household appliances,1,2,17000.0,Another,3,1,No
+2.0,11000.0,6.0,48.0,female,Secondary education,Household appliances,1,2,46000.0,Another,1,1,No
+7.0,36000.0,12.0,26.0,female,Secondary special education,Household appliances,1,2,40000.0,Another,1,0,No
+2.0,22000.0,10.0,24.0,female,Secondary special education,Cell phones,0,2,24000.0,Another,1,0,No
+6.0,123500.0,24.0,26.0,male,Secondary special education,Auto,0,2,26000.0,Married,0,0,No
+7.0,31000.0,12.0,54.0,female,Secondary special education,Cell phones,0,2,28000.0,Another,0,1,Yes
+4.0,25500.0,20.0,76.0,male,Higher education,Medical services,0,2,14000.0,Another,0,1,No
+2.0,5000.0,6.0,32.0,male,Secondary special education,Household appliances,1,2,26000.0,Another,1,0,No
+8.0,7500.0,3.0,26.0,female,Secondary special education,Computers,0,2,26000.0,Another,1,1,No
+11.0,28500.0,18.0,42.0,female,Incomplete higher education,Cell phones,1,2,61000.0,Married,1,1,Yes
+11.0,13500.0,12.0,23.0,female,Secondary special education,Computers,1,2,31000.0,Married,1,1,No
+1.0,22000.0,9.0,19.0,male,Incomplete higher education,Cell phones,0,0,21000.0,Another,1,1,No
+5.0,31000.0,6.0,57.0,female,Secondary special education,Cell phones,0,2,10000.0,Another,0,0,No
+7.0,54500.0,18.0,46.0,female,Higher education,Computers,1,0,66000.0,Another,1,0,No
+11.0,22000.0,10.0,30.0,female,Higher education,Cell phones,1,2,71000.0,Another,3,1,No
+5.0,38500.0,12.0,39.0,female,Secondary special education,Cell phones,1,0,46000.0,Unmarried,1,1,Yes
+5.0,34000.0,12.0,29.0,female,Secondary education,Cell phones,0,2,31000.0,Married,2,1,Yes
+1.0,17000.0,12.0,25.0,male,Secondary special education,Fitness,0,2,26000.0,Another,0,1,No
+8.0,71500.0,12.0,26.0,male,Incomplete higher education,Medical services,0,2,51000.0,Another,0,1,No
+8.0,28500.0,12.0,46.0,male,Secondary special education,Clothing,1,2,16000.0,Another,1,0,No
+3.0,51000.0,24.0,31.0,female,Higher education,Construction Materials,1,2,31000.0,Another,0,0,No
+12.0,28000.0,10.0,73.0,male,Secondary special education,Household appliances,0,2,28000.0,Another,0,0,No
+11.0,44500.0,24.0,21.0,female,Secondary education,Household appliances,0,2,31000.0,Another,2,1,No
+11.0,37500.0,12.0,25.0,male,Secondary special education,Computers,1,2,21000.0,Another,0,1,Yes
+10.0,9000.0,6.0,35.0,male,Secondary special education,Clothing,1,2,16000.0,Another,1,1,No
+7.0,41500.0,3.0,43.0,male,Higher education,Clothing,1,2,44000.0,Another,1,0,No
+6.0,20000.0,3.0,80.0,male,Secondary education,Furniture,1,2,16000.0,Another,1,1,No
+3.0,30000.0,12.0,21.0,female,Secondary special education,Household appliances,0,2,21000.0,Another,0,1,No
+5.0,34000.0,12.0,25.0,female,Incomplete higher education,Cell phones,0,0,40000.0,Married,0,1,No
+7.0,101000.0,18.0,35.0,female,Higher education,Furniture,0,1,96000.0,Another,1,0,No
+7.0,57500.0,18.0,38.0,male,Secondary education,Furniture,1,2,36000.0,Another,1,0,No
+2.0,33000.0,12.0,35.0,male,Secondary education,Cell phones,1,2,26000.0,Married,1,0,Yes
+6.0,28000.0,11.0,25.0,male,Higher education,Fitness,0,2,26000.0,Another,1,0,No
+3.0,29000.0,17.0,31.0,female,Secondary special education,Household appliances,0,1,51000.0,Another,0,1,No
+11.0,57500.0,15.0,49.0,male,Higher education,Tourism,1,2,46000.0,Another,1,1,No
+7.0,7500.0,6.0,40.0,female,Secondary special education,Cell phones,1,2,26000.0,Married,1,0,No
+2.0,11000.0,6.0,40.0,male,Higher education,Furniture,1,2,26000.0,Another,1,1,No
+12.0,47500.0,24.0,33.0,female,Secondary special education,Household appliances,0,2,36000.0,Another,0,0,No
+10.0,14000.0,6.0,41.0,female,Secondary special education,Cell phones,0,1,26000.0,Another,0,1,No
+1.0,34500.0,15.0,39.0,male,Higher education,Household appliances,1,2,46000.0,Married,0,0,No
+7.0,28000.0,12.0,23.0,female,Secondary special education,Household appliances,0,0,31000.0,Another,1,1,No
+6.0,20000.0,3.0,24.0,female,Secondary special education,Furniture,1,2,14000.0,Another,2,1,No
+8.0,9500.0,3.0,51.0,male,Secondary special education,Household appliances,0,2,16000.0,Another,1,0,No
+6.0,30500.0,6.0,33.0,female,Higher education,Computers,1,2,42000.0,Another,2,1,No
+10.0,12500.0,12.0,51.0,female,Secondary special education,Windows & Doors,0,2,16000.0,Another,1,0,No
+5.0,21000.0,12.0,22.0,female,Secondary education,Cell phones,0,2,61000.0,Another,1,1,No
+3.0,21000.0,12.0,21.0,female,Secondary special education,Fitness,0,2,21000.0,Unmarried,0,1,No
+12.0,52000.0,15.0,50.0,female,Higher education,Furniture,1,0,61000.0,Married,3,1,No
+3.0,19500.0,12.0,24.0,female,Secondary special education,Cell phones,1,2,27000.0,Another,2,0,No
+7.0,19500.0,12.0,62.0,male,Secondary special education,Furniture,1,2,21000.0,Another,1,0,No
+6.0,25500.0,24.0,56.0,male,Secondary special education,Furniture,0,2,27000.0,Another,1,0,No
+7.0,41000.0,10.0,23.0,male,Incomplete higher education,Household appliances,1,2,21000.0,Married,1,0,No
+12.0,32000.0,18.0,34.0,female,Secondary education,Cell phones,0,2,33000.0,Married,0,1,Yes
+4.0,30500.0,6.0,36.0,male,Higher education,Furniture,0,0,101000.0,Married,0,0,No
+3.0,26500.0,12.0,21.0,male,Secondary special education,Cell phones,0,2,21000.0,Married,0,0,No
+9.0,13000.0,3.0,30.0,male,Secondary special education,Computers,1,2,13000.0,Married,0,1,No
+8.0,121000.0,12.0,48.0,male,Higher education,Medical services,1,0,21000.0,Another,2,1,No
+3.0,52000.0,18.0,21.0,male,Incomplete higher education,Furniture,0,2,26000.0,Another,1,0,No
+12.0,78500.0,18.0,81.0,male,Higher education,Medical services,1,0,26000.0,Another,3,0,No
+9.0,11500.0,6.0,51.0,male,Higher education,Computers,0,2,36000.0,Another,0,1,No
+2.0,30000.0,6.0,42.0,male,Secondary education,Computers,0,2,31000.0,Another,1,1,No
+5.0,45000.0,12.0,60.0,male,Higher education,Household appliances,0,2,13000.0,Another,2,1,No
+8.0,18000.0,12.0,62.0,female,Secondary special education,Household appliances,1,2,9000.0,Another,1,1,No
+5.0,17000.0,5.0,47.0,male,Secondary special education,Windows & Doors,1,2,13000.0,Another,2,1,No
+12.0,28000.0,12.0,63.0,male,Secondary education,Computers,0,2,19000.0,Unmarried,0,0,No
+4.0,12500.0,12.0,24.0,male,Incomplete higher education,Household appliances,0,2,22000.0,Another,2,0,No
+7.0,12500.0,12.0,72.0,male,Secondary education,Household appliances,0,2,21000.0,Married,2,0,No
+12.0,6500.0,6.0,25.0,female,Secondary special education,Household appliances,1,2,21000.0,Another,3,1,Yes
+7.0,11500.0,12.0,33.0,female,Higher education,Computers,1,2,46000.0,Another,0,0,No
+12.0,63500.0,24.0,40.0,female,Secondary special education,Household appliances,0,2,21000.0,Married,1,0,No
+7.0,5000.0,12.0,24.0,male,Secondary special education,Household appliances,0,2,31000.0,Married,1,0,No
+9.0,44500.0,24.0,56.0,male,Higher education,Medical services,0,0,26000.0,Married,2,0,No
+8.0,19000.0,12.0,22.0,female,Incomplete higher education,Cell phones,0,1,30000.0,Another,1,1,No
+6.0,9500.0,10.0,24.0,female,Higher education,Cell phones,0,2,51000.0,Unmarried,0,0,Yes
+8.0,50500.0,27.0,28.0,female,Secondary education,Household appliances,0,2,34000.0,Another,1,1,Yes
+5.0,45000.0,15.0,28.0,female,Higher education,Fitness,0,0,91000.0,Another,3,0,No
+1.0,31000.0,12.0,28.0,male,Secondary special education,Household appliances,0,2,21000.0,Another,1,1,Yes
+7.0,11000.0,3.0,58.0,male,Secondary special education,Furniture,0,2,26000.0,Married,1,1,No
+8.0,15500.0,3.0,21.0,male,Higher education,Household appliances,0,2,46000.0,Another,0,1,No
+12.0,24000.0,6.0,43.0,male,Secondary special education,Furniture,0,2,26000.0,Another,0,0,No
+8.0,17000.0,10.0,20.0,male,Secondary education,Cell phones,0,2,17000.0,Another,3,1,No
+4.0,20000.0,6.0,40.0,female,Higher education,Fitness,1,2,36000.0,Another,1,0,No
+8.0,14500.0,6.0,25.0,female,Secondary special education,Computers,1,2,26000.0,Another,2,0,No
+1.0,21000.0,18.0,34.0,male,Higher education,Cell phones,0,2,26000.0,Married,1,0,No
+7.0,32000.0,12.0,33.0,male,Secondary special education,Household appliances,1,2,31000.0,Another,0,0,No
+5.0,17000.0,18.0,32.0,female,Higher education,Cell phones,1,2,21000.0,Another,1,0,No
+11.0,26000.0,24.0,21.0,male,Secondary special education,Household appliances,0,2,16000.0,Another,1,1,No
+10.0,60500.0,10.0,29.0,female,Incomplete higher education,Clothing,1,0,51000.0,Another,2,0,No
+10.0,13500.0,10.0,23.0,female,Secondary education,Cell phones,0,1,46000.0,Another,1,1,No
+8.0,14000.0,12.0,20.0,male,Secondary education,Cell phones,0,2,21000.0,Married,1,1,Yes
+10.0,29000.0,18.0,27.0,female,Secondary special education,Household appliances,0,2,26000.0,Another,0,1,Yes
+6.0,90000.0,18.0,46.0,female,Secondary special education,Household appliances,1,2,131000.0,Another,0,1,Yes
+2.0,13000.0,6.0,25.0,male,Secondary special education,Household appliances,0,0,31000.0,Another,3,0,No
+1.0,50000.0,18.0,23.0,female,Secondary special education,Household appliances,0,2,21000.0,Another,0,1,Yes
+10.0,12500.0,10.0,43.0,female,Secondary special education,Cell phones,0,2,21000.0,Married,2,1,No
+11.0,86500.0,24.0,49.0,male,Higher education,Cosmetics and beauty services,0,1,29000.0,Married,0,0,No
+10.0,29000.0,12.0,33.0,male,Secondary special education,Household appliances,1,2,21000.0,Another,0,1,No
+7.0,8000.0,12.0,26.0,male,Higher education,Cell phones,0,2,14000.0,Another,1,1,No
+5.0,35000.0,12.0,26.0,female,Higher education,Cell phones,0,2,28000.0,Another,0,1,No
+12.0,11500.0,10.0,24.0,female,Secondary special education,Cell phones,0,2,36000.0,Another,1,0,Yes
+10.0,45000.0,24.0,21.0,female,Secondary special education,Computers,0,2,22000.0,Another,0,0,Yes
+2.0,32500.0,24.0,42.0,male,Higher education,Household appliances,1,2,23000.0,Married,1,0,No
+12.0,31000.0,10.0,29.0,female,Higher education,Cell phones,0,0,38000.0,Another,1,1,No
+1.0,24500.0,12.0,28.0,male,Higher education,Cell phones,1,1,26000.0,Unmarried,0,1,No
+6.0,21000.0,5.0,32.0,male,Secondary education,Furniture,1,2,41000.0,Married,1,0,No
+9.0,41500.0,15.0,26.0,male,Secondary education,Windows & Doors,1,2,16000.0,Another,3,1,No
+3.0,16500.0,8.0,65.0,male,Secondary special education,Household appliances,1,2,16000.0,Another,1,1,No
+12.0,10500.0,12.0,35.0,female,Secondary special education,Cell phones,0,2,28000.0,Another,0,1,Yes
+8.0,48000.0,6.0,61.0,male,Higher education,Construction Materials,0,2,22000.0,Another,0,1,No
+11.0,14000.0,12.0,29.0,female,Secondary education,Computers,1,1,46000.0,Another,0,0,No
+4.0,24000.0,10.0,24.0,female,Secondary special education,Computers,0,2,26000.0,Another,2,1,No
+10.0,14000.0,4.0,40.0,female,Incomplete secondary education,Audio & Video,1,2,16000.0,Married,1,0,No
+11.0,27500.0,12.0,31.0,female,Secondary special education,Cell phones,1,2,41000.0,Another,4,0,No
+7.0,25000.0,4.0,22.0,female,Higher education,Medical services,1,2,31000.0,Another,0,0,No
+11.0,44500.0,12.0,20.0,male,Higher education,Household appliances,0,0,41000.0,Another,2,0,No
+2.0,22500.0,12.0,26.0,female,Secondary special education,Cell phones,0,2,22000.0,Another,0,1,Yes
+1.0,8500.0,6.0,28.0,male,Secondary special education,Cell phones,0,2,19000.0,Unmarried,3,0,Yes
+4.0,39000.0,12.0,35.0,male,Higher education,Furniture,1,2,41000.0,Married,0,1,No
+11.0,8500.0,6.0,31.0,male,Secondary education,Cell phones,1,2,26000.0,Another,0,1,Yes
+7.0,37000.0,12.0,34.0,male,Higher education,Fishing and hunting supplies,1,2,31000.0,Another,0,0,No
+3.0,16000.0,15.0,38.0,female,Higher education,Auto,1,2,51000.0,Another,0,0,No
+11.0,18000.0,10.0,33.0,female,Secondary special education,Furniture,1,2,36000.0,Married,1,1,No
